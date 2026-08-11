@@ -1,18 +1,10 @@
 import csv
 import os
 from datetime import datetime
+from pathlib import Path
 
 
 class SchemaGenerator:
-
-    TYPE_PRIORITY = {
-        "BOOLEAN": 1,
-        "INTEGER": 2,
-        "NUMERIC": 3,
-        "TIMESTAMP": 4,
-        "TEXT": 5
-    }
-
     def __init__(self):
         pass
 
@@ -77,8 +69,20 @@ class SchemaGenerator:
             return "TEXT"
 
         try:
-            int(value)
-            return "INTEGER"
+            integer_value = int(value)
+
+            INTEGER_MIN = -(2 ** 31)
+            INTEGER_MAX = (2 ** 31) - 1
+            BIGINT_MIN = -(2 ** 63)
+            BIGINT_MAX = (2 ** 63) - 1
+
+            if INTEGER_MIN <= integer_value <= INTEGER_MAX:
+                return "INTEGER"
+
+            if BIGINT_MIN <= integer_value <= BIGINT_MAX:
+                return "BIGINT"
+
+            return "NUMERIC"
         except ValueError:
             pass
 
@@ -91,6 +95,16 @@ class SchemaGenerator:
         return "TEXT"
 
     def __infer_columns(self, file_path):
+        text_columns = {
+            "cpf"
+        }
+
+        numeric_priority = {
+            "INTEGER": 1,
+            "BIGINT": 2,
+            "NUMERIC": 3,
+        }
+
         with open(
             file_path,
             "r",
@@ -113,12 +127,16 @@ class SchemaGenerator:
 
             for row in reader:
                 for header in headers:
-                    value = row.get(header)
-
-                    if value is None or not value.strip():
+                    if header.lower() in text_columns:
+                        column_types[header] = "TEXT"
                         continue
 
-                    detected_type = self.__detect_type(value)
+                    row_value = row.get(header)
+
+                    if row_value is None or not row_value.strip():
+                        continue
+
+                    detected_type = self.__detect_type(row_value)
                     current_type = column_types[header]
 
                     if current_type is None:
@@ -135,18 +153,18 @@ class SchemaGenerator:
                         column_types[header] = "TEXT"
                         continue
 
-                    if {
-                        current_type,
-                        detected_type
-                    } <= {"INTEGER", "NUMERIC"}:
-                        column_types[header] = "NUMERIC"
+                    if (
+                        current_type in numeric_priority.keys()
+                        and detected_type in numeric_priority.keys()
+                    ):
+                        if (
+                            numeric_priority[detected_type]
+                            > numeric_priority[current_type]
+                        ):
+                            column_types[header] = detected_type
                         continue
 
-                    if (
-                        self.TYPE_PRIORITY[detected_type]
-                        > self.TYPE_PRIORITY[current_type]
-                    ):
-                        column_types[header] = detected_type
+                    column_types[header] = "TEXT"
 
             for header in headers:
                 if column_types[header] is None:
@@ -166,11 +184,20 @@ class SchemaGenerator:
         ]
 
         return (
-            f'CREATE TABLE "{table_name}" (\n'
+            f'CREATE TABLE IF NOT EXISTS "{table_name}" (\n'
             + ",\n".join(column_definitions)
             + "\n);"
         )
 
 
-schema_generator = SchemaGenerator()
-schema_generator.generate_schema("Caminho/diretorio_csv")
+def main():
+    project_root = Path(__file__).resolve().parent.parent
+    csv_directory = project_root / "data" / "1-lh_nautical_csv"
+    output_file = project_root / "schema.sql"
+
+    SchemaGenerator().generate_schema(csv_directory, output_file)
+    print(f"Schema gerado em: {output_file}")
+
+
+if __name__ == "__main__":
+    main()
