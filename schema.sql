@@ -1,4 +1,4 @@
-CREATE TABLE "addresses" (
+CREATE TABLE IF NOT EXISTS "addresses" (
     "id" INTEGER,
     "customer_id" INTEGER,
     "address_type" TEXT,
@@ -13,13 +13,13 @@ CREATE TABLE "addresses" (
     "is_primary" BOOLEAN
 );
 
-CREATE TABLE "attributes" (
+CREATE TABLE IF NOT EXISTS "attributes" (
     "id" INTEGER,
     "name" TEXT,
     "data_type" TEXT
 );
 
-CREATE TABLE "brands" (
+CREATE TABLE IF NOT EXISTS "brands" (
     "id" INTEGER,
     "name" TEXT,
     "country" TEXT,
@@ -28,7 +28,7 @@ CREATE TABLE "brands" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "categories" (
+CREATE TABLE IF NOT EXISTS "categories" (
     "id" INTEGER,
     "name" TEXT,
     "slug" TEXT,
@@ -38,7 +38,7 @@ CREATE TABLE "categories" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "customers" (
+CREATE TABLE IF NOT EXISTS "customers" (
     "id" INTEGER,
     "person_type" TEXT,
     "legal_name" TEXT,
@@ -52,10 +52,10 @@ CREATE TABLE "customers" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "employees" (
+CREATE TABLE IF NOT EXISTS "employees" (
     "id" INTEGER,
     "full_name" TEXT,
-    "cpf" INTEGER,
+    "cpf" TEXT,
     "email" TEXT,
     "role" TEXT,
     "primary_location_id" INTEGER,
@@ -66,7 +66,7 @@ CREATE TABLE "employees" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "fiscal_invoices" (
+CREATE TABLE IF NOT EXISTS "fiscal_invoices" (
     "id" INTEGER,
     "order_id" INTEGER,
     "nfe_number" TEXT,
@@ -80,14 +80,14 @@ CREATE TABLE "fiscal_invoices" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "goods_receipt_items" (
+CREATE TABLE IF NOT EXISTS "goods_receipt_items" (
     "id" INTEGER,
     "goods_receipt_id" INTEGER,
     "purchase_order_item_id" INTEGER,
     "quantity_received" NUMERIC
 );
 
-CREATE TABLE "goods_receipts" (
+CREATE TABLE IF NOT EXISTS "goods_receipts" (
     "id" INTEGER,
     "purchase_order_id" INTEGER,
     "received_by_employee_id" INTEGER,
@@ -96,7 +96,7 @@ CREATE TABLE "goods_receipts" (
     "created_at" TIMESTAMP
 );
 
-CREATE TABLE "locations" (
+CREATE TABLE IF NOT EXISTS "locations" (
     "id" INTEGER,
     "name" TEXT,
     "location_type" TEXT,
@@ -113,7 +113,7 @@ CREATE TABLE "locations" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "order_items" (
+CREATE TABLE IF NOT EXISTS "order_items" (
     "id" INTEGER,
     "order_id" INTEGER,
     "product_variant_id" INTEGER,
@@ -124,7 +124,7 @@ CREATE TABLE "order_items" (
     "line_total" NUMERIC
 );
 
-CREATE TABLE "orders" (
+CREATE TABLE IF NOT EXISTS "orders" (
     "id" INTEGER,
     "order_number" TEXT,
     "channel" TEXT,
@@ -140,7 +140,7 @@ CREATE TABLE "orders" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "payments" (
+CREATE TABLE IF NOT EXISTS "payments" (
     "id" INTEGER,
     "order_id" INTEGER,
     "method" TEXT,
@@ -152,7 +152,7 @@ CREATE TABLE "payments" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "product_suppliers" (
+CREATE TABLE IF NOT EXISTS "product_suppliers" (
     "product_variant_id" INTEGER,
     "supplier_id" INTEGER,
     "supplier_sku" TEXT,
@@ -163,7 +163,7 @@ CREATE TABLE "product_suppliers" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "product_variants" (
+CREATE TABLE IF NOT EXISTS "product_variants" (
     "id" INTEGER,
     "product_id" INTEGER,
     "sku" TEXT,
@@ -178,7 +178,7 @@ CREATE TABLE "product_variants" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "products" (
+CREATE TABLE IF NOT EXISTS "products" (
     "id" INTEGER,
     "name" TEXT,
     "description" TEXT,
@@ -191,7 +191,7 @@ CREATE TABLE "products" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "purchase_order_items" (
+CREATE TABLE IF NOT EXISTS "purchase_order_items" (
     "id" INTEGER,
     "purchase_order_id" INTEGER,
     "product_variant_id" INTEGER,
@@ -200,7 +200,7 @@ CREATE TABLE "purchase_order_items" (
     "line_total" NUMERIC
 );
 
-CREATE TABLE "purchase_orders" (
+CREATE TABLE IF NOT EXISTS "purchase_orders" (
     "id" INTEGER,
     "po_number" TEXT,
     "supplier_id" INTEGER,
@@ -216,7 +216,7 @@ CREATE TABLE "purchase_orders" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "return_items" (
+CREATE TABLE IF NOT EXISTS "return_items" (
     "id" INTEGER,
     "return_id" INTEGER,
     "order_item_id" INTEGER,
@@ -226,7 +226,7 @@ CREATE TABLE "return_items" (
     "unit_refund_amount" NUMERIC
 );
 
-CREATE TABLE "returns" (
+CREATE TABLE IF NOT EXISTS "returns" (
     "id" INTEGER,
     "return_number" TEXT,
     "order_id" INTEGER,
@@ -239,7 +239,7 @@ CREATE TABLE "returns" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "stock_levels" (
+CREATE TABLE IF NOT EXISTS "stock_levels" (
     "product_variant_id" INTEGER,
     "location_id" INTEGER,
     "quantity_on_hand" NUMERIC,
@@ -247,7 +247,7 @@ CREATE TABLE "stock_levels" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "stock_movements" (
+CREATE TABLE IF NOT EXISTS "stock_movements" (
     "id" INTEGER,
     "product_variant_id" INTEGER,
     "location_id" INTEGER,
@@ -261,7 +261,7 @@ CREATE TABLE "stock_movements" (
     "created_at" TIMESTAMP
 );
 
-CREATE TABLE "suppliers" (
+CREATE TABLE IF NOT EXISTS "suppliers" (
     "id" INTEGER,
     "legal_name" TEXT,
     "trade_name" TEXT,
@@ -276,7 +276,7 @@ CREATE TABLE "suppliers" (
     "updated_at" TIMESTAMP
 );
 
-CREATE TABLE "variant_attribute_values" (
+CREATE TABLE IF NOT EXISTS "variant_attribute_values" (
     "product_variant_id" INTEGER,
     "attribute_id" INTEGER,
     "value" TEXT
