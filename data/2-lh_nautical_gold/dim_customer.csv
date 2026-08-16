@@ -1,0 +1,2001 @@
+customer_id,person_type,legal_name,trade_name,tax_id,state_registration,email,phone,is_active
+1,PJ,Alves e Filhos S.A.,da Cruz,11713629000103,321819600,alves.e.filhos.s.a.1@example.com,5533989083863,True
+2,PF,Lara Abreu,,72890168662,,lara.abreu.2@example.com,55065942351161,False
+3,PF,Dr. João Aparecida,,21754824560,,dr.jo.o.aparecida.3@example.com,55081961849593,True
+4,PJ,Aparecida e Filhos Ltda,Vargas da Rocha S/A,61265639000193,316475255,aparecida.e.filhos.ltda.4@example.com,5541992832764,True
+5,PF,Hellena Rodrigues,,93400262684,,hellena.rodrigues.5@example.com,5503905641395,True
+6,PF,Theo Gonçalves,,429721404,,theo.gon.alves.6@example.com,55024923884969,True
+7,PF,Maria Cecília Câmara,,99767757171,,maria.cec.lia.c.mara.7@example.com,55087910122691,True
+8,PF,Maria Helena Peixoto,,15181443060,,maria.helena.peixoto.8@example.com,55084980184514,True
+9,PF,Eduarda Marques,,42188462009,,eduarda.marques.9@example.com,5548928148932,True
+10,PF,Sr. Vitor Hugo Vasconcelos,,31005262446,,sr.vitor.hugo.vasconcelos.10@example.com,5509957015430,True
+11,PJ,Nunes Barros S/A Ltda,Azevedo,30591520000187,822782489,nunes.barros.s.a.ltda.11@example.com,5538934657871,True
+12,PF,Henry Gabriel Azevedo,,48171305636,,henry.gabriel.azevedo.12@example.com,5509983930103,True
+13,PJ,Andrade Ltda.,,95941359000170,183473829,andrade.ltda.13@example.com,5573976311656,True
+14,PJ,Martins ME,,23062378000115,ISENTO,martins.me.14@example.com,5572962473178,True
+15,PJ,Aragão e Filhos Ltda,Borges S.A.,3855975000190,267736026,arag.o.e.filhos.ltda.15@example.com,5564974687234,True
+16,PF,Benjamin Pacheco,,21166696189,,benjamin.pacheco.16@example.com,5505900978820,True
+17,PJ,Cirino S/A S.A.,Rocha S.A.,56132960000160,619399091,cirino.s.a.s.a.17@example.com,5599985435346,True
+18,PJ,Rios Ramos Ltda.,Dias,21989622000164,107991183,rios.ramos.ltda.18@example.com,5542951354278,True
+19,PF,Sra. Vitória Albuquerque,,2524336107,,sra.vit.ria.albuquerque.19@example.com,5541924118244,True
+20,PJ,Silva Fernandes S.A.,Montenegro,88142597000150,740164005,silva.fernandes.s.a.20@example.com,55042978680112,True
+21,PF,Ana Carolina Freitas,,44728487164,,ana.carolina.freitas.21@example.com,5582962045053,True
+22,PF,Isadora Rios,,98235269740,,isadora.rios.22@example.com,5558969232260,True
+23,PF,Lucas Gabriel Viana,,69638060638,,lucas.gabriel.viana.23@example.com,5534921607337,True
+24,PF,Dr. Ian Câmara,,55512236636,,dr.ian.c.mara.24@example.com,5536954145868,True
+25,PF,Sr. Danilo da Luz,,98582268106,,sr.danilo.da.luz.25@example.com,55094901965569,True
+26,PJ,Gomes - EI EIRELI,da Cunha Aparecida e Filhos,91478345000100,608835615,gomes.ei.eireli.26@example.com,5551948465648,True
+27,PF,Gael Leão,,99077203800,,gael.le.o.27@example.com,5529994680443,True
+28,PJ,Viana ME,,4761354000100,995777387,viana.me.28@example.com,55014989513433,True
+29,PJ,Alves Aparecida S.A.,Pimenta,76540303000169,176936763,alves.aparecida.s.a.29@example.com,55001963287083,True
+30,PF,Rafael Carvalho,,98403535198,,rafael.carvalho.30@example.com,55088995798687,True
+31,PJ,Souza Melo - ME,,20167512000154,434873471,souza.melo.me.31@example.com,5534955812236,False
+32,PJ,Santos Cunha S/A S.A.,Jesus,60134360000108,587603669,santos.cunha.s.a.s.a.32@example.com,5596970546688,True
+33,PJ,Mendonça Câmara Ltda.,Mendonça,26497722000197,065627298,mendon.a.c.mara.ltda.33@example.com,5569990162720,True
+34,PJ,Garcia ME,Cunha,12720833000106,755646417,garcia.me.34@example.com,5580953100330,True
+35,PJ,da Costa Cardoso - ME,,89402136000131,193745299,da.costa.cardoso.me.35@example.com,5524919049663,True
+36,PJ,Pastor e Filhos S.A.,Caldeira Sampaio Ltda.,80054696000178,919058651,pastor.e.filhos.s.a.36@example.com,5550967165726,True
+37,PF,Vicente Rezende,,77164512949,,vicente.rezende.37@example.com,5598977694531,True
+38,PJ,Machado ME,,73208006000122,379965075,machado.me.38@example.com,55073954549480,True
+39,PJ,Barros da Costa e Filhos S.A.,Mendonça,53669193000134,837770143,barros.da.costa.e.filhos.s.a.39@example.com,5534995788568,True
+40,PF,Dr. Rafael da Mata,,26739473889,,dr.rafael.da.mata.40@example.com,5543913518233,True
+41,PF,Sra. Kamilly Silveira,,63579866311,,sra.kamilly.silveira.41@example.com,5589941343524,True
+42,PF,Vitor Cardoso,,48553909689,,vitor.cardoso.42@example.com,5500984271094,True
+43,PJ,Mendes S.A.,Fernandes,60666029000139,204711671,mendes.s.a.43@example.com,5502929413186,True
+44,PJ,Vasconcelos Moreira - ME,Macedo,65657070000162,496499091,vasconcelos.moreira.me.44@example.com,5534912328120,True
+45,PF,Milena Sales,,10937233943,,milena.sales.45@example.com,5574903447134,True
+46,PF,Fernanda Lima,,50760729026,,fernanda.lima.46@example.com,5583924210249,True
+47,PJ,Macedo ME,Martins e Filhos,73736641000182,464887719,macedo.me.47@example.com,5565994013990,True
+48,PF,Juliana Oliveira,,37888454739,,juliana.oliveira.48@example.com,5527987429671,True
+49,PJ,Ferreira Ltda,,16325767000120,655125674,ferreira.ltda.49@example.com,5580971545168,True
+50,PJ,Ribeiro - EI Ltda,,19022427000119,760385977,ribeiro.ei.ltda.50@example.com,5534982477109,True
+51,PF,Emanuel das Neves,,6465786931,,emanuel.das.neves.51@example.com,5508961317127,True
+52,PJ,TBD,Leão,78182247000163,773782639,moraes.eireli.52@example.com,5521946584044,True
+53,PF,Rebeca Cassiano,,49528407862,,rebeca.cassiano.53@example.com,55087955886753,True
+54,PF,Srta. Maria Isis da Conceição,,97604667830,,srta.maria.isis.da.concei.o.54@example.com,5505976627028,True
+55,PF,Luísa Brito,,78656050052,ISENTO,lu.sa.brito.55@example.com,55018970262174,True
+56,PF,Dr. Bruno Farias,,22194196226,,dr.bruno.farias.56@example.com,5565978091343,True
+57,PF,Srta. Maya Brito,,92764905742,,srta.maya.brito.57@example.com,5572940050455,True
+58,PF,Clara da Cruz,,10787972428,,clara.da.cruz.58@example.com,5569922219693,True
+59,PF,Cecília da Conceição,,35703947359,,cec.lia.da.concei.o.59@example.com,55047940748217,True
+60,PJ,Pastor ME,Porto,13299018000188,647436713,pastor.me.60@example.com,5595994406409,True
+61,PF,Ana Julia Pereira,,59376607066,,ana.julia.pereira.61@example.com,55043995339421,True
+62,PF,Ana Cecília das Neves,,9300997530,0,ana.cec.lia.das.neves.62@example.com,55009952145623,True
+63,PJ,Viana Nogueira Ltda.,,42242226000149,884247451,viana.nogueira.ltda.63@example.com,55012936851604,True
+64,PJ,Marques Ltda.,Pacheco,82843952000131,651370985,marques.ltda.64@example.com,5531974612004,True
+65,PF,Bruna Brito,,64352107999,,bruna.brito.65@example.com,5582967586926,True
+66,PF,Beatriz Mendonça,,50569940222,,beatriz.mendon.a.66@example.com,5564905377351,False
+67,PF,Maria Eduarda Nogueira,,41518438415,,maria.eduarda.nogueira.67@example.com,5506943171390,True
+68,PF,Lucas Gabriel da Cruz,,15986604628,,lucas.gabriel.da.cruz.68@example.com,55093918393352,True
+69,PF,Agatha da Mota,,14754808061,,agatha.da.mota.69@example.com,55028942102053,True
+70,PJ,Almeida Ltda,da Luz Aragão S.A.,3571767000169,681177589,almeida.ltda.70@example.com,5578939084700,True
+71,PF,Maria Liz Lima,,85708243945,,maria.liz.lima.71@example.com,5577911592124,False
+72,PJ,Garcia Ltda,Marques,55180747000160,896118367,garcia.ltda.72@example.com,5565976615654,True
+73,PF,Sr. Renan Azevedo,,14069097856,,sr.renan.azevedo.73@example.com,5511961528098,True
+74,PJ,Rios S.A.,Jesus Ltda.,73236180000189,604945198,rios.s.a.74@example.com,5527931585149,True
+75,PJ,Lima Novais - EI EIRELI,Pereira e Filhos,71828121000174,402445502,lima.novais.ei.eireli.75@example.com,55096912018366,True
+76,PF,Manuela Castro,,37997684832,,manuela.castro.76@example.com,5545999102290,True
+77,PF,Anna Liz da Mata,,54768640834,,anna.liz.da.mata.77@example.com,55067997643815,True
+78,PF,Brenda da Paz,,50346840716,,brenda.da.paz.78@example.com,5578940369003,False
+79,PJ,Cunha EIRELI,Teixeira da Cunha Ltda.,43256953000128,510762268,cunha.eireli.79@example.com,5588951606071,True
+80,PF,Dr. Nathan Santos,,22085644562,,dr.nathan.santos.80@example.com,5541960529751,True
+81,PF,Bianca da Cruz,,37192356530,,bianca.da.cruz.81@example.com,5596981645352,True
+82,PF,Thomas Porto,,72009558928,,thomas.porto.82@example.com,5588935523124,True
+83,PF,Erick Pereira,,72551787157,,erick.pereira.83@example.com,55012977997995,True
+84,PF,Luara Cassiano,,65486237545,,luara.cassiano.84@example.com,55017974490581,True
+85,PJ,Martins ME,Andrade,26127899000100,054119986,martins.me.85@example.com,55098907935978,True
+86,PJ,Araújo Machado S/A EIRELI,Silva,21783172000159,182037788,ara.jo.machado.s.a.eireli.86@example.com,5525954665905,False
+87,PJ,Farias S/A S.A.,,46391792000173,864492519,farias.s.a.s.a.87@example.com,55054962914865,True
+88,PF,Vinicius Borges,,57654529490,,vinicius.borges.88@example.com,5585905423573,True
+89,PJ,Carvalho Cassiano S/A EIRELI,,33944417000161,418880592,carvalho.cassiano.s.a.eireli.89@example.com,5562922927065,False
+90,PJ,Macedo Pimenta Ltda.,da Conceição,82213187000176,834735977,macedo.pimenta.ltda.90@example.com,5568986239240,True
+91,PF,Rafaela Freitas,,29834420390,,rafaela.freitas.91@example.com,5518914124782,True
+92,PF,Ayla Câmara,,88622294021,,ayla.c.mara.92@example.com,55050960685361,True
+93,PF,Sr. Arthur Dias,,91937535940,,sr.arthur.dias.93@example.com,5552920472779,True
+94,PF,Bruno Almeida,,55007359343,0,bruno.almeida.94@example.com,5532989861434,True
+95,PF,Benicio da Costa,,19408955617,,benicio.da.costa.95@example.com,5597911798089,True
+96,PF,Diego da Rocha,,86868027451,,diego.da.rocha.96@example.com,5509953962185,True
+97,PF,Vinicius Nogueira,,98118375110,,vinicius.nogueira.97@example.com,5588906706540,True
+98,PF,Sr. Luiz Felipe da Costa,,32622897103,,sr.luiz.felipe.da.costa.98@example.com,5595920585277,True
+99,PF,Emilly Carvalho,,76534501139,,emilly.carvalho.99@example.com,5570943030548,True
+100,PF,Ísis Melo,,73061489665,,sis.melo.100@example.com,5503945054156,True
+101,PF,Maysa Gomes,,6743520098,,maysa.gomes.101@example.com,5527975841616,True
+102,PF,Emilly Nogueira,,43677417538,,emilly.nogueira.102@example.com,5551915447962,True
+103,PF,Sra. Marcela Machado,,33783685940,,sra.marcela.machado.103@example.com,5559964016582,True
+104,PJ,Casa Grande - EI Ltda,Andrade,93877006000122,213556909,casa.grande.ei.ltda.104@example.com,55075957192856,True
+105,PF,Dr. Josué Camargo,,44792697034,,dr.josu.camargo.105@example.com,5527986814473,True
+106,PF,Laura Sales,,84729453247,,laura.sales.106@example.com,55031921727155,True
+107,PJ,Novaes - EI S.A.,da Rosa,7475766000171,225831323,novaes.ei.s.a.107@example.com,55005989578291,True
+108,PF,Leonardo Gonçalves,,9928468036,,leonardo.gon.alves.108@example.com,55086969125177,True
+109,PJ,Cardoso ME,Vargas Cardoso - ME,63659351000129,801824225,cardoso.me.109@example.com,5558941438424,True
+110,PF,Yasmin Borges,,88171782337,,yasmin.borges.110@example.com,5529992299590,True
+111,PF,Bruno Aparecida,,15722301779,,bruno.aparecida.111@example.com,5543996907844,True
+112,PJ,da Cruz ME,,70067688000102,647102767,da.cruz.me.112@example.com,55035992555625,True
+113,PJ,Dias S.A.,Campos,30019420000180,473210469,dias.s.a.113@example.com,5532959532787,True
+114,PJ,das Neves S.A.,Almeida,79525501000141,168733950,das.neves.s.a.114@example.com,5547997480162,True
+115,PF,Luiz Otávio Teixeira,,20237209152,,luiz.ot.vio.teixeira.115@example.com,5550960983584,True
+116,PF,Matheus Montenegro,,32960257154,,matheus.montenegro.116@example.com,55084999121655,True
+117,PF,Maria Clara Sá,,34528008300,,maria.clara.s.117@example.com,55039986800025,True
+118,PJ,Moreira Ltda,,22310709000126,729825952,moreira.ltda.118@example.com,5594995888794,True
+119,PF,Allana Freitas,,75900556620,,allana.freitas.119@example.com,5516994097499,True
+120,PJ,Silveira Aragão - EI S.A.,,5394087000142,728962309,silveira.arag.o.ei.s.a.120@example.com,5530975626368,True
+121,PJ,Sousa EIRELI,,87941370000101,028385786,sousa.eireli.121@example.com,5527985854973,True
+122,PJ,da Mota Novais Ltda.,da Rosa Vargas Ltda.,54654627000195,375758441,da.mota.novais.ltda.122@example.com,5586965240415,True
+123,PJ,Rezende Ltda,Souza,10623791000160,733848421,rezende.ltda.123@example.com,5593930833016,True
+124,PJ,Silva EIRELI,,54402157000172,712082677,silva.eireli.124@example.com,5545940193802,True
+125,PF,Emanuelly Andrade,,6337074572,,emanuelly.andrade.125@example.com,5572940049915,True
+126,PF,Rafael Ramos,,63221712910,,rafael.ramos.126@example.com,5587928743152,True
+127,PF,Sra. Jade Silva,,34813144691,,sra.jade.silva.127@example.com,55005949329668,True
+128,PJ,Borges ME,,21461476000108,612275304,borges.me.128@example.com,5537945499045,True
+129,PF,Srta. Ana Liz Rios,,69484055095,,srta.ana.liz.rios.129@example.com,5574926841459,False
+130,PF,Henry Carvalho,,17900687114,,henry.carvalho.130@example.com,55027995687833,True
+131,PF,Anna Liz Moura,,51574058800,,anna.liz.moura.131@example.com,55085919108839,True
+132,PJ,Cavalcante Duarte - EI S.A.,Camargo,33016661000164,397187072,cavalcante.duarte.ei.s.a.132@example.com,5567990874064,True
+133,PJ,Souza S.A.,,41779740000155,910651801,souza.s.a.133@example.com,55004962265676,True
+134,PF,Anna Liz Rodrigues,,52028241810,,anna.liz.rodrigues.134@example.com,5525912868230,True
+135,PJ,da Rosa - ME,,95907463000148,868633752,da.rosa.me.135@example.com,5531906903311,True
+136,PJ,Machado - EI ME,da Cruz e Filhos,82962288000140,067383028,machado.ei.me.136@example.com,5539959953428,True
+137,PF,Noah da Rosa,,93035945926,,noah.da.rosa.137@example.com,5508992687056,True
+138,PJ,Sampaio Ltda,Jesus,43899284000102,246287334,sampaio.ltda.138@example.com,55070986688263,True
+139,PJ,Costela EIRELI,Ramos,77829007000145,175183046,costela.eireli.139@example.com,5590913983735,True
+140,PF,Anthony Gabriel Cunha,,70571003885,,anthony.gabriel.cunha.140@example.com,5517939363854,True
+141,PJ,Martins S.A.,das Neves,96890416000100,458771753,martins.s.a.141@example.com,5556909320489,True
+142,PF,Maria Vitória da Rocha,,57765528343,,maria.vit.ria.da.rocha.142@example.com,55035936937854,True
+143,PF,Rebeca Marques,,94771752850,,rebeca.marques.143@example.com,55052928728080,False
+144,PF,Benicio Teixeira,,93462381270,,benicio.teixeira.144@example.com,5562931203875,True
+145,PF,Rodrigo Ribeiro,,21071709402,,rodrigo.ribeiro.145@example.com,55000988600848,True
+146,PJ,Almeida ME,Cavalcanti,83690942000176,118233984,almeida.me.146@example.com,5546915679334,True
+147,PJ,Rezende e Filhos ME,Borges - ME,80896207000125,668700217,rezende.e.filhos.me.147@example.com,5559918033974,True
+148,PF,Breno Rodrigues,,23338267541,,breno.rodrigues.148@example.com,5589902503926,True
+149,PF,Kaique Castro,,3714302670,,kaique.castro.149@example.com,5539968562185,True
+150,PJ,Brito - ME,Barbosa Fernandes - EI,75751477000108,996504773,brito.me.150@example.com,5586962961943,True
+151,PF,Srta. Antonella da Mata,,68712313823,,srta.antonella.da.mata.151@example.com,55062965511047,True
+152,PJ,Teixeira ME,,89017732000106,412126788,teixeira.me.152@example.com,5561901581995,True
+153,PJ,Albuquerque S.A.,,91387417000104,466183982,albuquerque.s.a.153@example.com,5522944472126,True
+154,PF,Otto da Rosa,,67707129628,,otto.da.rosa.154@example.com,55015943799371,True
+155,PF,Kevin Abreu,,50883486733,,kevin.abreu.155@example.com,5559965756924,True
+156,PJ,Pereira EIRELI,Mendes Dias S.A.,13180233000165,654793564,pereira.eireli.156@example.com,5551993982807,True
+157,PF,Srta. Maysa da Rocha,,60371181593,,srta.maysa.da.rocha.157@example.com,5567924342661,True
+158,PF,Pietra Pacheco,,23905549468,,pietra.pacheco.158@example.com,5588968058911,False
+159,PJ,Ribeiro Rios Ltda.,Ramos Pimenta S/A,81638938000133,965610143,ribeiro.rios.ltda.159@example.com,5588999375679,True
+160,PF,Dra. Clarice Ferreira,,68446549280,,dra.clarice.ferreira.160@example.com,5571946112545,True
+161,PF,Gabrielly Moreira,,91051645166,,gabrielly.moreira.161@example.com,55057917751401,True
+162,PJ,Fernandes e Filhos S.A.,Rocha S.A.,45028000000138,382825867,fernandes.e.filhos.s.a.162@example.com,,False
+163,PF,Maria Julia Abreu,,10290643341,,maria.julia.abreu.163@example.com,5534919182553,True
+164,PJ,Camargo EIRELI,Rios,26163406000189,785969691,camargo.eireli.164example.com,5557992499125,True
+165,PJ,da Costa Ltda.,,66032820000173,125286692,da.costa.ltda.165@example.com,5566927828274,True
+166,PF,Francisco Dias,,32676217712,,francisco.dias.166@example.com,55090950723688,True
+167,PJ,Jesus EIRELI,Leão,49896342000120,772190340,jesus.eireli.167@example.com,5538942797881,True
+168,PF,Bruna da Mata,,22225740720,,bruna.da.mata.168@example.com,5558907836134,True
+169,PF,Rael da Luz,,57413929465,,rael.da.luz.169@example.com,5517913395962,True
+170,PF,Cecilia Viana,,69764914063,,cecilia.viana.170@example.com,5530995849825,True
+171,PJ,da Rocha Ltda,Moraes,86007166000155,126042232,da.rocha.ltda.171@example.com,5536972946671,True
+172,PF,Ayla Guerra,,98810362403,,ayla.guerra.172@example.com,5545977590175,True
+173,PJ,Vieira - EI ME,Cunha,55557124000164,637454589,vieira.ei.me.173@example.com,55097950017012,True
+174,PF,Mirella Abreu,,60203640039,,mirella.abreu.174@example.com,5532942415415,False
+175,PF,Eloah Aragão,,44861732107,,eloah.arag.o.175@example.com,5543961103712,True
+176,PJ,Moreira Rodrigues - ME,Albuquerque e Filhos,92924086000167,516271361,moreira.rodrigues.me.176@example.com,5515954262218,True
+177,PF,Alexia Pimenta,,10963373714,,alexia.pimenta.177@example.com,55075932697311,True
+178,PF,Davi Pastor,,83309924203,,davi.pastor.178@example.com,5556952341389,True
+179,PF,Larissa Vasconcelos,,34622825228,,larissa.vasconcelos.179@example.com,5543989836403,False
+180,PJ,Gomes S.A.,da Costa - ME,61124641000142,918055269,gomes.s.a.180@example.com,5558927109104,True
+181,PJ,Aparecida Araújo - ME,Pires,27698636000105,866618892,aparecida.ara.jo.me.181@example.com,5514918328569,True
+182,PJ,das Neves e Filhos S.A.,,25028886000102,630316179,das.neves.e.filhos.s.a.182@example.com,5504921020275,True
+183,PJ,Cavalcante EIRELI,Cardoso,4677133000158,410564814,cavalcante.eireli.183@example.com,5517978507925,True
+184,PF,José Miguel Vargas,,52751394973,,jos.miguel.vargas.184@example.com,5591938000307,True
+185,PF,Dr. Dom Cavalcanti,,23714721746,,dr.dom.cavalcanti.185@example.com,5586935365419,True
+186,PF,Sr. Theodoro Rocha,,70466563043,,sr.theodoro.rocha.186@example.com,5523980617445,True
+187,PJ,Novaes - ME,,84101313000126,053494937,novaes.me.187@example.com,5597938320603,True
+188,PJ,Porto ME,Farias S/A,62395232000143,641383670,porto.me.188@example.com,55041903865719,True
+189,PF,Thiago Carvalho,,40320829286,,thiago.carvalho.189@example.com,5519990623445,True
+190,PJ,Sampaio ME,Dias,49416935000142,,sampaio.me.190@example.com,5527975618537,True
+191,PJ,Martins Ltda,Campos,91684833000174,124903521,martins.ltda.191@example.com,5556980442067,True
+192,PF,IsadoraB rito,,94259494252,,isadora.brito.192@example.com,55012910032365,False
+193,PF,Antonella Pacheco,,34460263122,,antonella.pacheco.193@example.com,5541901372151,True
+194,PJ,Martins S/A EIRELI,Oliveira Lopes e Filhos,85546806000132,670662532,martins.s.a.eireli.194@example.com,5547920999347,True
+195,PF,Pietra Araújo,,87679194807,,pietra.ara.jo.195@example.com,5546926383806,True
+196,PF,Sra. Pietra Nogueira,,55560511943,,sra.pietra.nogueira.196@example.com,55059985642059,True
+197,PF,Arthur Vasconcelos,,2079202499,,arthur.vasconcelos.197@example.com,5507985932133,True
+198,PF,Vitor Vieira,,99241947306,,vitor.vieira.198@example.com,5539965223955,True
+199,PJ,Santos e Filhos ME,,86741203000154,599293784,santos.e.filhos.me.199@example.com,55070910393087,True
+200,PJ,Farias - EI S.A.,Cardoso Fernandes e Filhos,3262219000157,250029218,farias.ei.s.a.200@example.com,5515969154522,True
+201,PF,Sra. Raquel Rezende,,89891144380,,sra.raquel.rezende.201@example.com,5528995392644,True
+202,PF,Felipe Siqueira,,44560202028,,felipe.siqueira.202@example.com,5596990295939,True
+203,PJ,Monteiro S.A.,Souza,88526250000100,135521570,monteiro.s.a.203@example.com,5533915410067,True
+204,PF,Sra. Eloah Jesus,,42949886906,,sra.eloah.jesus.204@example.com,55065986179327,True
+205,PJ,Andrade Ltda.,Dias Ltda.,79951657000194,115262181,andrade.ltda.205@example.com,5599970629620,True
+206,PJ,Farias S.A.,Jesus Sampaio - EI,96124549000167,844431069,farias.s.a.206@example.com,5572905061497,False
+207,PJ,Brito Alves S.A.,Porto da Rocha S/A,12752518000160,714677418,brito.alves.s.a.207@example.com,5525965270477,False
+208,PF,Henry Gabriel da Mata,,85378472750,,henry.gabriel.da.mata.208@example.com,5502911586938,True
+209,PF,Mathias Moreira,,44342472716,,mathias.moreira.209@example.com,5587993741608,True
+210,PF,Stella Oliveira,,86628092941,,stella.oliveira.210@example.com,5521972233206,True
+211,PF,Pedro Henrique Costa,,86040023597,,pedro.henrique.costa.211@example.com,55094951168685,True
+212,PF,Vicente Marques,,80461346001,,vicente.marques.212@example.com,5599986162299,True
+213,PF,Beatriz Caldeira,,59441073911,,beatriz.caldeira.213@example.com,5514985646799,True
+214,PJ,Andrade S.A.,da Mota Guerra S.A.,47679979000130,996065307,andrade.s.a.214@example.com,5550954447132,True
+215,PF,Pedro Miguel Vasconcelos,,60558173497,,pedro.miguel.vasconcelos.215@example.com,5546991373678,True
+216,PF,Sr. Théo Vieira,,6272051514,,sr.th.o.vieira.216@example.com,55014986289023,False
+217,PF,Benjamin da Cruz,,55746981028,,benjamin.da.cruz.217@example.com,5570953457861,True
+218,PF,Ana da Costa,,52558356763,,ana.da.costa.218@example.com,5579972798552,True
+219,PF,Caleb da Paz,,40347989551,,caleb.da.paz.219@example.com,5560929333346,True
+220,PJ,Vasconcelos e Filhos ME,Melo S.A.,64343254000195,290349446,vasconcelos.e.filhos.me.220@example.com,5557943748969,True
+221,PF,André Moraes,,44322072488,,andr.moraes.221@example.com,5589994417154,True
+222,PJ,da Mota S.A.,,26254854000198,443283096,da.mota.s.a.222@example.com,5520974466609,True
+223,PF,Dra. Esther Fernandes,,65055955970,,dra.esther.fernandes.223@example.com,5587958428241,True
+224,PF,Carolina Sousa,,93198457947,,carolina.sousa.224@example.com,5582951353465,True
+225,PJ,da Luz Ltda,Martins,76017441000168,170999173,da.luz.ltda.225@example.com,5516984602235,True
+226,PF,Natália Casa Grande,,9007315323,,nat.lia.casa.grande.226@example.com,5521975250074,True
+227,PJ,Teixeira Vasconcelos S.A.,Mendonça Viana S/A,94073637000151,296666760,teixeira.vasconcelos.s.a.227@example.com,5583950583003,True
+228,PJ,Sales Ferreira Ltda.,Caldeira Gomes - EI,61626710000116,942104478,sales.ferreira.ltda.228@example.com,5585962575326,True
+229,PF,Ian Câmara,,84616861951,,ian.c.mara.229@example.com,55030998215064,False
+230,PJ,Peixoto S/A EIRELI,Rezende S/A,40622210000136,016761847,peixoto.s.a.eireli.230@example.com,55030946184992,True
+231,PF,Bella Moraes,,28693311263,,bella.moraes.231@example.com,5514911739348,True
+232,PJ,Fogaça Santos - ME,Castro,79425993000101,087375300,foga.a.santos.me.232@example.com,5519972181143,True
+233,PF,Laís da Luz,,47313470762,,la.s.da.luz.233@example.com,55001920455611,True
+234,PF,Anthony Carvalho,,80774183411,,anthony.carvalho.234@example.com,55055979415521,True
+235,PF,Maria Liz Marques,,24213335984,,maria.liz.marques.235@example.com,5567962120216,True
+236,PF,Rafaela Nunes,,63724176937,,rafaela.nunes.236@example.com,55029965902771,True
+237,PF,Maysa Aparecida,,21624462278,,maysa.aparecida.237@example.com,5545908993588,False
+238,PJ,Lopes e Filhos EIRELI,,72585245000139,375628900,lopes.e.filhos.eireli.238@example.com,55087972175354,True
+239,PF,Thiago Câmara,,79551914120,,thiago.c.mara.239@example.com,5566931779717,True
+240,PF,Luara Campos,,1052945864,,luara.campos.240@example.com,55001966088019,True
+241,PF,Liz Moraes,,97587526501,,liz.moraes.241@example.com,5537955037589,True
+242,PF,Olívia Silva,,95685646089,,ol.via.silva.242@example.com,5571913055488,True
+243,PJ,Sampaio EIRELI,,73701491000171,102726149,sampaio.eireli.243@example.com,5531963735160,True
+244,PF,Camila Vargas,,32531815538,,camila.vargas.244@example.com,55079982708086,True
+245,PJ,Moraes ME,Sales Pacheco S.A.,37525281000106,216995866,moraes.me.245@example.com,5534965472269,True
+246,PF,Dra. Sophie da Rosa,,95240088071,,dra.sophie.da.rosa.246@example.com,5558933394522,False
+247,PF,Ágatha Sales,,93046198230,,gatha.sales.247@example.com,5515987996846,True
+248,PJ,Moreira S/A EIRELI,Garcia S.A.,69242891000199,003424420,moreira.s.a.eireli.248@example.com,5538905719838,True
+249,PF,Isabela Moraes,,31794089870,,isabela.moraes.249@example.com,5506966580043,False
+250,PF,Melina Câmara,,61066785708,,melina.c.mara.250@example.com,5598993347212,True
+251,PJ,Sousa Moraes S/A Ltda,,78230257000127,606484229,sousa.moraes.s.a.ltda.251@example.com,5505972025909,True
+252,PF,Liz Mendonça,,48142839547,,liz.mendon.a.252@example.com,5585915832818,True
+253,PF,Oliver Nogueira,,40582533805,,oliver.nogueira.253@example.com,5561953355543,True
+254,PF,Vitória Melo,,19708747327,,vit.ria.melo.254@example.com,5501957399305,False
+255,PJ,Vieira S.A.,Gomes Ltda.,59559425000188,840858877,vieira.s.a.255@example.com,5543958112880,False
+256,PF,Ana Luiza Costela,,90107877104,,ana.luiza.costela.256@example.com,1234567890,True
+257,PF,Caio Barbosa,,9950093252,,caio.barbosa.257@example.com,5524981934667,True
+258,PF,Maria Luiza Lopes,,3375698518,,maria.luiza.lopes.258@example.com,5506918091901,True
+259,PF,Sr. João Vitor Viana,,43878360320,,sr.jo.o.vitor.viana.259@example.com,5591947660728,True
+260,PF,Davi Luiz Souza,,80916882454,,davi.luiz.souza.260@example.com,5584924508821,True
+261,PF,André Oliveira,,96416425700,,andr.oliveira.261@example.com,5568981435368,True
+262,PJ,Castro Cirino S.A.,Correia,24305515000168,129087814,castro.cirino.s.a.262@example.com,5541939755231,True
+263,PJ,Pinto EIRELI,Correia Ltda.,58785345000188,775949299,pinto.eireli.263@example.com,5556920533645,True
+264,PJ,Rocha Siqueira Ltda.,,91795342000109,777547812,rocha.siqueira.ltda.264@example.com,5514928341108,True
+265,PF,Ana Pacheco,,29672468830,,ana.pacheco.265@example.com,5569930848872,True
+266,PJ,Gonçalves EIRELI,,43110977000174,394278816,gon.alves.eireli.266@example.com,5580939282722,True
+267,PF,Clara Sousa,,98291637334,,clara.sousa.267@example.com,55050937314530,True
+268,PF,Gabrielly Moreira,,29653656058,,gabrielly.moreira.268@example.com,5567970051844,True
+269,PF,Ísis Nunes,,4227749956,,sis.nunes.269@example.com,55066959184638,True
+270,PF,Maria Ferreira,,69562694496,,maria.ferreira.270@example.com,55079908272318,False
+271,PF,Lara Cunha,,82672143722,,lara.cunha.271@example.com,55022959136517,True
+272,PF,Pietra Mendes,,3443574653,,pietra.mendes.272@example.com,5592960302992,True
+273,PF,Théo Aparecida,,59137340336,,th.o.aparecida.273@example.com,5520924286990,True
+274,PJ,Barros EIRELI,Machado Pereira - ME,4293701000117,723692929,barros.eireli.274@example.com,5542957991366,True
+275,PF,Cauê Almeida,,21352921170,,cau.almeida.275@example.com,5588962912799,True
+276,PF,Vitor Montenegro,,73437266098,,vitor.montenegro.276@example.com,5517929806865,True
+277,PJ,Sampaio - EI Ltda,,8854775000136,637659916,sampaio.ei.ltda.277@example.com,55047931498643,True
+278,PF,André Oliveira,,17466959008,,andr.oliveira.278@example.com,5518906356512,True
+279,PF,Isis da Luz,,26184424076,,isis.da.luz.279@example.com,5569959463688,True
+280,PJ,Cavalcanti ME,Novais,7311415000125,874495621,cavalcanti.me.280@example.com,5572913865890,True
+281,PF,Mathias Porto,,32316205542,,mathias.porto.281@example.com,5512979611435,True
+282,PF,Arthur Miguel Silveira,,82904115536,,arthur.miguel.silveira.282@example.com,5569984902770,True
+283,PF,Valentim da Paz,,95415193006,,valentim.da.paz.283@example.com,5509988392053,True
+284,PJ,Castro S/A EIRELI,Vasconcelos,35995109000190,656693801,castro.s.a.eireli.284@example.com,5584989554393,True
+285,PF,Maria Luiza Oliveira,,9098120555,,maria.luiza.oliveira.285@example.com,5542968181845,True
+286,PJ,Moraes Ltda.,Sales,59303259000154,769735779,moraes.ltda.286@example.com,5571941633565,False
+287,PF,Zoe Albuquerque,,66706761664,,zoe.albuquerque.287@example.com,5534916518275,True
+288,PF,Sr. João Felipe Cirino,,10621111171,,sr.jo.o.felipe.cirino.288@example.com,5573933433339,True
+289,PF,Sr. Cauê Campos,,78348216367,,sr.cau.campos.289@example.com,5579908075957,True
+290,PJ,Mendonça S.A.,Teixeira Moraes Ltda.,93343403000114,639208678,mendon.a.s.a.290@example.com,5585962718750,True
+291,PF,Gustavo Henrique Garcia,,31658734106,,gustavo.henrique.garcia.291@example.com,5515959428434,True
+292,PF,Manuela Fonseca,,98338677159,,manuela.fonseca.292@example.com,55076936556472,True
+293,PF,Caroline Oliveira,,50346872405,,caroline.oliveira.293@example.com,5514938663227,True
+294,PF,Felipe Leão,,15237130208,,felipe.le.o.294@example.com,55028985744890,True
+295,PF,Beatriz Sales,,90691647526,,beatriz.sales.295@example.com,55003947175455,True
+296,PJ,Ferreira S.A.,,11242811000115,061593998,ferreira.s.a.296@example.com,55045958771694,True
+297,PJ,Pires S.A.,,26609340000108,225699611,pires.s.a.297@example.com,55053955449647,True
+298,PF,Dr. Noah Cavalcante,,25342637066,,dr.noah.cavalcante.298@example.com,55002934132611,True
+299,PJ,Melo - EI S.A.,Alves - ME,97573319000148,811492164,melo.ei.s.a.299@example.com,5534972282005,True
+300,PF,Dr. Ravi Lucca Nogueira,,77124908990,,dr.ravi.lucca.nogueira.300@example.com,5587928299796,True
+301,PF,Yasmin das Neves,,7172152107,,yasmin.das.neves.301@example.com,5578931745642,True
+302,PJ,Albuquerque ME,Moreira S.A.,1492390000127,547807740,albuquerque.me.302@example.com,5549930853686,True
+303,PJ,da Cruz Ltda,,43060549000184,266341638,da.cruz.ltda.303@example.com,5544984631224,True
+304,PF,Rafael Pinto,,2765832137,,rafael.pinto.304@example.com,55049973502080,True
+305,PF,Cauã da Paz,,91325396656,,cau.da.paz.305@example.com,5527903120735,True
+306,PF,Luana Viana,,11726851265,,luana.viana.306@example.com,55057905120461,True
+307,PF,Olivia Cirino,,82959193008,,olivia.cirino.307@example.com,5546901367303,False
+308,PF,Aylla Moreira,,80203620372,,aylla.moreira.308@example.com,5576945208814,True
+309,PF,Letícia Costa,,53134386895,,let.cia.costa.309@example.com,5503913650249,True
+310,PF,Miguel Vieira,,63629100104,,miguel.vieira.310@example.com,5500997925132,True
+311,PF,Ayla Rodrigues,,90303506954,,ayla.rodrigues.311@example.com,5550905281273,True
+312,PF,Dr. Pedro Lucas Siqueira,,90764011286,,dr.pedro.lucas.siqueira.312@example.com,5506952407784,True
+313,PJ,Correia ME,Nogueira Ferreira Ltda.,3568694000156,749821827,correia.me.313@example.com,5548957086209,True
+314,PJ,Vasconcelos Ltda,Duarte Silveira S/A,99399825000198,863878294,vasconcelos.ltda.314@example.com,5565911810220,True
+315,PF,Cauê Mendonça,,63287311751,,cau.mendon.a.315@example.com,5510996789940,True
+316,PF,Sr. Brayan Albuquerque,,66684488600,,sr.brayan.albuquerque.316@example.com,5571970586509,True
+317,PF,Vinícius Aparecida,,45099497748,,vin.cius.aparecida.317@example.com,5541938113863,True
+318,PF,Vinicius Ribeiro,,26102528620,,vinicius.ribeiro.318@example.com,5592988619576,True
+319,PJ,Cavalcante S.A.,,32512869000101,868528975,cavalcante.s.a.319@example.com,5585956659398,False
+320,PF,Marcos Vinicius Vargas,,32885438509,,marcos.vinicius.vargas.320@example.com,5545977600490,True
+321,PF,Catarina da Rosa,,10508519780,,catarina.da.rosa.321@example.com,5543935048889,False
+322,PJ,Brito Andrade - ME,Cassiano,24063653000188,245933441,brito.andrade.me.322@example.com,5569931572791,True
+323,PF,Letícia Andrade,,11176795945,,let.cia.andrade.323@example.com,5561905566139,True
+324,PF,Mateus Aragão,,3952276820,,mateus.arag.o.324@example.com,5580958925832,True
+325,PF,Matteo Machado,,30609142909,,matteo.machado.325@example.com,5598913646225,True
+326,PJ,Melo - EI ME,,34104411000149,086416862,melo.ei.me.326@example.com,55078937693898,True
+327,PF,Joaquim Barbosa,,59277263482,,joaquim.barbosa.327@example.com,5565991166553,False
+328,PF,Dr. Apollo Vargas,,91952817030,,dr.apollo.vargas.328@example.com,5525997927033,True
+329,PF,Maria Fernanda Cassiano,,67785247587,,maria.fernanda.cassiano.329@example.com,5510939240514,True
+330,PF,Olivia Almeida,,2291288075,,olivia.almeida.330@example.com,5538933884879,True
+331,PJ,Sales Sampaio e Filhos EIRELI,Garcia - EI,95832463000126,804204394,sales.sampaio.e.filhos.eireli.331@example.com,5570916451046,True
+332,PJ,Garcia Moraes e Filhos EIRELI,Dias - ME,15808042000120,981238780,garcia.moraes.e.filhos.eireli.332@example.com,5538945762055,True
+333,PF,Dr. Isaac Montenegro,,51367525306,,dr.isaac.montenegro.333@example.com,5504960843256,True
+334,PF,cecilia borges,,29456538184,,cecilia.borges.334@example.com,5589936392649,True
+335,PJ,Machado S.A.,Costela Rezende S.A.,25661350000120,983248262,machado.s.a.335@example.com,5525918812520,True
+336,PF,Dr. Noah da Rosa,,43135820882,,dr.noah.da.rosa.336@example.com,55042931220994,True
+337,PF,Isabel Peixoto,,5838419296,,isabel.peixoto.337@example.com,5530951728975,True
+338,PF,Mathias Mendonça,,60554336308,,mathias.mendon.a.338@example.com,55022933060463,True
+339,PJ,Sá Costela S/A ME,Macedo Pimenta - ME,44415782000103,573660965,s.costela.s.a.me.339@example.com,5599998808177,True
+340,PF,Joaquim Moreira,,88237447255,,joaquim.moreira.340@example.com,5560986803476,True
+341,PJ,Vasconcelos EIRELI,,4131186000179,472649082,vasconcelos.eireli.341@example.com,55071981298266,True
+342,PF,Dr. Apollo Cavalcanti,,27183766004,,dr.apollo.cavalcanti.342@example.com,55093971452111,True
+343,PJ,Porto EIRELI,,84748259000105,518689268,porto.eireli.343@example.com,5502959222206,True
+344,PJ,das Neves S.A.,da Paz,92623533000148,212309407,das.neves.s.a.344@example.com,55078909733977,True
+345,PJ,Macedo ME,Peixoto - EI,79516970000102,038498302,macedo.me.345@example.com,55005902099451,True
+346,PF,Cauê Leão,,67028236579,,cau.le.o.346@example.com,55024999982795,True
+347,PF,Caleb Vargas,,24879092428,,caleb.vargas.347@example.com,5555961681472,True
+348,PF,João Guilherme Farias,,3158598574,,jo.o.guilherme.farias.348@example.com,5568933901981,True
+349,PJ,Silveira S.A.,Lima,23918743000140,954899529,silveira.s.a.349@example.com,5578977293430,True
+350,PF,Apollo Martins,,30278607390,,apollo.martins.350@example.com,5539966055830,True
+351,PF,Gabriela Sales,,60652978606,,gabriela.sales.351@example.com,5541944885015,True
+352,PF,Dr. Arthur Cavalcanti,,50268525803,,dr.arthur.cavalcanti.352@example.com,5555977027278,True
+353,PJ,Martins ME,,97731577000105,608495880,martins.me.353@example.com,5595951240568,True
+354,PF,Mathias Cirino,,77451666832,,mathias.cirino.354@example.com,5514950461735,True
+355,PF,Liz Cunha,,48751566850,,liz.cunha.355@example.com,5542915031780,True
+356,PF,Sarah Cassiano,,23337482066,,sarah.cassiano.356@example.com,5557984521823,True
+357,PJ,Marques - ME,Abreu Ltda.,39053769000103,091570184,marques.me.357@example.com,5594935334485,True
+358,PF,Bárbara da Mata,,34464200290,,b.rbara.da.mata.358@example.com,55024910988138,True
+359,PJ,Novaes ME,da Mata,99421965000115,249321495,novaes.me.359@example.com,5570920701601,True
+360,PF,Maria Júlia Cavalcanti,,77606939900,,maria.j.lia.cavalcanti.360@example.com,5597995453817,False
+361,PJ,Borges Sampaio - ME,Marques Ltda.,13705742000164,773329456,borges.sampaio.me.361@example.com,55055977017157,True
+362,PJ,Cavalcante ME,Vargas,6977161000116,599281615,cavalcante.me.362@example.com,5514987696393,True
+363,PJ,Mendes Gomes S/A S.A.,Costela,60561745000151,966958321,mendes.gomes.s.a.s.a.363@example.com,5571999758172,True
+364,PJ,Guerra S.A.,Peixoto S/A,50673296000180,965701329,guerra.s.a.364@example.com,5522978469973,True
+365,PF,Liam da Rosa,,32935731930,,liam.da.rosa.365@example.com,5546951909862,True
+366,PF,Bento Freitas,,3407653646,,bento.freitas.366@example.com,5500985140369,True
+367,PF,Luiza Silva,,62360178750,,luiza.silva.367@example.com,5566968327238,True
+368,PF,Maria Cecília Leão,,96922117549,,maria.cec.lia.le.o.368@example.com,55042920102762,True
+369,PJ,Carvalho e Filhos Ltda,Marques,17805629000101,969278687,carvalho.e.filhos.ltda.369@example.com,5553926909738,True
+370,PF,Noah Nogueira,,18854088978,,noah.nogueira.370@example.com,5550909751971,True
+371,PF,Vinicius Sá,,99568745742,,vinicius.s.371@example.com,5578918913718,True
+372,PJ,Pimenta EIRELI,Fernandes - EI,75918945000196,077879565,pimenta.eireli.372@example.com,5542909494079,True
+373,PF,Benjamim Ribeiro,,24916680928,,benjamim.ribeiro.373@example.com,5590947128144,True
+374,PF,João Lucas da Mota,,45199378090,,jo.o.lucas.da.mota.374@example.com,5501992927524,True
+375,PF,Srta. Raquel Cirino,,63777709280,,srta.raquel.cirino.375@example.com,5505912927663,True
+376,PF,Maysa Silveira,,15616633950,,maysa.silveira.376@example.com,55039950410276,True
+377,PJ,da Rosa ME,Souza,57991406000109,836674286,da.rosa.me.377@example.com,5547965801856,True
+378,PF,Júlia Farias,,86623663410,,j.lia.farias.378@example.com,5541949673938,True
+379,PF,Sr. Levi Novaes,,15004337489,,sr.levi.novaes.379@example.com,5501906181753,True
+380,PJ,da Cunha EIRELI,Andrade Alves - EI,38323000000103,109391119,da.cunha.eireli.380@example.com,55069921244717,True
+381,PJ,Vargas S.A.,Sales,60535443000109,542140665,vargas.s.a.381@example.com,5544927173962,True
+382,PF,Rebeca Caldeira,,73009559917,,rebeca.caldeira.382@example.com,55086939174101,True
+383,PJ,Oliveira e Filhos S.A.,Vasconcelos,6425159000134,707200642,oliveira.e.filhos.s.a.383@example.com,5569908776618,True
+384,PF,Alexandre Gomes,,10908958951,,alexandre.gomes.384@example.com,55019985546015,True
+385,PJ,Barros EIRELI,Teixeira,40939652000100,432806346,barros.eireli.385@example.com,5557917320309,True
+386,PF,Samuel Gomes,,9001261086,,samuel.gomes.386@example.com,5584978700505,True
+387,PF,Srta. Maria Luiza Campos,,43033130763,,srta.maria.luiza.campos.387@example.com,5587982931027,True
+388,PF,Allana Melo,,14410666320,,allana.melo.388@example.com,5503920204179,False
+389,PF,Benício Caldeira,,24263001753,,ben.cio.caldeira.389@example.com,5579993136565,True
+390,PF,Yago Carvalho,,16036622198,,yago.carvalho.390@example.com,5530992511426,True
+391,PF,Léo Novaes,,10172769000,,l.o.novaes.391@example.com,55073990219620,True
+392,PF,Anna Liz Abreu,,90276839218,,anna.liz.abreu.392@example.com,5521994672324,False
+393,PJ,Jesus S.A.,Cavalcanti Pimenta e Filhos,7518829000120,092791456,jesus.s.a.393@example.com,5583931819588,True
+394,PJ,Martins Vargas e Filhos ME,da Mota Aragão S.A.,37565946000105,127722005,martins.vargas.e.filhos.me.394@example.com,5563945970108,True
+395,PJ,Castro Viana S/A Ltda,,19305247000144,781137995,castro.viana.s.a.ltda.395@example.com,5535931531363,True
+396,PF,Hellena Barbosa,,65425007310,,hellena.barbosa.396@example.com,55097906239726,True
+397,PF,Sr. Raul Silveira,,54790993108,,sr.raul.silveira.397@example.com,5554935209042,True
+398,PJ,Martins - ME,Cavalcante,63893166000102,534929298,martins.me.398@example.com,5516987397740,True
+399,PF,Sra. Isadora da Cruz,,14908217165,,sra.isadora.da.cruz.399@example.com,5569939290600,True
+400,PF,Sofia Andrade,,63450160710,,sofia.andrade.400@example.com,5586971773180,True
+401,PJ,Cunha S.A.,Fogaça da Rocha S.A.,1641943000166,107427990,cunha.s.a.401@example.com,55072962570165,False
+402,PF,Ana Beatriz da Rocha,,1966519052,,ana.beatriz.da.rocha.402@example.com,5549989319508,True
+403,PJ,Aragão EIRELI,Gomes Ltda.,98374392000153,790552818,arag.o.eireli.403@example.com,5525938179335,True
+404,PJ,da Mata EIRELI,da Mota,71340396000164,015577881,da.mata.eireli.404@example.com,55088947951371,True
+405,PF,Matteo Cavalcanti,,97705018837,,matteo.cavalcanti.405@example.com,5511924127238,True
+406,PF,Alícia da Rocha,,96399366933,,al.cia.da.rocha.406@example.com,5582975670431,True
+407,PF,Igor Moreira,,66977537221,,igor.moreira.407@example.com,5569955798877,True
+408,PJ,Nunes S.A.,vieira das neves s.a.,92142232000100,437540254,nunes.s.a.408@example.com,55029928422223,True
+409,PF,Asafe Dias,,63821980486,,asafe.dias.409@example.com,5527945238055,True
+410,PF,Marcelo Machado,,47338234876,,marcelo.machado.410@example.com,5528941067275,True
+411,PJ,Abreu Sousa - EI Ltda,Ramos,68464486000152,474929751,abreu.sousa.ei.ltda.411@example.com,55002981406937,True
+412,PJ,Borges ME,Araújo,47595677000183,939834301,borges.me.412@example.com,5571986375998,True
+413,PJ,Rios Ltda.,Casa Grande,45715387000109,656504554,rios.ltda.413@example.com,55081937674266,True
+414,PF,Caio Casa Grande,,74241686494,,caio.casa.grande.414@example.com,5547985196106,True
+415,PJ,Leão ME,Novais Martins e Filhos,26831473000124,923264870,le.o.me.415@example.com,5594978730024,True
+416,PF,Ravy Campos,,85258781623,,ravy.campos.416@example.com,5562973014719,True
+417,PJ,Pacheco S.A.,Nunes,71315437000162,647158904,pacheco.s.a.417@example.com,55090925725204,True
+418,PF,Dr. Luiz Henrique Aragão,,31618848178,,dr.luiz.henrique.arag.o.418@example.com,5548918321928,True
+419,PF,Dr. Kevin da Mata,,98629196475,,dr.kevin.da.mata.419@example.com,5518995202845,True
+420,PF,Maria Sophia Fernandes,,96669797486,,maria.sophia.fernandes.420@example.com,55013928338988,True
+421,PF,Dra. Bruna Leão,,41292813059,,dra.bruna.le.o.421@example.com,55011920754527,True
+422,PJ,Cavalcanti ME,Alves,88240314000102,132234232,cavalcanti.me.422@example.com,5561910760310,True
+423,PF,Sophie Pastor,,63163828558,,sophie.pastor.423@example.com,5571940140119,True
+424,PJ,Pastor Costa S.A.,,99655414000116,501249552,pastor.costa.s.a.424@example.com,5593989119083,True
+425,PJ,da Paz Cavalcante - EI ME,,74613211000136,013875927,da.paz.cavalcante.ei.me.425@example.com,5525966383615,True
+426,PJ,Martins S/A ME,,87008855000147,827548015,martins.s.a.me.426@example.com,55016947947386,True
+427,PJ,Lima ME,Azevedo Melo e Filhos,2371914000194,520716781,lima.me.427@example.com,5526969121535,True
+428,PJ,Peixoto Guerra S/A ME,Lima Silveira - ME,67964662000152,499465796,peixoto.guerra.s.a.me.428@example.com,55084927114773,True
+429,PF,Catarina Alves,,12922500462,,catarina.alves.429@example.com,5501970269524,True
+430,PF,Aylla Teixeira,,99079722820,,aylla.teixeira.430@example.com,5587973477848,False
+431,PJ,Nogueira S.A.,,51003610000180,800616756,nogueira.s.a.431@example.com,55070902842762,True
+432,PJ,Silva EIRELI,Mendonça,45081495000169,197889778,silva.eireli.432@example.com,55080964796954,True
+433,PF,Sr. Arthur Pastor,,11366125991,,sr.arthur.pastor.433@example.com,5525959056165,True
+434,PF,Dr. Luiz Fernando Araújo,,36035813186,,dr.luiz.fernando.ara.jo.434@example.com,5533949114152,True
+435,PF,Vitor Gabriel Duarte,,71949525996,,vitor.gabriel.duarte.435@example.com,5576998640790,True
+436,PF,Dr. Mathias Duarte,,2067739948,,dr.mathias.duarte.436@example.com,5517913578529,True
+437,PF,Luiz Otávio Lopes,,68194461367,,luiz.ot.vio.lopes.437@example.com,5571983440496,True
+438,PJ,Pinto Souza S/A Ltda,,80136662000122,919541987,pinto.souza.s.a.ltda.438@example.com,5535914846853,True
+439,PJ,Guerra S.A.,,12520501000188,498782082,guerra.s.a.439@example.com,5573974896908,True
+440,PF,Luiz Otávio Martins,,24822672000,,luiz.ot.vio.martins.440@example.com,55032946651364,True
+441,PF,Enrico da Cunha,,77684119605,,enrico.da.cunha.441@example.com,,True
+442,PJ,Novais ME,,41354892000106,660324204,novais.me.442@example.com,5582907001594,True
+443,PF,Nicolas Fonseca,,35546639806,,nicolas.fonseca.443@example.com,5562931981898,False
+444,PF,Theo Borges,,93248209151,,theo.borges.444@example.com,5591955963632,True
+445,PJ,Cavalcanti S.A.,Macedo,54053354000123,649078515,cavalcanti.s.a.445@example.com,5567934257540,True
+446,PJ,Sousa e Filhos Ltda,,29546523000110,034864518,sousa.e.filhos.ltda.446@example.com,5576906441343,True
+447,PF,Pedro Lucas Pires,,5218135739,,pedro.lucas.pires.447@example.com,5560941776561,True
+448,PF,José Pedro Montenegro,,85906407103,,jos.pedro.montenegro.448@example.com,5556998570027,True
+449,PF,Catarina Abreu,,89733917982,,catarina.abreu.449@example.com,5534959112382,True
+450,PF,Maria Sophia Vieira,,50184793378,,maria.sophia.vieira.450@example.com,5577924295431,True
+451,PF,Maria Eduarda Cirino,,75040293607,,maria.eduarda.cirino.451@example.com,5569930089317,True
+452,PF,João Sampaio,,69415729490,,jo.o.sampaio.452@example.com,55006996942152,False
+453,PF,Bárbara Albuquerque,,47856792809,,b.rbara.albuquerque.453@example.com,5567971333447,True
+454,PF,Caroline Lopes,,52963035128,,caroline.lopes.454@example.com,5593943626204,True
+455,PJ,da Costa Ltda,da Cruz,92617941000197,597107256,da.costa.ltda.455@example.com,5566994118005,True
+456,PJ,Melo Fogaça - EI Ltda,Abreu Ltda.,87161526000131,896465280,melo.foga.a.ei.ltda.456@example.com,5524928757215,False
+457,PF,Dra. Marina Casa Grande,,44220746790,,dra.marina.casa.grande.457@example.com,5515902745644,True
+458,PJ,Moreira Ltda,Lopes,33513135000100,257287032,moreira.ltda.458@example.com,(11) 9999-9999,True
+459,PF,Pedro Miguel Fogaça,,52189372313,,pedro.miguel.foga.a.459@example.com,5577971215134,True
+460,PF,Enzo Gabriel Souza,,72231218585,,enzo.gabriel.souza.460@example.com,5549993908926,True
+461,PF,Josué Vargas,,34571780702,,josu.vargas.461@example.com,55015904165915,True
+462,PJ,Alves Barros - ME,Marques,37352912000132,490509759,alves.barros.me.462@example.com,55030945018961,True
+463,PF,Jade Cavalcanti,,93879965226,,jade.cavalcanti.463@example.com,5561903266421,True
+464,PJ,Mendonça ME,Sousa,19068769000170,492515837,mendon.a.me.464@example.com,55067949961659,True
+465,PF,Pedro Henrique Pires,,67366757403,,pedro.henrique.pires.465@example.com,5510985732788,True
+466,PF,João Vitor Martins,,80864057105,,jo.o.vitor.martins.466@example.com,5517942243864,False
+467,PF,Ana Julia Novaes,,73632027455,000000000,ana.julia.novaes.467@example.com,5508918661794,True
+468,PF,Dr. Bruno Vargas,,17176717052,,dr.bruno.vargas.468@example.com,5501972260164,True
+469,PF,Dr. Rael Pinto,,8499544100,,dr.rael.pinto.469@example.com,5552932194168,True
+470,PJ,Abreu - ME,Albuquerque S.A.,33806119000105,776974995,abreu.me.470@example.com,5541922031030,True
+471,PF,Rodrigo Rezende,,21643266527,,rodrigo.rezende.471@example.com,55036983147276,True
+472,PJ,Camargo S.A.,,9841033000139,277707933,camargo.s.a.472@example.com,5596905016679,True
+473,PF,Lavínia Andrade,,76906374508,,lav.nia.andrade.473@example.com,55067989973080,True
+474,PF,Luara Novaes,,90041768531,,luara.novaes.474@example.com,5546971795760,True
+475,PJ,da Paz Silveira S.A.,Ferreira,14807929000131,738395972,da.paz.silveira.s.a.475@example.com,5566957293417,True
+476,PF,Erick Costa,,74943933238,,erick.costa.476@example.com,55097916743380,True
+477,PF,João da Silva,,5857105200,,luiz.henrique.da.luz.477@example.com,5522980156193,True
+478,PJ,Novais S.A.,da Luz,12876398000103,550842891,novais.s.a.478@example.com,5577911991808,True
+479,PJ,Cavalcante e Filhos EIRELI,Costela Ltda.,43341226000169,247871255,cavalcante.e.filhos.eireli.479@example.com,55013976037548,True
+480,PJ,Barros da Mata Ltda.,Fonseca,47314438000108,328632666,barros.da.mata.ltda.480@example.com,55085907208115,True
+481,PF,Dr. Enzo Lopes,,94982884293,,dr.enzo.lopes.481@example.com,5560929084668,True
+482,PF,Levi Ferreira,,95864507598,,levi.ferreira.482@example.com,5548992673899,True
+483,PF,Melina Sampaio,,14441355971,,melina.sampaio.483@example.com,5563941085628,True
+484,PF,Larissa Cunha,,70202421384,,larissa.cunha.484@example.com,5588948520089,True
+485,PF,Isaque Vasconcelos,,78700325228,,isaque.vasconcelos.485@example.com,5568910548510,True
+486,PJ,Machado Ltda.,Marques Ltda.,38690539000192,399893544,machado.ltda.486@example.com,5526983158935,True
+487,PJ,Brito ME,,12515607000193,266110627,brito.me.487@example.com,5571958698864,True
+488,PJ,Porto ME,,23719624000169,677622827,porto.me.488@example.com,55028981377028,True
+489,PF,Sr. Nicolas Camargo,,65478643327,,sr.nicolas.camargo.489@example.com,5559940821545,True
+490,PJ,da Rocha EIRELI,,65469515000180,702296044,da.rocha.eireli.490@example.com,5527901851067,True
+491,PF,Luana Nunes,,72539940943,,luana.nunes.491@example.com,55056979228777,True
+492,PJ,Siqueira Duarte S/A ME,,8311710000144,996636580,siqueira.duarte.s.a.me.492@example.com,55041920948181,True
+493,PJ,Pinto Nogueira - EI Ltda,Nunes - EI,87639339000110,378018204,pinto.nogueira.ei.ltda.493@example.com,5539971895690,True
+494,PJ,Almeida Ltda,Lopes,80426122000183,260856411,almeida.ltda.494@example.com,5582942241246,True
+495,PF,Eloá Araújo,,87226499053,,elo.ara.jo.495@example.com,5552900461526,True
+496,PF,Dr. Marcos Vinicius Campos,,2574124928,,dr.marcos.vinicius.campos.496@example.com,5533999378861,True
+497,PF,Bento Dias,,23619197458,,bento.dias.497@example.com,55086917063048,True
+498,PF,Beatriz da Cruz,,67355904221,,beatriz.da.cruz.498@example.com,5524996718325,True
+499,PJ,Viana da Cruz - EI Ltda,Novais,86710723000108,700794200,viana.da.cruz.ei.ltda.499@example.com,55049946539840,True
+500,PF,Vitor Nunes,,59571525286,,vitor.nunes.500@example.com,5541961284639,True
+501,PF,Luiza Rodrigues,,54846669378,,luiza.rodrigues.501@example.com,5547943553795,True
+502,PJ,Sales S.A.,pereira - me,48331999000188,002687681,sales.s.a.502@example.com,5580971569562,True
+503,PF,Srta. Camila Martins,,6847162759,,srta.camila.martins.503@example.com,5537903045319,True
+504,PF,Liz Silva,,6521583409,,liz.silva.504@example.com,5537950479303,True
+505,PJ,Camargo S.A.,Nunes,94109577000180,872839992,camargo.s.a.505@example.com,5592912493843,True
+506,PJ,Sales e Filhos S.A.,,5913276000184,894870605,sales.e.filhos.s.a.506@example.com,5564918775803,True
+507,PF,João Lucas Leão,,63349361153,,jo.o.lucas.le.o.507@example.com,5575906351903,True
+508,PJ,Barbosa ME,Costa Cavalcante Ltda.,95592027000127,411076095,barbosa.me.508@example.com,5531973505831,True
+509,PF,Maysa Teixeira,,41551178605,,maysa.teixeira.509@example.com,5579911006512,True
+510,PF,Pedro Miguel Araújo,,12293178803,,pedro.miguel.ara.jo.510@example.com,5596911080466,True
+511,PJ,Pinto - ME,Peixoto Viana e Filhos,27239231000109,907676991,pinto.me.511@example.com,5507985931109,True
+512,PF,Srta. Evelyn Oliveira,,19866929906,,srta.evelyn.oliveira.512@example.com,55084956797232,True
+513,PF,Bento Cardoso,,23693131457,,bento.cardoso.513@example.com,5596985498227,True
+514,PF,Luigi da Rocha,,9998266114,,luigi.da.rocha.514@example.com,5508992038806,False
+515,PJ,Costa Ltda,Porto Costa S/A,63336265000185,537795995,costa.ltda.515@example.com,5546952170730,True
+516,PF,Heloisa Sales,,55774119980,,heloisa.sales.516@example.com,5579933756362,True
+517,PF,Luiz Miguel Albuquerque,,31841589187,,luiz.miguel.albuquerque.517@example.com,5550981247395,True
+518,PF,Arthur Costa,,84340248703,,arthur.costa.518@example.com,5542934258323,True
+519,PF,Felipe da Luz,,67279233457,,felipe.da.luz.519@example.com,5502961534735,True
+520,PJ,Ribeiro S.A.,,20825276000116,289611223,ribeiro.s.a.520@example.com,5586955963099,True
+521,PJ,Nascimento da Rocha S.A.,da Cruz,6684376000149,042897317,nascimento.da.rocha.s.a.521@example.com,5512986857872,False
+522,PJ,Silva ME,,76030426000150,587774969,silva.me.522@example.com,5533937363466,True
+523,PJ,Freitas da Cunha - EI Ltda,Carvalho S/A,20953213000145,478539078,freitas.da.cunha.ei.ltda.523@example.com,5556977665754,True
+524,PF,Amanda Cavalcanti,,7401390108,,amanda.cavalcanti.524@example.com,55034915148881,True
+525,PF,Ian Brito,,67088639874,,ian.brito.525@example.com,5515908353544,True
+526,PF,Dra. Kamilly Correia,,86772194209,,dra.kamilly.correia.526@example.com,5528940445669,True
+527,PJ,Melo e Filhos Ltda,,71436291000103,826333738,melo.e.filhos.ltda.527@example.com,5587975153663,True
+528,PJ,Machado ME,,5304190000154,805292407,machado.me.528@example.com,5553966684590,True
+529,PF,Ana Beatriz Carvalho,,44475318289,,ana.beatriz.carvalho.529@example.com,55059999966361,True
+530,PJ,Correia Ltda,Caldeira,13466038000104,597412182,correia.ltda.530@example.com,5597902316433,True
+531,PF,Vinicius Azevedo,,29437117640,,vinicius.azevedo.531@example.com,55005980256621,True
+532,PF,Vitor Gabriel Leão,,37919064023,,vitor.gabriel.le.o.532@example.com,55016932346729,True
+533,PF,Luana Pastor,,47534723450,,luana.pastor.533@example.com,5587943027169,True
+534,PF,Vinicius Farias,,19930000208,,vinicius.farias.534@example.com,5577979014754,True
+535,PF,Emanuella Leão,,60880407859,,emanuella.le.o.535@example.com,5529967629160,True
+536,PF,Emanuel da Mota,,92820027130,,emanuel.da.mota.536@example.com,5541937681511,True
+537,PF,Lunna Jesus,,29886487780,,lunna.jesus.537@example.com,55024938070176,True
+538,PF,Dr. Gael Gonçalves,,57748851948,,dr.gael.gon.alves.538@example.com,5504912577711,True
+539,PJ,Silva Macedo S.A.,,76217132000131,742209124,silva.macedo.s.a.539@example.com,5586921042752,True
+540,PF,Arthur Gabriel Rocha,,63606944330,,arthur.gabriel.rocha.540@example.com,5537908164709,True
+541,PF,Benicio Vargas,,91705108733,,benicio.vargas.541@example.com,5533953310600,True
+542,PF,Genérico,,47606628556,,sr.ben.cio.c.mara.542@example.com,5522906815583,True
+543,PF,Giovanna Nogueira,,67049272639,,giovanna.nogueira.543@example.com,5561933155206,True
+544,PF,Luara Albuquerque,,95865132113,,luara.albuquerque.544@example.com,5537931495013,True
+545,PF,Liz Vargas,,89504627706,,liz.vargas.545@example.com,5571989241956,True
+546,PJ,Farias Cavalcanti e Filhos Ltda,,63938605000148,571509976,farias.cavalcanti.e.filhos.ltda.546@example.com,5538990309143,True
+547,PF,Sra. Isabelly Pinto,,44970369100,,sra.isabelly.pinto.547@example.com,11111111111,True
+548,PJ,Silveira Peixoto - ME,Carvalho,51548820000153,450864035,silveira.peixoto.me.548@example.com,5533980339685,True
+549,PJ,Macedo Pires S/A EIRELI,Mendonça S/A,60403840000127,302321298,macedo.pires.s.a.eireli.549@example.com,5538916742336,True
+550,PF,Josué da Rosa,,99234947134,,josu.da.rosa.550@example.com,5597934715662,True
+551,PF,Maysa Lima,,76388988423,,maysa.lima.551@example.com,5596927066149,True
+552,PJ,Novaes Siqueira S.A.,,76686832000175,467474689,novaes.siqueira.s.a.552@example.com,55015927323008,True
+553,PJ,Mendonça EIRELI,Leão,977308000191,656749160,mendon.a.eireli.553@example.com,5569923645875,True
+554,PJ,Rezende - ME,Sousa,67976202000144,337050249,rezende.me.554@example.com,55024939920116,True
+555,PJ,Santos S.A.,Moreira S.A.,33868068000146,626448869,santos.s.a.555@example.com,5561919524364,True
+556,PF,Enzo Gabriel Mendonça,,76093336468,,enzo.gabriel.mendon.a.556@example.com,5511968646225,True
+557,PF,Davi Luiz Costa,,94791845161,,davi.luiz.costa.557@example.com,55028917932302,True
+558,PF,José Pedro Jesus,,62896171509,,jos.pedro.jesus.558@example.com,55091921416141,True
+559,PF,Sr. Isaac Mendes,,8063058275,,sr.isaac.mendes.559@example.com,55010904090138,True
+560,PJ,Garcia - EI Ltda,Mendonça,62995300000105,759655553,garcia.ei.ltda.560@example.com,5566990551076,True
+561,PF,Srta. Amanda Pereira,,97332806908,,srta.amanda.pereira.561@example.com,5584935797863,True
+562,PF,Lorenzo Almeida,,11626234973,,lorenzo.almeida.562@example.com,5505973976915,True
+563,PF,Olívia Ribeiro,,65872903022,,ol.via.ribeiro.563@example.com,5564993289802,True
+564,PJ,Vieira S.A.,da Rosa e Filhos,17402780000107,872717833,vieira.s.a.564@example.com,5521916025643,False
+565,PF,Sra. Olívia Rios,,99623378521,,sra.ol.via.rios.565@example.com,5528971539915,True
+566,PJ,Silva Ltda,Rezende,70128397000187,863341411,silva.ltda.566@example.com,5559931952569,True
+567,PF,Srta. Luana Araújo,,65686735522,,srta.luana.ara.jo.567@example.com,5583966552899,True
+568,PJ,Caldeira Gonçalves S/A ME,Dias,22219077000190,243772942,caldeira.gon.alves.s.a.me.568@example.com,5595948149737,True
+569,PF,Marcos Vinicius Araújo,,60554306654,,marcos.vinicius.ara.jo.569@example.com,5523930276420,True
+570,PJ,Fernandes EIRELI,Rocha,21631297000163,756618443,fernandes.eireli.570@example.com,5561925904729,False
+571,PF,Pedro Miguel Sampaio,,1982335319,,pedro.miguel.sampaio.571@example.com,55042933305912,True
+572,PJ,Lima S.A.,Araújo Brito Ltda.,31701220000176,720185962,lima.s.a.572@example.com,5530913674926,True
+573,PJ,Vasconcelos - ME,da Mota,11902549000198,750111178,vasconcelos.me.573@example.com,5509999741926,True
+574,PF,Maya da Rosa,,86984552710,,maya.da.rosa.574@example.com,5521951826068,True
+575,PJ,Azevedo ME,,27200806000180,898131292,azevedo.me.575@example.com,5587951029321,True
+576,PF,Jade Sá,,56184469878,,jade.s.576@example.com,5511984582603,True
+577,PF,Augusto Moreira,,49428259705,,augusto.moreira.577@example.com,5587929758598,True
+578,PJ,Sales Brito e Filhos EIRELI,,4536174000124,030324329,sales.brito.e.filhos.eireli.578@example.com,5539954296184,True
+579,PF,Mateus Rezende,,94777001938,,mateus.rezende.579@example.com,55067914628314,True
+580,PF,Evelyn Silva,,57853794576,,evelyn.silva.580@example.com,5598992625660,True
+581,PF,Isadora Barbosa,,23036444610,,isadora.barbosa.581@example.com,5518918615155,True
+582,PF,Diogo Câmara,,98979165803,,diogo.c.mara.582@example.com,5501963611284,True
+583,PF,Rebeca Brito,,98953216435,,rebeca.brito.583@example.com,5559948491025,True
+584,PF,Emilly Ferreira,,56390520077,,emilly.ferreira.584@example.com,5589967924082,True
+585,PF,Carolina Casa Grande,,29646173500,,carolina.casa.grande.585@example.com,5594905396727,True
+586,PJ,Martins Ltda,da Mota,21283893000108,683414651,martins.ltda.586@example.com,5513912901487,True
+587,PF,Otávio Rocha,,66151468945,,ot.vio.rocha.587@example.com,5527978816093,True
+588,PJ,Silva - ME,da Cruz,23283785000152,890972832,silva.me.588@example.com,5552985067625,True
+589,PF,Lucca Rocha,,49639108960,,lucca.rocha.589@example.com,5581944744309,True
+590,PF,Helena das Neves,,97041562271,,helena.das.neves.590@example.com,5507997050975,True
+591,PF,Luiz Gustavo Caldeira,,34653525560,,luiz.gustavo.caldeira.591@example.com,5552965016731,True
+592,PJ,Jesus Campos - ME,Cassiano e Filhos,83084902000180,437654562,jesus.campos.me.592@example.com,5541977225605,True
+593,PJ,Camargo Correia Ltda.,,9415293000142,026650237,camargo.correia.ltda.593@example.com,5516978725686,True
+594,PJ,Camargo Caldeira S/A Ltda,Cassiano Ferreira - EI,11445026000160,030569067,camargo.caldeira.s.a.ltda.594@example.com,5547916392823,True
+595,PF,Danilo da Luz,,82853444520,,danilo.da.luz.595@example.com,5563971892392,True
+596,PF,Dante Cardoso,,81560650931,,dante.cardoso.596@example.com,5504932609310,True
+597,PF,Maria Luísa Moura,,69225863799,,maria.lu.sa.moura.597@example.com,5533956708604,True
+598,PJ,da Mata Ltda.,Ferreira,47364834000140,635020005,da.mata.ltda.598@example.com,5547949162475,True
+599,PF,Dr. Daniel Brito,,31632544113,,dr.daniel.brito.599@example.com,5582955598953,True
+600,PJ,Costela EIRELI,Borges,45634799000106,129109337,costela.eireli.600@example.com,5518995473820,True
+601,PF,Gael Leão,,61593329881,,gael.le.o.601@example.com,0000000000,True
+602,PJ,Cavalcante - EI Ltda,Sampaio,10922115000197,240903678,cavalcante.ei.ltda.602@example.com,5512978686694,True
+603,PJ,Cirino Abreu S.A.,Pastor Sampaio S/A,14118624000112,878844344,cirino.abreu.s.a.603@example.com,5512930834024,True
+604,PF,João Gabriel Vieira,,13213697940,,jo.o.gabriel.vieira.604@example.com,5533981059551,True
+605,PF,Dra. Julia Silveira,,98593902405,,dra.julia.silveira.605@example.com,55069945005342,True
+606,PJ,Almeida Ltda,Silveira e Filhos,8479418000135,649837354,almeida.ltda.606@example.com,5596927365271,True
+607,PJ,Cirino EIRELI,,60046927000194,722397240,cirino.eireli.607@example.com,5522969312163,True
+608,PF,Maria Luiza Brito,,26977458828,,maria.luiza.brito.608@example.com,5520991660100,True
+609,PF,Josué Vargas,,81448567246,,josu.vargas.609@example.com,5542990018513,True
+610,PJ,Mendes Teixeira - EI S.A.,,53941658000164,724572308,mendes.teixeira.ei.s.a.610@example.com,5581900184186,True
+611,PF,Alexandre Câmara,,78334818823,,alexandre.c.mara.611@example.com,5536962543617,True
+612,PF,Daniel Câmara,,77658965804,,daniel.c.mara.612@example.com,5545919515109,True
+613,PJ,Cavalcanti Lima - EI EIRELI,Peixoto,16346737000109,262494514,cavalcanti.lima.ei.eireli.613@example.com,55054910225267,True
+614,PF,Sra. Ana Lívia Camargo,,3175873901,,sra.ana.l.via.camargo.614@example.com,5564921522655,True
+615,PF,Mariana Mendes,,13381443321,,mariana.mendes.615@example.com,5595923668788,True
+616,PF,Yasmin Nascimento,,16455362624,,yasmin.nascimento.616@example.com,5561996893135,True
+617,PJ,Costela S/A Ltda,,77653062000127,587210552,costela.s.a.ltda.617@example.com,5572986333021,True
+618,PJ,Garcia Siqueira S/A ME,,1381113000147,650191792,garcia.siqueira.s.a.me.618@example.com,5525921310962,True
+619,PF,Ravy Souza,,69372100196,,ravy.souza.619@example.com,55084976570412,True
+620,PF,Arthur Gabriel Pereira,,27469449957,,arthur.gabriel.pereira.620@example.com,55082906678498,True
+621,PF,Ian Lima,,43539241760,,ian.lima.621@example.com,55041986236903,True
+622,PJ,Cirino EIRELI,Sales - ME,58988506000130,756620563,cirino.eireli.622@example.com,5511915950342,True
+623,PF,Bianca Azevedo,,23610716142,,bianca.azevedo.623@example.com,5590943830341,True
+624,PJ,Nunes - ME,Aragão Ltda.,20533693000195,140546835,nunes.me.624@example.com,5552915681820,True
+625,PJ,Mendes S.A.,da Rocha S.A.,94370908000130,271133228,mendes.s.a.625@example.com,5598957254596,True
+626,PJ,Silva e Filhos Ltda,da Costa,33635114000167,399129710,silva.e.filhos.ltda.626@example.com,55048917175242,True
+627,PF,João Lucas Oliveira,,51144182700,,jo.o.lucas.oliveira.627@example.com,5551912747472,True
+628,PJ,Nunes - ME,Fonseca Ltda.,11780467000118,669275895,nunes.me.628@example.com,5516987409038,True
+629,PF,Eduardo Caldeira,,10848428153,,eduardo.caldeira.629@example.com,5562996136715,True
+630,PJ,Martins S.A.,Caldeira,43688863000106,121663651,martins.s.a.630@example.com,5559973714708,True
+631,PF,Ravy Casa Grande,,9961286707,,ravy.casa.grande.631@example.com,5559909605673,True
+632,PF,Heitor Almeida,,20830605479,,heitor.almeida.632@example.com,5544921214614,True
+633,PF,Sra. Mariah Moura,,24063515303,,sra.mariah.moura.633@example.com,5542901654235,True
+634,PJ,Mendes EIRELI,Nascimento,82801556000141,265960893,mendes.eireli.634@example.com,5599925502727,True
+635,PF,Sr. Nicolas da Luz,,63286207993,,sr.nicolas.da.luz.635@example.com,5507927910336,True
+636,PJ,Peixoto Garcia S.A.,Costela,22046909000113,390550448,peixoto.garcia.s.a.636@example.com,5577966558685,True
+637,PF,Felipe Marques,,45300499226,,felipe.marques.637@example.com,5552989286646,True
+638,PF,Larissa Sampaio,,94794678363,,larissa.sampaio.638@example.com,5511911096179,True
+639,PF,Beatriz Porto,,19090545697,,beatriz.porto.639@example.com,55089904633786,True
+640,PF,Gael Henrique Melo,,58610743306,,gael.henrique.melo.640@example.com,5557966053844,True
+641,PJ,das Neves S.A.,,72815253000124,630600025,das.neves.s.a.641@example.com,5595952963863,True
+642,PF,Maria Júlia Aragão,,61387405136,,maria.j.lia.arag.o.642@example.com,5562962658263,True
+643,PF,Davi Lucas Montenegro,,7473616145,,davi.lucas.montenegro.643@example.com,5596948253110,True
+644,PJ,Albuquerque Ltda,,79949523000139,920981960,albuquerque.ltda.644@example.com,55075923343836,True
+645,PF,Benjamim da Mota,,27786996869,,benjamim.da.mota.645@example.com,5520991179112,True
+646,PJ,da Luz EIRELI,,95101646000171,211753617,da.luz.eireli.646@example.com,5561971366572,True
+647,PF,Kaique Albuquerque,,56279506177,,kaique.albuquerque.647@example.com,55099901557998,True
+648,PF,Emanuel Moreira,,33914002425,,emanuel.moreira.648@example.com,5513990808823,True
+649,PJ,Camargo Ltda,,55334269000104,305231244,camargo.ltda.649@example.com,55031958477686,True
+650,PJ,da Cunha Cavalcanti S.A.,Gonçalves,67016162000199,199423767,da.cunha.cavalcanti.s.a.650@example.com,5594959196639,True
+651,PF,Dr. Benício Machado,,43274083445,,dr.ben.cio.machado.651@example.com,55008949649856,True
+652,PF,Danilo Cirino,,77578601300,,danilo.cirino.652@example.com,5562953135525,True
+653,PF,Anthony Dias,,90697512592,,anthony.dias.653@example.com,5553979538164,True
+654,PF,Hadassa Moura,,57202204029,,hadassa.moura.654@example.com,5518949196655,True
+655,PF,Gael Henrique Aragão,,88640875405,,gael.henrique.arag.o.655@example.com,55070946117295,True
+656,PF,Maria Isis da Costa,,98294510890,,maria.isis.da.costa.656@example.com,5504909074260,True
+657,PJ,Fernandes e Filhos EIRELI,Azevedo - ME,16371250000178,164455618,fernandes.e.filhos.eireli.657@example.com,5579906477159,False
+658,PF,Arthur Câmara,,43225606103,,arthur.c.mara.658@example.com,5502915632135,True
+659,PF,Alana Sales,,21536156078,,alana.sales.659@example.com,5540910414596,True
+660,PF,Enzo Gabriel Carvalho,,38705524920,,enzo.gabriel.carvalho.660@example.com,5571925296718,True
+661,PF,Isabella Oliveira,,50492907595,,isabella.oliveira.661@example.com,55074957314415,True
+662,PF,Isabelly Ribeiro,,30396147461,,isabelly.ribeiro.662@example.com,5511970303763,True
+663,PJ,Caldeira S.A.,,42200985000149,539885472,caldeira.s.a.663@example.com,5512935679836,True
+664,PJ,Azevedo da Mota - ME,,18006331000102,249127113,azevedo.da.mota.me.664@example.com,5572940787541,True
+665,PF,Antonella Fogaça,,39241408200,,antonella.foga.a.665@example.com,5532968685074,True
+666,PJ,Brito EIRELI,Rezende - ME,31575777000108,634362948,brito.eireli.666@example.com,5578961031310,True
+667,PF,João Felipe da Costa,,20358723914,,jo.o.felipe.da.costa.667@example.com,5581943966613,True
+668,PF,Dra. Juliana Monteiro,,1865018627,,dra.juliana.monteiro.668@example.com,5523954940128,True
+669,PF,Dra. Pietra Sousa,,9502825373,,dra.pietra.sousa.669@example.com,5532951225720,True
+670,PJ,Lima EIRELI,Almeida,37520151000180,241209579,lima.eireli.670@example.com,5573971009438,True
+671,PJ,Sá Casa Grande S/A ME,da Rosa e Filhos,91530346000157,577584745,s.casa.grande.s.a.me.671@example.com,55005945897148,True
+672,PF,Dra. Alícia Casa Grande,,72100886444,,dra.al.cia.casa.grande.672@example.com,5532957039653,True
+673,PF,Srta. Evelyn Garcia,,30795418124,,srta.evelyn.garcia.673@example.com,5548978245569,True
+674,PF,Kamilly das Neves,,31155733673,,kamilly.das.neves.674@example.com,5509985916795,True
+675,PF,Daniel Albuquerque,,74750419303,,daniel.albuquerque.675@example.com,55027928498247,True
+676,PF,Benício da Rocha,,85850403787,,ben.cio.da.rocha.676@example.com,5570934910740,True
+677,PF,Maria Ribeiro,,90263867617,,maria.ribeiro.677@example.com,5504925488214,True
+678,PF,Gael Henrique Lopes,,96882136165,,gael.henrique.lopes.678@example.com,5514930753666,True
+679,PF,José Pedro da Rosa,,85600980973,,jos.pedro.da.rosa.679@example.com,5542996592342,True
+680,PF,Gabriela da Rosa,,59630622769,,gabriela.da.rosa.680@example.com,5514997826612,True
+681,PF,Melina Sales,,9728253397,,melina.sales.681@example.com,5585975676670,False
+682,PF,Amanda Vargas,,18898355955,,amanda.vargas.682@example.com,5512994398529,True
+683,PF,Laís Aragão,,91901804372,,la.s.arag.o.683@example.com,5526907870104,True
+684,PF,Bianca Farias,,40049957368,,bianca.farias.684@example.com,5514997501980,True
+685,PF,Srta. Stella Casa Grande,,63507034727,,srta.stella.casa.grande.685@example.com,5572932440793,True
+686,PJ,Azevedo S/A ME,Pereira Campos - EI,95550976000144,133170876,azevedo.s.a.me.686@example.com,5514967238497,True
+687,PF,Camila Lopes,,80253403251,,camila.lopes.687@example.com,55002923288377,True
+688,PJ,da Rocha Ltda,Pastor - ME,60325619000106,546617662,da.rocha.ltda.688@example.com,5547919609409,True
+689,PF,Ana Cecília Fogaça,,63174117941,,ana.cec.lia.foga.a.689@example.com,55077940258835,True
+690,PJ,Moraes ME,Cavalcanti e Filhos,10017060000170,259572446,,5576979298842,True
+691,PJ,Pastor EIRELI,Pacheco,9922961000128,961002311,pastor.eireli.691@example.com,55075933126610,True
+692,PF,Isis Camargo,,38037427498,,isis.camargo.692@example.com,5517959025176,True
+693,PJ,Porto Oliveira - EI Ltda,,67060908000161,334774332,porto.oliveira.ei.ltda.693@example.com,5583919013020,True
+694,PF,Dr. Yago Barbosa,,77385720358,,dr.yago.barbosa.694@example.com,5528973397855,True
+695,PJ,Azevedo Macedo - ME,,18016664000104,619128411,azevedo.macedo.me.695@example.com,55030998503446,True
+696,PF,Sra. Ana Lívia Castro,,8266165858,,sra.ana.l.via.castro.696@example.com,5518993898469,True
+697,PF,Yago Sampaio,,83795893860,isento,yago.sampaio.697@example.com,5597940056435,True
+698,PF,Davi Miguel Costela,,11751276988,,davi.miguel.costela.698@example.com,5550937199051,True
+699,PJ,Peixoto Ltda,Novaes - ME,22818512000100,240107835,peixoto.ltda.699@example.com,5574930003896,True
+700,PF,Allana Novaes,,7820087552,,allana.novaes.700@example.com,55006962668217,True
+701,PJ,Pimenta Ltda.,,15958676000160,535603319,pimenta.ltda.701@example.com,5536989003010,True
+702,PF,Pedro Lucas Cirino,,52709356600,,pedro.lucas.cirino.702@example.com,5505959342967,True
+703,PF,Camila Ribeiro,,15555026102,,camila.ribeiro.703@example.com,5514983753745,True
+704,PF,Lavínia Rezende,,87966153541,,lav.nia.rezende.704@example.com,5584958810569,True
+705,PF,LARA BARROS,,91851712208,,lara.barros.705@example.com,5528934831520,True
+706,PF,Pedro Lucas Rezende,,23342737085,,pedro.lucas.rezende.706@example.com,55010970449641,True
+707,PJ,da Mota - EI EIRELI,Monteiro,30235911000169,066703362,da.mota.ei.eireli.707@example.com,5580940850954,True
+708,PJ,Sá Alves Ltda.,Lima,86701082000117,018648769,s.alves.ltda.708@example.com,5584926732044,True
+709,PJ,da Cruz - EI S.A.,Fernandes,80415060000104,960945449,da.cruz.ei.s.a.709@example.com,5514995427707,True
+710,PF,Ravi Lucca Andrade,,37435396753,,ravi.lucca.andrade.710@example.com,5578936091498,True
+711,PF,Sr. Pedro Lucas Cirino,,50659127938,,sr.pedro.lucas.cirino.711@example.com,5544972322903,True
+712,PJ,Rezende S/A S.A.,Rodrigues Montenegro - ME,60965472000100,950830440,rezende.s.a.s.a.712@example.com,5580993511871,True
+713,PJ,da Costa S.A.,Oliveira,14280985000160,561642059,da.costa.s.a.713@example.com,5556957490250,True
+714,PF,Dom Pastor,,75069309358,,dom.pastor.714@example.com,5519935889536,True
+715,PJ,Ribeiro e Filhos EIRELI,,97588459000190,261139898,ribeiro.e.filhos.eireli.715@example.com,5581980978875,True
+716,PF,Gael Oliveira,,55657350685,,gael.oliveira.716@example.com,5535935375137,True
+717,PF,Sra. Maria Cecília Barros,,51265530890,,sra.maria.cec.lia.barros.717@example.com,5588915793763,False
+718,PF,Carolina Nascimento,,43774367400,,carolina.nascimento.718@example.com,5569929445511,True
+719,PJ,Leão Ltda,,3552135000158,829732702,le.o.ltda.719@example.com,5564987120602,True
+720,PF,Davi Lucca Moraes,,21880626985,,davi.lucca.moraes.720@example.com,5566952683415,True
+721,PF,Sr. Augusto Barbosa,,23729641867,,sr.augusto.barbosa.721@example.com,5576976472298,True
+722,PJ,Cassiano S/A Ltda,Rocha,34207826000148,765728941,cassiano.s.a.ltda.722@example.com,5547950988986,True
+723,PF,Lorenzo Gomes,,93397190509,,lorenzo.gomes.723@example.com,5522903684995,True
+724,PF,Luiz Felipe da Paz,,80137418264,,luiz.felipe.da.paz.724@example.com,55014947732449,True
+725,PF,Igor Rios,,89556041222,,igor.rios.725@example.com,5521938820908,True
+726,PF,Evelyn Abreu,,2137518368,,evelyn.abreu.726@example.com,55005934967827,True
+727,PJ,Camargo EIRELI,,29632693000117,176741241,camargo.eireli.727@example.com,5513915285478,True
+728,PJ,Santos e Filhos EIRELI,,48167996000150,,santos.e.filhos.eireli.728@example.com,5532996334727,True
+729,PF,Theo da Paz,,49861745173,,theo.da.paz.729@example.com,55031983061789,True
+730,PJ,Santos Cavalcanti S/A Ltda,Sales,69358400000170,496935782,santos.cavalcanti.s.a.ltda.730@example.com,5534977695874,True
+731,PF,Henry Camargo,,83165827672,,henry.camargo.731@example.com,5567953612751,True
+732,PF,Dr. Davi Lucas Vasconcelos,,27785182825,,dr.davi.lucas.vasconcelos.732@example.com,55079963044836,True
+733,PF,Lorenzo da Luz,,72433826063,,lorenzo.da.luz.733@example.com,5566976640473,True
+734,PF,Sr. Leandro Machado,,32780614544,,sr.leandro.machado.734@example.com,5539928319952,True
+735,PJ,Silveira S/A ME,Borges,55199826000113,558108358,silveira.s.a.me.735@example.com,5528963425563,True
+736,PF,Isadora Albuquerque,,61980966966,,isadora.albuquerque.736@example.com,0000000000,True
+737,PJ,da Conceição e Filhos S.A.,Andrade da Mata e Filhos,83300151000192,166241118,da.concei.o.e.filhos.s.a.737@example.com,5500989219639,True
+738,PF,Lorenzo Lima,,87149721907,,lorenzo.lima.738@example.com,5504947314976,True
+739,PJ,Lima S.A.,Câmara - ME,77371690000110,847488360,lima.s.a.739@example.com,55065981739063,False
+740,PJ,Freitas Ltda,Nunes,9872095000108,145211823,freitas.ltda.740@example.com,55093912697893,True
+741,PJ,Sem Nome,Jesus,22991226000134,452059960,vargas.me.741@example.com,5538978753577,True
+742,PJ,Caldeira - ME,Garcia S.A.,47940083000162,028123710,caldeira.me.742@example.com,5572987286604,True
+743,PF,Pedro Henrique da Rocha,,95926407931,,pedro.henrique.da.rocha.743@example.com,5585995922483,False
+744,PF,Maria Fernanda Moreira,,76781520199,,maria.fernanda.moreira.744@example.com,5547973522870,True
+745,PF,Dr. Felipe Cassiano,,68876233156,,dr.felipe.cassiano.745@example.com,55010943318751,True
+746,PJ,Pinto - ME,Azevedo Ferreira e Filhos,71292891000145,835034469,pinto.me.746@example.com,5559964883192,True
+747,PJ,Siqueira S.A.,,52340303000157,424912896,siqueira.s.a.747@example.com,5599994973203,True
+748,PJ,Borges Pimenta S.A.,Cavalcante Melo S/A,58717683000182,510287675,borges.pimenta.s.a.748@example.com,0000000000,True
+749,PF,Luiza Moura,,19392040032,,luiza.moura.749@example.com,5593924268774,True
+750,PF,Bárbara Novais,,72035394821,,b.rbara.novais.750@example.com,5552905756398,True
+751,PJ,Garcia Freitas S.A.,,40726414000117,037583094,garcia.freitas.s.a.751@example.com,5515948094047,True
+752,PF,Ana Clara Sampaio,,99680503186,,ana.clara.sampaio.752@example.com,5540990797727,True
+753,PF,Dra. Ísis Caldeira,,14263568540,,dra.sis.caldeira.753@example.com,5550992221610,True
+754,PF,Ana Liz Dias,,94237586812,,ana.liz.dias.754@example.com,5584939055295,True
+755,PJ,Rios - ME,Rios,35876931000132,013824127,rios.me.755@example.com,5549938620448,True
+756,PF,Sr. Luigi Martins,,35808843014,,sr.luigi.martins.756@example.com,5519971112125,True
+757,PJ,Vargas S.A.,,3299534000159,035713432,vargas.s.a.757@example.com,5506942429563,False
+758,PJ,da Mata Costa S.A.,da Luz,53836442000139,741759558,da.mata.costa.s.a.758@example.com,55020996289365,True
+759,PJ,Costela ME,,95770983000151,588418343,costela.me.759@example.com,55040918272795,False
+760,PF,Dr. Arthur Gabriel Duarte,,82324014351,,dr.arthur.gabriel.duarte.760@example.com,5550926755125,True
+761,PF,Enrico Martins,,98686499279,,enrico.martins.761@example.com,5520979799667,True
+762,PF,José Silveira,,11797336657,,jos.silveira.762@example.com,5595976403816,True
+763,PJ,Vasconcelos S.A.,Oliveira,47927699000101,690282498,vasconcelos.s.a.763@example.com,5592925014257,True
+764,PJ,Cavalcante S.A.,Abreu,25260334000125,232441233,cavalcante.s.a.764@example.com,5513928507251,True
+765,PF,Maria Júlia Sampaio,,14108109414,,maria.j.lia.sampaio.765@example.com,5576973162526,True
+766,PJ,da Paz ME,Peixoto,64711527000107,681579039,da.paz.me.766@example.com,55035955809961,True
+767,PF,Heloísa Carvalho,,17032412823,,helo.sa.carvalho.767@example.com,55030934615626,False
+768,PJ,da Paz das Neves - ME,,29974211000107,704622681,da.paz.das.neves.me.768@example.com,55015916025298,True
+769,PF,Mirella Albuquerque,,69278927619,,mirella.albuquerque.769@example.com,55066904641978,True
+770,PF,Dr. Lucas Gabriel Nascimento,,42016968044,,dr.lucas.gabriel.nascimento.770@example.com,5512968612059,True
+771,PJ,Costa EIRELI,Lopes,12959113000106,074017750,costa.eireli.771@example.com,5554965408424,True
+772,PJ,Leão EIRELI,,75186289000184,075409150,le.o.eireli.772@example.com,5563921812276,True
+773,PF,Luiz Felipe Marques,,35348346748,,luiz.felipe.marques.773@example.com,5538997015502,True
+774,PF,Beatriz Garcia,,52440292230,,beatriz.garcia.774@example.com,5515946602416,True
+775,PF,Gael Oliveira,,59609956033,,gael.oliveira.775@example.com,5549988305973,True
+776,PJ,da Mota EIRELI,,97352716000190,248096244,da.mota.eireli.776example.com,5563906244795,True
+777,PJ,Câmara S.A.,Santos Ltda.,15869809000121,319497969,c.mara.s.a.777@example.com,5586978055557,True
+778,PJ,Martins Souza - ME,Nascimento Sampaio S.A.,16257199000178,646091785,martins.souza.me.778@example.com,5538954457702,True
+779,PJ,Pinto Fogaça - EI Ltda,Leã,71445657000100,048736826,pinto.foga.a.ei.ltda.779@example.com,5511963319422,True
+780,PJ,Novaes EIRELI,Fogaça,81111155000105,369455158,novaes.eireli.780@example.com,5586936774722,True
+781,PF,Laura Abreu,,41440070490,,laura.abreu.781@example.com,5557921696663,True
+782,PJ,Pinto S.A.,Pimenta Pinto - EI,50320156000128,199605932,pinto.s.a.782@example.com,5571950968832,True
+783,PJ,Freitas ME,Cavalcanti Melo e Filhos,20225933000194,352410397,freitas.me.783@example.com,55039973278195,True
+784,PF,Joaquim Martins,,139213805,,joaquim.martins.784@example.com,5500968761648,True
+785,PJ,Silva - EI S.A.,Macedo - ME,80201338000140,046056876,silva.ei.s.a.785@example.com,5512949125652,True
+786,PF,Rodrigo Costela,,22482950651,,rodrigo.costela.786@example.com,5515917734547,True
+787,PF,Dr. José Pedro Nunes,,72408257956,,dr.jos.pedro.nunes.787@example.com,5590922840359,True
+788,PF,Dr. Leandro Silva,,28472908186,,dr.leandro.silva.788@example.com,55094977422294,True
+789,PF,Jade Porto,,7237545949,,jade.porto.789@example.com,5503994290458,True
+790,PJ,Mendes Ltda,Ferreira Ramos S.A.,55067217000100,985856728,mendes.ltda.790@example.com,55027960153433,True
+791,PF,João Lucas Pereira,,21765477301,,jo.o.lucas.pereira.791@example.com,5535977908335,True
+792,PJ,Guerra e Filhos S.A.,Farias - EI,29008904000145,148881079,guerra.e.filhos.s.a.792@example.com,5533942337209,True
+793,PF,Yuri da Mota,,7772138857,,yuri.da.mota.793@example.com,5531928403339,True
+794,PJ,Martins ME,Nascimento S/A,69125129000122,513717173,martins.me.794@example.com,5589939749096,True
+795,PF,Pedro Miguel Vasconcelos,,80197054900,,pedro.miguel.vasconcelos.795@example.com,5599970469472,True
+796,PJ,Montenegro S.A.,Moraes,64526550000121,444835488,montenegro.s.a.796@example.com,5571927058772,True
+797,PJ,Azevedo Teixeira - ME,Brito,60085933000150,758231334,azevedo.teixeira.me.797@example.com,5545987149392,True
+798,PF,Sr. Gael Vargas,,79117246369,,sr.gael.vargas.798@example.com,5522992587964,True
+799,PJ,da Luz Melo Ltda.,,97627906000172,524555746,da.luz.melo.ltda.799@example.com,5566906065274,False
+800,PJ,Santos S.A.,,1666013000167,344505665,santos.s.a.800@example.com,5583939874113,True
+801,PJ,Duarte Silveira - ME,Aparecida,14369637000164,673499601,duarte.silveira.me.801@example.com,5554985741721,True
+802,PF,Dr. Dom Cassiano,,70440839190,,dr.dom.cassiano.802@example.com,5549938173598,True
+803,PF,Joana Novais,,6909311078,,joana.novais.803@example.com,5540921557325,True
+804,PJ,da Conceição ME,Fonseca,83952092000137,534490216,da.concei.o.me.804@example.com,5567908085096,True
+805,PJ,Montenegro Ltda.,da Paz,50239587000164,951191818,montenegro.ltda.805@example.com,55081997931647,False
+806,PJ,Sousa ME,Rezende Farias S/A,65264785000155,295786069,sousa.me.806@example.com,5509960035624,True
+807,PJ,Pacheco Rocha Ltda.,,89752507000105,873959232,pacheco.rocha.ltda.807@example.com,5542910890285,True
+808,PF,Luan Dias,,97425486253,,luan.dias.808@example.com,5533942643350,True
+809,PJ,Macedo Campos - ME,Macedo e Filhos,97244682000110,360776336,macedo.campos.me.809@example.com,5511928981231,True
+810,PF,Maria Alice Souza,,17279348068,,maria.alice.souza.810@example.com,5563931857481,True
+811,PF,Allana Abreu,,2954237066,,allana.abreu.811@example.com,5566915541643,True
+812,PF,Srta. Maria Julia Melo,,72599777445,,srta.maria.julia.melo.812@example.com,5545902329028,True
+813,PJ,Carvalho Sales - ME,Araújo - EI,10132134000110,345962622,carvalho.sales.me.813@example.com,5522951207346,True
+814,PF,Maria Fernanda da Luz,,45495686314,,maria.fernanda.da.luz.814@example.com,5550905070260,False
+815,PF,Maria Flor Teixeira,,86620196330,,maria.flor.teixeira.815@example.com,5582921053161,True
+816,PF,Renan Martins,,78713159607,,renan.martins.816@example.com,5587929047742,True
+817,PF,Dr. Calebe Mendes,,38162757708,,dr.calebe.mendes.817@example.com,55093923822311,True
+818,PJ,da Paz S.A.,da Cruz S.A.,53871803000188,424579889,da.paz.s.a.818@example.com,5525965290603,True
+819,PF,Anthony Gabriel Casa Grande,,71886117500,,anthony.gabriel.casa.grande.819@example.com,5532965097753,True
+820,PJ,Machado Ltda,,25871850000196,379487148,machado.ltda.820@example.com,5552945787158,True
+821,PF,Benício Viana,,13383781046,,ben.cio.viana.821@example.com,5560982137118,True
+822,PJ,Cardoso S.A.,das Neves,9616244000178,768182683,cardoso.s.a.822@example.com,55030935892988,True
+823,PF,Vitor Fonseca,,57745831555,,vitor.fonseca.823@example.com,5538925212932,True
+824,PF,Mariana Costa,,44004731208,,mariana.costa.824@example.com,5506946867752,True
+825,PF,Sra. Agatha Barbosa,,42491615606,,sra.agatha.barbosa.825@example.com,5584939910622,False
+826,PF,Elisa Teixeira,,27624156326,,elisa.teixeira.826@example.com,5562966933513,True
+827,PJ,Carvalho ME,,85386050000101,619237245,carvalho.me.827@example.com,5518948197374,True
+828,PF,Vitor Hugo Souza,,11804157600,,vitor.hugo.souza.828@example.com,5572915406417,True
+829,PF,Eloá Santos,,40078083419,,elo.santos.829@example.com,55043981199537,True
+830,PF,Sra. Mariah Araújo,,93197878671,,sra.mariah.ara.jo.830@example.com,5544948564510,True
+831,PF,Ryan da Cruz,,90568371500,,ryan.da.cruz.831@example.com,5573996417899,True
+832,PF,Stella Rios,,51153627400,,stella.rios.832@example.com,5509919191135,True
+833,PF,Mariah Gonçalves,,76983340825,,mariah.gon.alves.833@example.com,5557979806603,True
+834,PJ,Alves Pires Ltda.,da Rocha - ME,94077107000181,074555347,alves.pires.ltda.834@example.com,5557942388565,True
+835,PF,Theo Borges,,38948602357,,theo.borges.835@example.com,5559983541165,True
+836,PF,Sara Porto,,5921710270,,sara.porto.836@example.com,55063947557522,True
+837,PF,Sr. Daniel Correia,,48824939341,,sr.daniel.correia.837@example.com,5548984882691,True
+838,PJ,Borges Borges e Filhos ME,da Luz,69300338000165,258562614,borges.borges.e.filhos.me.838@example.com,5591953703824,False
+839,PF,Thales Câmara,,95842215900,,thales.c.mara.839@example.com,5533973204309,True
+840,PF,Maysa Leão,,40981163084,,maysa.le.o.840@example.com,5589936289696,True
+841,PF,Sra. Maria Clara da Luz,,6413851708,,sra.maria.clara.da.luz.841@example.com,5555935851253,True
+842,PF,Carolina Brito,,6748127513,,carolina.brito.842@example.com,5578951935837,True
+843,PJ,Oliveira EIRELI,,79654129000173,079779612,oliveira.eireli.843@example.com,5587980572151,True
+844,PF,Sra. Isis Siqueira,,3733575083,,sra.isis.siqueira.844@example.com,5597962637484,True
+845,PJ,da Conceição S.A.,Casa Grande,91509455000192,895090591,da.concei.o.s.a.845@example.com,5591986233922,True
+846,PJ,Rezende - ME,,53451632000138,151169666,rezende.me.846@example.com,55025921452647,True
+847,PF,Francisco da Luz,,81918553050,,francisco.da.luz.847@example.com,5533951571840,True
+848,PF,Ana Liz Novais,,47931753097,,ana.liz.novais.848@example.com,5551920800564,True
+849,PJ,Nunes - EI EIRELI,,20426340000196,512397283,nunes.ei.eireli.849@example.com,5512995927282,True
+850,PF,Ana Pinto,,1406061735,,ana.pinto.850@example.com,5581944152982,True
+851,PJ,Monteiro S.A.,,92514097000179,929578671,monteiro.s.a.851@example.com,5515935237360,True
+852,PJ,Araújo Ltda,,42225646000117,791815899,ara.jo.ltda.852@example.com,5586983452734,True
+853,PJ,Guerra Ltda,Garcia,74020206000110,170715879,guerra.ltda.853@example.com,5547940803149,True
+854,PF,Dra. Ágatha Cavalcanti,,57555380935,,dra.gatha.cavalcanti.854@example.com,5508900463580,True
+855,PF,Maya Sousa,,40932709532,,maya.sousa.855@example.com,5582985031723,True
+856,PF,Sra. Ana Sophia Silva,,62740830904,,sra.ana.sophia.silva.856@example.com,5573999006314,True
+857,PF,Isaque Ribeiro,,50353447897,,isaque.ribeiro.857@example.com,5526935602293,True
+858,PF,Joana Lima,,52960608658,,joana.lima.858@example.com,5543946066643,True
+859,PF,Isis Peixoto,,74102160426,,isis.peixoto.859@example.com,5560972311127,True
+860,PF,Fernando Nascimento,,17866356742,,fernando.nascimento.860@example.com,5524964844941,True
+861,PF,Miguel Costa,,76868316127,,miguel.costa.861@example.com,5587932807711,True
+862,PJ,Andrade Gomes S.A.,Teixeira e Filhos,85307869000136,136957279,andrade.gomes.s.a.862@example.com,5583935090254,True
+863,PJ,Ferreira Martins S.A.,Gonçalves - ME,6486356000163,248132357,ferreira.martins.s.a.863@example.com,5571939848228,False
+864,PJ,Araújo S.A.,Rodrigues S/A,32582330000129,688092550,ara.jo.s.a.864@example.com,55013906090691,True
+865,PF,Arthur Miguel Nunes,,98177327380,,arthur.miguel.nunes.865@example.com,5510979649673,True
+866,PF,Rebeca Pimenta,,78584493387,,rebeca.pimenta.866@example.com,tel.: 0000,True
+867,PF,Emanuella Gomes,,18260458306,,emanuella.gomes.867@example.com,5525906420768,True
+868,PF,Murilo Cardoso,,95949309774,,murilo.cardoso.868@example.com,5536966777675,True
+869,PJ,Duarte ME,Carvalho,20000539000158,833339395,duarte.me.869@example.com,55086954362718,True
+870,PJ,da Rosa ME,,31897001000104,960335826,da.rosa.me.870@example.com,5562970369249,True
+871,PJ,Ramos Guerra - EI Ltda,Cassiano Jesus Ltda.,60024244000136,732759980,ramos.guerra.ei.ltda.871@example.com,5511900051553,True
+872,PJ,Cunha das Neves S/A ME,Pinto,36272311000157,597752441,cunha.das.neves.s.a.me.872@example.com,5522926189628,True
+873,PJ,Sampaio ME,Sales,18226111000186,312710267,sampaio.me.873@example.com,5572909579927,True
+874,PF,Samuel Rios,,95131562813,,samuel.rios.874@example.com,5555915122946,True
+875,PF,Daniel Vieira,,24702529625,,daniel.vieira.875@example.com,5554915970996,True
+876,PF,Luiz Otávio da Cunha,,53082054773,,luiz.ot.vio.da.cunha.876@example.com,5584980752034,True
+877,PF,Pietro Lopes,,65800296847,,pietro.lopes.877@example.com,5504971580290,True
+878,PF,Dra. Allana da Rosa,,1959417720,,dra.allana.da.rosa.878@example.com,5537966046558,True
+879,PJ,Jesus ME,Cardoso,50267799000155,548374417,jesus.me.879@example.com,5558910213125,True
+880,PF,Eduardo Oliveira,,66367960732,,eduardo.oliveira.880@example.com,5511900591297,True
+881,PF,Luísa Viana,,21466457333,,lu.sa.viana.881@example.com,5591902312110,True
+882,PJ,Vieira EIRELI,,40634190000113,330165837,vieira.eireli.882@example.com,5579927490728,True
+883,PF,Bruno Cavalcanti,,94548018727,,bruno.cavalcanti.883@example.com,5542989311325,True
+884,PJ,Castro Gonçalves e Filhos Ltda,Peixoto,13145071000124,684364538,castro.gon.alves.e.filhos.ltda.884@example.com,5544921017509,True
+885,PF,Anna Liz Rocha,,57835228564,,anna.liz.rocha.885@example.com,55001959591945,True
+886,PJ,Fogaça S.A.,Freitas,21597042000121,747583392,foga.a.s.a.886@example.com,5556977567772,True
+887,PJ,Sousa Sá - ME,Alves,49702401000182,256265062,sousa.s.me.887@example.com,55092931067245,True
+888,PF,Antônio Monteiro,,64296022733,,ant.nio.monteiro.888@example.com,5524984337976,True
+889,PF,Eduarda Mendonça,,5185259612,,eduarda.mendon.a.889@example.com,5551915794238,True
+890,PF,Helena Leão,,10218202105,,helena.le.o.890@example.com,55004925496919,True
+891,PF,Vinícius da Paz,,23092433610,,vin.cius.da.paz.891@example.com,5552959710756,True
+892,PJ,Costela Duarte e Filhos S.A.,Dias Porto - ME,6217492000158,485953259,costela.duarte.e.filhos.s.a.892@example.com,5599933797058,True
+893,PF,Matheus Sá,,65640613157,,matheus.s.893@example.com,55095918779417,True
+894,PF,Evelyn Vieira,,34411713659,,evelyn.vieira.894@example.com,5525907330559,True
+895,PJ,Novais Ltda,Viana da Mata Ltda.,3773763000163,759833991,novais.ltda.895@example.com,5503988436604,True
+896,PF,Gustavo Casa Grande,,30808812734,,gustavo.casa.grande.896@example.com,5500961572768,True
+897,PJ,Peixoto Macedo Ltda.,da Mota - ME,25303214000168,439742925,peixoto.macedo.ltda.897@example.com,5510958752568,True
+898,PF,Pedro Henrique Ramos,,8766454816,,pedro.henrique.ramos.898@example.com,5562959045990,False
+899,PF,Ana Laura Silveira,,65596251763,,ana.laura.silveira.899@example.com,55071912218231,True
+900,PJ,Fogaça ME,Barros,47635946000198,651768086,foga.a.me.900@example.com,5528913721433,True
+901,PJ,Ramos e Filhos EIRELI,Aragão e Filhos,42755814000186,370033228,ramos.e.filhos.eireli.901@example.com,5556960847068,True
+902,PF,Asafe Costa,,64610521784,,asafe.costa.902@example.com,5503939705195,True
+903,PF,Eloah Gonçalves,,86404323095,,eloah.gon.alves.903@example.com,5528909448586,True
+904,PF,Guilherme Sá,,34777609995,,guilherme.s.904@example.com,5545935461470,True
+905,PF,Sophie Vargas,,72588159451,,sophie.vargas.905@example.com,5532910613394,True
+906,PF,Dra. Hadassa Pastor,,97191980605,,dra.hadassa.pastor.906@example.com,5557903943804,True
+907,PF,Henrique Cirino,,58407661864,,henrique.cirino.907@example.com,5537965769277,True
+908,PF,Laura Vieira,,84423793636,,laura.vieira.908@example.com,5519910090040,True
+909,PF,Pedro Miguel Garcia,,5083312182,,pedro.miguel.garcia.909@example.com,5521905336514,True
+910,PF,Alícia da Rosa,,31708663118,,al.cia.da.rosa.910@example.com,5514924731072,True
+911,PJ,Camargo S/A ME,Marques Pacheco e Filhos,92534095000141,844097123,camargo.s.a.me.911@example.com,5566900767620,True
+912,PJ,Ribeiro S/A S.A.,Santos,84758717000197,473404337,ribeiro.s.a.s.a.912@example.com,5509968730451,True
+913,PF,Maria Eduarda Marques,,6300721248,,maria.eduarda.marques.913@example.com,55082955882556,True
+914,PJ,Pacheco Guerra Ltda.,Ferreira,93878918000119,427865619,pacheco.guerra.ltda.914@example.com,5525957782058,True
+915,PF,Clara Peixoto,,56418420012,,clara.peixoto.915@example.com,5582992361618,True
+916,PF,Ana Cecília Moreira,,8318593260,,ana.cec.lia.moreira.916@example.com,5590948235715,True
+917,PJ,Novaes Ltda,,19620292000193,686395613,novaes.ltda.917@example.com,55023908172143,True
+918,PJ,da Rosa ME,Nogueira Porto S/A,39948339000150,300041321,da.rosa.me.918@example.com,5547916560945,True
+919,PF,Maria Fernanda Costela,,81037529162,,maria.fernanda.costela.919@example.com,5569997990707,True
+920,PJ,Ferreira ME,,4429348000150,047681699,ferreira.me.920@example.co,5570960717481,True
+921,PJ,da Cruz e Filhos ME,Marques - ME,82897513000101,539705487,da.cruz.e.filhos.me.921@example.com,5596910290871,True
+922,PF,Emilly Martins,,84970258066,,emilly.martins.922@example.com,5596980491872,True
+923,PF,Laís Castro,,76376222749,,la.s.castro.923@example.com,5549956121377,True
+924,PJ,Abreu Gomes e Filhos Ltda,Vargas Garcia S/A,8757924000149,423597371,abreu.gomes.e.filhos.ltda.924@example.com,5522929907756,True
+925,PF,Vinicius Sales,,4686675553,,vinicius.sales.925@example.com,5581967046861,True
+926,PF,Caio da Luz,,11979922276,,caio.da.luz.926@example.com,5576983210219,True
+927,PJ,Rios Costa - ME,Novais,47402520000194,471296180,rios.costa.me.927@example.com,5532942605080,True
+928,PF,Vinicius Rios,,71629967874,,vinicius.rios.928@example.com,5598904253733,False
+929,PJ,Mendes ME,Cunha,27465739000125,,mendes.me.929@example.com,55017981923653,True
+930,PF,Nicolas Araújo,,66122333115,,nicolas.ara.jo.930@example.com,5505960356793,False
+931,PF,Srta. Pietra Pimenta,,86052020334,,srta.pietra.pimenta.931@example.com,5562939847169,True
+932,PF,Oliver Azevedo,,95833628326,,oliver.azevedo.932@example.com,5512905464754,True
+933,PJ,das Neves ME,Moraes,71831621000165,769899927,das.neves.me.933@example.com,5517958891444,True
+934,PF,Théo da Conceição,,52862057800,,th.o.da.concei.o.934@example.com,5553993543586,True
+935,PF,João Peixoto,,54337908277,,jo.o.peixoto.935@example.com,5539924358853,True
+936,PF,Stephany Cavalcanti,,2591582912,,stephany.cavalcanti.936@example.com,5543939527536,True
+937,PF,Júlia Nunes,,9635225407,,j.lia.nunes.937@example.com,55085924914168,True
+938,PJ,Abreu Ltda,,76439865000110,134778948,abreu.ltda.938@example.com,5563940679176,True
+939,PF,Luara Campos,,67168001078,,luara.campos.939@example.com,55021950014188,True
+940,PF,Davi Lucas Viana,,90805767002,,davi.lucas.viana.940@example.com,5563909001594,True
+941,PF,Pedro da Costa,,3637622807,,pedro.da.costa.941@example.com,5539999485320,False
+942,PF,Luiza Teixeira,,64639833300,,luiza.teixeira.942@example.com,5526938902199,True
+943,PJ,Mendonça ME,Brito S.A.,76903480000162,633792234,mendon.a.me.943@example.com,5503946996733,True
+944,PF,Bruno Jesus,,26632983448,,bruno.jesus.944@example.com,55072969608437,True
+945,PJ,Vieira Ltda,Duarte,70422577000177,078967935,vieira.ltda.945@example.com,55019962633556,True
+946,PF,Josué Silva,,27626953509,,josu.silva.946@example.com,5536997093170,True
+947,PJ,Oliveira S.A.,,21159760000116,556076761,oliveira.s.a.947@example.com,5545934547223,True
+948,PF,Stella Peixoto,,13581799642,,stella.peixoto.948@example.com,5530965031219,True
+949,PF,Dra. Ana Julia da Cunha,,14134014735,,dra.ana.julia.da.cunha.949@example.com,5584972426423,True
+950,PF,Luana Cavalcante,,62618785282,,luana.cavalcante.950@example.com,5513919092487,True
+951,PF,Eloah da Costa,,29474856885,,eloah.da.costa.951@example.com,5539911142817,True
+952,PJ,Silveira ME,Cassiano Nascimento S.A.,58481598000168,305248088,silveira.me.952@example.com,5562920722395,True
+953,PF,Lara Martins,,89653680226,,lara.martins.953@example.com,5572913290162,True
+954,PF,João Pedro Marques,,12145277447,,jo.o.pedro.marques.954@example.com,5576988687859,True
+955,PJ,Sá ME,Moura,37252082000171,628720319,s.me.955@example.com,5541996664505,True
+956,PF,Fernanda Sá,,8263779634,,fernanda.s.956@example.com,5536927924632,True
+957,PF,Ian Macedo,,85248351413,,ian.macedo.957@example.com,5576977537260,True
+958,PJ,Casa Grande Porto S/A EIRELI,Freitas,13235929000141,057661945,casa.grande.porto.s.a.eireli.958@example.com,5587907155348,True
+959,PJ,Albuquerque Brito S.A.,Araújo,36774570000186,083850765,albuquerque.brito.s.a.959@example.com,5575995450891,True
+960,PJ,Teixeira Ltda,,1864619000107,768089812,teixeira.ltda.960@example.com,5557942231964,True
+961,PF,Hellena Aparecida,,43497463159,,hellena.aparecida.961@example.com,5540923693626,True
+962,PF,Jade Costela,,25267030260,,jade.costela.962@example.com,5512904713727,True
+963,PF,Bruno Rios,,98433022814,,bruno.rios.963@example.com,55059957498855,True
+964,PJ,Rios Rodrigues e Filhos EIRELI,,36040988000160,984933067,rios.rodrigues.e.filhos.eireli.964@example.com,5558947609441,True
+965,PF,Henry Gabriel Viana,,14086412241,,henry.gabriel.viana.965@example.com,5537921885666,True
+966,PJ,da Rosa S.A.,da Cruz S.A.,7186827000180,971506662,da.rosa.s.a.966@example.com,5570955143776,True
+967,PJ,Guerra Lopes S.A.,da Cruz,68788389000115,925295961,guerra.lopes.s.a.967@example.com,5511902867120,True
+968,PF,Ravy Cavalcanti,,16243153487,,ravy.cavalcanti.968@example.com,5524955910245,True
+969,PF,Arthur Miguel Pacheco,,22754610278,,arthur.miguel.pacheco.969@example.com,5509903267149,True
+970,PF,Vinicius Barbosa,,95096401073,,vinicius.barbosa.970@example.com,5542917942817,True
+971,PF,Heloisa Sales,,12703345739,,heloisa.sales.971@example.com,5506952775844,True
+972,PF,Maria Liz Leão,,35019641375,,maria.liz.le.o.972@example.com,5545933722010,True
+973,PJ,Casa Grande S/A ME,Cardoso,44610845000174,214559376,casa.grande.s.a.me.973@example.com,5518994370526,True
+974,PF,Luiz Felipe Azevedo,,9223161479,,luiz.felipe.azevedo.974@example.com,5504962776572,True
+975,PJ,Souza S.A.,Ribeiro,98577360000155,592024617,souza.s.a.975@example.com,5520923897432,True
+976,PF,Ana Carolina Vargas,,92436409099,,ana.carolina.vargas.976@example.com,5555995501783,True
+977,PF,Diogo Farias,,22162646102,,diogo.farias.977@example.com,5548968999360,True
+978,PF,Lavínia Nascimento,,25920320028,,lav.nia.nascimento.978@example.com,55004950691767,True
+979,PF,Isabel Dias,,47891127131,,isabel.dias.979@example.com,5537944039464,True
+980,PF,Vinícius da Conceição,,2658971141,,vin.cius.da.concei.o.980@example.com,5537936060148,True
+981,PF,Maria Vitória Almeida,,34195921082,,maria.vit.ria.almeida.981@example.com,5549907938841,False
+982,PF,Mathias Novais,,73093311845,,mathias.novais.982@example.com,5528930615370,True
+983,PJ,Cardoso e Filhos ME,Cavalcante,83695507000134,446263251,cardoso.e.filhos.me.983@example.com,5548981121031,True
+984,PJ,Cavalcanti S.A.,,37063255000103,175188781,cavalcanti.s.a.984@example.com,55094915152638,True
+985,PJ,Silveira S.A.,Pinto S/A,74495910000129,122528837,silveira.s.a.985@example.com,5505966186323,True
+986,PF,Rafaela Vasconcelos,,23704687340,,rafaela.vasconcelos.986@example.com,5513978765530,True
+987,PJ,Machado S.A.,Oliveira Ltda.,86351992000117,055605712,machado.s.a.987@example.com,5598981927788,True
+988,PJ,Campos ME,Viana e Filhos,38382328000192,534864010,campos.me.988@example.com,5524962456185,True
+989,PJ,Monteiro Ltda.,Jesus,79876862000132,004521289,monteiro.ltda.989@example.com,5515911455129,True
+990,PJ,Pacheco Barros S.A.,da Mota Ltda.,35955425000139,881898484,pacheco.barros.s.a.990@example.com,5560946154021,True
+991,PJ,Pastor S/A S.A.,,62004017000174,170756814,pastor.s.a.s.a.991@example.com,55098931522910,True
+992,PF,Helena Siqueira,,87956145678,,helena.siqueira.992@example.com,55028936084937,True
+993,PJ,Araújo Lopes S.A.,Correia,77568123000158,845269694,ara.jo.lopes.s.a.993@example.com,5539916497016,True
+994,PF,Esther Souza,,47374035802,,esther.souza.994@example.com,5529929132033,True
+995,PJ,Siqueira S/A Ltda,Carvalho,96665592000130,341903106,siqueira.s.a.ltda.995@example.com,5553972215566,True
+996,PJ,Macedo Ltda,Porto Casa Grande S.A.,64567572000130,653377460,macedo.ltda.996@example.com,5506972007843,True
+997,PJ,Camargo S.A.,Casa Grande,9467495000138,442607819,camargo.s.a.997@example.com,55054937347642,True
+998,PF,Hellena Macedo,,72146733047,,hellena.macedo.998@example.com,55003976388214,True
+999,PJ,Moreira S.A.,,99863945000102,414846019,moreira.s.a.999@example.com,5534943899827,True
+1000,PF,Agatha Cassiano,,58542714199,,agatha.cassiano.1000@example.com,5558969507321,True
+1001,PF,Sra. Mariana da Cunha,,42111918458,,sra.mariana.da.cunha.1001@example.com,5593969995167,True
+1002,PF,Fernanda da Cruz,,98993138150,,fernanda.da.cruz.1002@example.com,5505957385736,True
+1003,PJ,Sales S/A Ltda,,96765027000144,192360376,sales.s.a.ltda.1003@example.com,5511987233351,False
+1004,PJ,da Cunha S/A ME,Campos,71297088000101,497315391,da.cunha.s.a.me.1004@example.com,5549983074820,True
+1005,PF,Helena Vieira,,90381873196,,helena.vieira.1005@example.com,5551918939406,True
+1006,PF,Sra. Maria Alice Sá,,11122316682,,sra.maria.alice.s.1006@example.com,55082901904322,True
+1007,PF,Augusto Siqueira,,3533996123,,augusto.siqueira.1007@example.com,55033932470739,True
+1008,PJ,Andrade Campos e Filhos ME,,41084854000180,354621276,andrade.campos.e.filhos.me.1008@example.com,5525908261123,True
+1009,PJ,Cassiano - ME,Lopes S.A.,11200675000109,248889957,cassiano.me.1009@example.com,55098993762974,True
+1010,PJ,da Luz ME,Siqueira Vargas S/A,62623742000120,364687191,da.luz.me.1010@example.com,55003981876920,True
+1011,PJ,Nascimento da Conceição S.A.,Aragão Moraes - EI,59755112000103,813881588,nascimento.da.concei.o.s.a.1011@example.com,5544958220673,True
+1012,PF,Henry Sampaio,,44976008312,,henry.sampaio.1012@example.com,5582997168157,True
+1013,PF,João Guilherme Fernandes,,85151511033,,jo.o.guilherme.fernandes.1013@example.com,5500900015291,True
+1014,PJ,Sales S.A.,Brito,60633987000103,785090255,sales.s.a.1014@example.com,5518944421829,True
+1015,PF,Ágatha Mendes,,60369282469,,gatha.mendes.1015@example.com,5578912248905,True
+1016,PF,Olivia Aparecida,,46512404963,,olivia.aparecida.1016@example.com,5567900900436,True
+1017,PJ,Porto ME,Borges,65709343000175,584826691,porto.me.1017@example.com,5562948355054,True
+1018,PF,Marcos Vinicius Siqueira,,93869825952,,marcos.vinicius.siqueira.1018@example.com,5580970633699,True
+1019,PJ,Pinto S.A.,Viana,54755842000182,098221040,pinto.s.a.1019@example.com,5564981880442,True
+1020,PF,Olívia Monteiro,,69849251506,,ol.via.monteiro.1020@example.com,5583963816432,True
+1021,PJ,Casa Grande e Filhos ME,Pinto,59311536000170,428946420,casa.grande.e.filhos.me.1021@example.com,5562958631441,True
+1022,PF,Ana Cecília Gomes,,92571157043,,ana.cec.lia.gomes.1022@example.com,5562955402635,True
+1023,PJ,Nogueira S.A.,,58139041000143,243017646,nogueira.s.a.1023@example.com,5548998803153,True
+1024,PJ,da Mota Farias e Filhos S.A.,,41661728000141,279050404,da.mota.farias.e.filhos.s.a.1024@example.com,5533935384951,True
+1025,PF,Hellena Casa Grande,,705102530,,hellena.casa.grande.1025@example.com,5511997871809,True
+1026,PJ,da Costa Pastor S/A EIRELI,Monteiro Cunha S.A.,68935797000152,653060119,da.costa.pastor.s.a.eireli.1026@example.com,5575961786880,True
+1027,PF,Francisco Costela,,20281138125,,francisco.costela.1027@example.com,5509915618298,True
+1028,PJ,da Cruz e Filhos ME,Farias,75313013000110,774491609,da.cruz.e.filhos.me.1028@example.com,5565995201491,True
+1029,PJ,Moura e Filhos Ltda,Caldeira,43892467000104,843368750,moura.e.filhos.ltda.1029@example.com,5526932239982,True
+1030,PF,Isaque Machado,,68774754963,,isaque.machado.1030@example.com,5555961140428,True
+1031,PF,Maria Luísa Souza,,96107713786,,maria.lu.sa.souza.1031@example.com,5550953766608,True
+1032,PF,Srta. Bruna Souza,,17236586501,,srta.bruna.souza.1032@example.com,55060903083566,True
+1033,PJ,Teixeira S/A EIRELI,Cassiano,78881108000128,715312345,teixeira.s.a.eireli.1033@example.com,5506988269177,True
+1034,PF,Cecília Pinto,,25771034177,,cec.lia.pinto.1034@example.com,5584940134808,True
+1035,PF,Evelyn Fernandes,,3555297422,0,evelyn.fernandes.1035@example.com,5537988260335,True
+1036,PF,Camila Aragão,,94260959425,,camila.arag.o.1036@example.com,5557909085991,True
+1037,PF,João Pedro Oliveira,,90486639541,,jo.o.pedro.oliveira.1037@example.com,55007949269996,True
+1038,PF,Maria Flor Vasconcelos,,58098046834,,maria.flor.vasconcelos.1038@example.com,5589997184285,True
+1039,PF,Maria Isis Porto,,92896692924,,maria.isis.porto.1039@example.com,5532959140849,True
+1040,PF,Evelyn Cavalcanti,,74198986932,,evelyn.cavalcanti.1040@example.com,5512934266980,True
+1041,PJ,Pinto ME,Novais - ME,17546125000114,261760723,pinto.me.1041@example.com,5583989359538,False
+1042,PF,Antony da Paz,,74744710948,,antony.da.paz.1042@example.com,5556912996508,True
+1043,PF,Nathan Pastor,,20147288878,,nathan.pastor.1043@example.com,5582964186965,True
+1044,PF,Ana Sophia Cunha,,99265944927,,ana.sophia.cunha.1044@example.com,5587961238595,True
+1045,PJ,da Cunha S.A.,Guerra,20350473000126,823948400,da.cunha.s.a.1045@example.com,55073900869661,True
+1046,PJ,Camargo - ME,,76878831000122,831139500,camargo.me.1046@example.com,5568909414915,True
+1047,PJ,Marques - ME,Pires Moreira S.A.,16459021000100,976205344,marques.me.1047@example.com,5577979462072,True
+1048,PJ,Teixeira EIRELI,Rios,79461321000143,292508177,teixeira.eireli.1048@example.com,5502999140688,True
+1049,PF,Bernardo Correia,,98879254979,,bernardo.correia.1049@example.com,5537931255235,True
+1050,PF,Bianca Martins,,34942399750,,bianca.martins.1050@example.com,5517903211920,True
+1051,PF,Brenda Câmara,,44159349862,,brenda.c.mara.1051@example.com,5538952778956,True
+1052,PF,Gabriel Cunha,,88881336235,,gabriel.cunha.1052@example.com,55018944490295,True
+1053,PF,Diego Gonçalves,,2635135134,,diego.gon.alves.1053@example.com,5580916440373,True
+1054,PF,Isis Caldeira,,70908972300,,isis.caldeira.1054@example.com,5578912778221,True
+1055,PF,Enrico Porto,,88717067065,,enrico.porto.1055@example.com,5579982134862,True
+1056,PF,Ísis Fernandes,,48656333160,,sis.fernandes.1056@example.com,55097936383182,True
+1057,PF,Luiza Jesus,,68837281390,,luiza.jesus.1057@example.com,5553997079866,True
+1058,PJ,Marques - ME,Guerra - ME,6234145000133,368205068,marques.me.1058@example.com,55012923552165,True
+1059,PJ,Vasconcelos Ltda.,Caldeira,71703292000177,469218219,vasconcelos.ltda.1059@example.com,55059967908984,True
+1060,PJ,Lopes Pinto - EI S.A.,Viana,24671963000185,802205093,lopes.pinto.ei.s.a.1060@example.com,5569948424959,True
+1061,PF,Ana Luiza Ramos,,91414784368,,ana.luiza.ramos.1061@example.com,5545978870715,True
+1062,PF,Isaac Nogueira,,9484191991,,isaac.nogueira.1062@example.com,5576973820974,True
+1063,PF,Ana Vitória Pimenta,,29737838955,,ana.vit.ria.pimenta.1063@example.com,5577998768299,True
+1064,PF,Sofia Monteiro,,52874700452,,sofia.monteiro.1064@example.com,55025989370858,True
+1065,PF,Murilo Ramos,,33675803333,,murilo.ramos.1065@example.com,55035904056695,True
+1066,PF,Mirella Nunes,,28876305980,,mirella.nunes.1066@example.com,5501924825544,True
+1067,PJ,Moura Gonçalves - ME,,49460716000160,963259423,moura.gon.alves.me.1067@example.com,55089946338915,True
+1068,PF,Eloah da Luz,,35942323445,,eloah.da.luz.1068@example.com,5552985725629,True
+1069,PJ,Guerra Pastor S.A.,,40203500000145,358951381,guerra.pastor.s.a.1069@example.com,5565950784685,True
+1070,PF,Lorenzo Sá,,42113606399,,lorenzo.s.1070@example.com,55044930349189,True
+1071,PF,Daniel Mendes,,35566810993,,daniel.mendes.1071@example.com,5572903859340,True
+1072,PF,Luiz Otávio Costela,,88155587304,,luiz.ot.vio.costela.1072@example.com,5541954715531,True
+1073,PJ,Siqueira Cavalcanti Ltda.,Leão Melo e Filhos,26482972000153,813675009,siqueira.cavalcanti.ltda.1073@example.com,5521941052769,True
+1074,PF,Camila Sampaio,,3809658448,,camila.sampaio.1074@example.com,5587980927045,True
+1075,PJ,da Costa Moraes - EI S.A.,Guerra,16615470000108,225866059,da.costa.moraes.ei.s.a.1075@example.com,5567987442275,True
+1076,PJ,Sousa EIRELI,Nogueira,81571598000170,596559428,sousa.eireli.1076@example.com,55049911650200,True
+1077,PJ,Cassiano Ltda.,Porto,50370278000129,393132155,cassiano.ltda.1077@example.com,5530955708368,True
+1078,PJ,Rodrigues Brito Ltda.,da Paz,37285003000129,889669972,rodrigues.brito.ltda.1078@example.com,55036977462025,True
+1079,PF,Eloah Freitas,,68374882441,,eloah.freitas.1079@example.com,5531983281231,True
+1080,PF,Guilherme Pereira,,1497223466,,guilherme.pereira.1080@example.com,55004991060183,True
+1081,PF,Julia Mendonça,,49512944006,,julia.mendon.a.1081@example.com,55038975082768,True
+1082,PJ,Rios - ME,Viana Cirino Ltda.,45170286000191,775458472,rios.me.1082@example.com,5529905291876,True
+1083,PF,Isabella Siqueira,,37866562822,,isabella.siqueira.1083@example.com,5560982717217,True
+1084,PJ,Costa Macedo e Filhos Ltda,,10721766000119,399205222,costa.macedo.e.filhos.ltda.1084@example.com,5599936216591,True
+1085,PJ,da Costa ME,da Costa Cavalcante Ltda.,41247316000160,539835844,da.costa.me.1085@example.com,5517977326430,True
+1086,PF,Lívia da Luz,,214362663,,l.via.da.luz.1086@example.com,5597991279970,True
+1087,PF,Erick Macedo,,36606884799,,erick.macedo.1087@example.com,5520953978713,True
+1088,PJ,Santos Ltda,,47855146000182,529883220,santos.ltda.1088@example.com,5525960832004,True
+1089,PJ,Pereira EIRELI,Moreira,29748227000100,889753585,pereira.eireli.1089@example.com,55038960030443,True
+1090,PF,Anna Liz Oliveira,,37495485795,,anna.liz.oliveira.1090@example.com,5551971523910,True
+1091,PF,Enzo Vasconcelos,,10392843960,,enzo.vasconcelos.1091@example.com,5550914374830,True
+1092,PJ,Abreu Oliveira - ME,Barros,38634659000172,397191260,abreu.oliveira.me.1092@example.com,55021932176720,True
+1093,PF,Caio Camargo,,59408087860,,caio.camargo.1093@example.com,5566912201907,True
+1094,PF,Luigi Ribeiro,,19531617589,,luigi.ribeiro.1094@example.com,5573939304936,True
+1095,PF,Maitê Costela,,57382238105,,mait.costela.1095@example.com,5502974812421,True
+1096,PJ,da Paz S/A Ltda,,71669755000121,868250952,da.paz.s.a.ltda.1096@example.com,55094962093556,True
+1097,PF,Alexandre Cunha,,67875883210,,alexandre.cunha.1097@example.com,5595929701371,True
+1098,PJ,da Mota Correia - ME,Novaes,532803000197,585642304,da.mota.correia.me.1098@example.com,5520927061592,False
+1099,PJ,da Conceição S.A.,da Mota,14322263000121,029907166,da.concei.o.s.a.1099@example.com ,5506932248155,True
+1100,PF,Emanuel Rodrigues,,83925984151,,emanuel.rodrigues.1100@example.com,5534903010956,True
+1101,PJ,Nunes S.A.,Freitas,47188536000146,649157955,nunes.s.a.1101@example.com,5562934712476,True
+1102,PF,Daniel Aparecida,,64317967804,,daniel.aparecida.1102@example.com,5501981030683,True
+1103,PJ,Machado - ME,Teixeira,94607067000132,172680808,machado.me.1103@example.com,5557912901507,True
+1104,PJ,Costa - EI Ltda,Jesus - ME,82072517000150,130735104,costa.ei.ltda.1104@example.com,5584974362130,True
+1105,PF,Pedro Henrique Cirino,,22908767716,,pedro.henrique.cirino.1105@example.com,5588957669470,True
+1106,PF,Dante Novais,,7333106560,,dante.novais.1106@example.com,5553939627466,True
+1107,PJ,Cassiano Ltda,,16235614000192,159183270,cassiano.ltda.1107@example.com,5504966614590,True
+1108,PF,Danilo Aragão,,91784372960,,danilo.arag.o.1108@example.com,55097971400493,True
+1109,PJ,Silva - EI S.A.,Oliveira,47002394000180,053152049,silva.ei.s.a.1109@example.com,5580994976987,True
+1110,PF,Heloisa Ramos,,74677527504,,heloisa.ramos.1110@example.com,5537997166984,True
+1111,PF,Noah Garcia,,73070662030,,noah.garcia.1111@example.com,5523974077943,True
+1112,PF,Erick Teixeira,,75513210983,,erick.teixeira.1112@example.com,5562938994991,True
+1113,PF,Melissa Albuquerque,,55094818970,,melissa.albuquerque.1113@example.com,5542962037087,True
+1114,PF,Eloá Caldeira,,11904094961,,elo.caldeira.1114@example.com,5560920418135,True
+1115,PF,Sophie Peixoto,,61531387306,,sophie.peixoto.1115@example.com,5597921170889,True
+1116,PF,Thomas Alves,,75163536800,,thomas.alves.1116@example.com,5586944822175,True
+1117,PF,Sophie Sousa,,57046565791,,sophie.sousa.1117@example.com,5597985708200,False
+1118,PF,Vitor Hugo Aparecida,,1899045856,,vitor.hugo.aparecida.1118@example.com,5575971236914,True
+1119,PJ,Borges EIRELI,Castro - EI,6043572000134,794296882,borges.eireli.1119@example.com,55069970409531,True
+1120,PF,Caio Vieira,,91180174950,,caio.vieira.1120@example.com,5561956078327,True
+1121,PJ,Rocha ME,,96690903000110,883565179,rocha.me.1121@example.com,5524909649668,True
+1122,PF,João Pimenta,,47329833240,,jo.o.pimenta.1122@example.com,5504978421702,True
+1123,PF,Maitê Caldeira,,24460606178,,mait.caldeira.1123@example.com,5522959364882,True
+1124,PF,Theodoro Oliveira,,43852105439,,theodoro.oliveira.1124@example.com,5548968839062,True
+1125,PJ,Gonçalves Ltda,Cassiano,61576062000130,879916091,gon.alves.ltda.1125@example.com,5541931935923,True
+1126,PJ,Caldeira S.A.,,15733617000193,337605230,caldeira.s.a.1126@example.com,5558981650254,True
+1127,PF,Thales Casa Grande,,90298021200,,thales.casa.grande.1127@example.com,5519916503440,True
+1128,PJ,Guerra S.A.,,4179566000183,177182498,guerra.s.a.1128@example.com,5580988067821,True
+1129,PF,Bruno Macedo,,8714195488,,bruno.macedo.1129@example.com,5568913592664,True
+1130,PJ,Pimenta S.A.,Sampaio Pacheco - ME,7173547000138,987486941,pimenta.s.a.1130@example.com,5559945011929,True
+1131,PF,Emilly Araújo,,68181768876,,,55053960511716,True
+1132,PF,Ana Liz da Conceição,,89452320796,,ana.liz.da.concei.o.1132@example.com,5588963653621,True
+1133,PF,Joana Duarte,,51246330261,,joana.duarte.1133@example.com,5590967000994,True
+1134,PF,Kaique Moura,,51244784389,,kaique.moura.1134@example.com,5542904664896,True
+1135,PJ,Monteiro S.A.,Aragão,28045652000161,564204565,monteiro.s.a.1135@example.com,55075980974533,True
+1136,PF,Ana Lima,,18992068506,,ana.lima.1136@example.com,55035946622654,True
+1137,PF,Cauê Gonçalves,,92356138331,,cau.gon.alves.1137@example.com,5599953006221,True
+1138,PJ,Cassiano da Rocha S.A.,Lima,73747694000107,774625916,cassiano.da.rocha.s.a.1138@example.com,5511924115848,True
+1139,PJ,Araújo ME,Teixeira - EI,28943237000125,017986778,ara.jo.me.1139@example.com,55031929957047,True
+1140,PJ,Silva Jesus Ltda.,Porto Lima S/A,23640452000133,212038437,silva.jesus.ltda.1140@example.com,5536959680785,True
+1141,PF,Eloá Freitas,,31503770800,,elo.freitas.1141@example.com,5582942183854,True
+1142,PJ,Sá ME,Aragão,12790414000140,064454752,s.me.1142@example.com,5511923274897,True
+1143,PF,Antonella Machado,,82718858559,,antonella.machado.1143@example.com,55063934272038,False
+1144,PF,Maria Helena Rodrigues,,56927415203,,maria.helena.rodrigues.1144@example.com,55017950801963,True
+1145,PF,José Miguel Farias,,10882545787,,jos.miguel.farias.1145@example.com,5506993588249,True
+1146,PF,Lucas da Conceição,,50876389027,,lucas.da.concei.o.1146@example.com,5500918167784,True
+1147,PF,Ana Lívia Lima,,76073155948,,ana.l.via.lima.1147@example.com,5524944544608,True
+1148,PF,Vitor Fonseca,,4181646904,,vitor.fonseca.1148@example.com,5579993781053,True
+1149,PF,Camila Casa Grande,,17795926550,,camila.casa.grande.1149@example.com,5578984869996,True
+1150,PJ,TeixeiraSales - EI Ltda,das Neves Ltda.,52269552000101,792714724,teixeira.sales.ei.ltda.1150@example.com,5530919864242,True
+1151,PF,Henry Gabriel Pastor,,51440043779,,henry.gabriel.pastor.1151@example.com,55028933912187,True
+1152,PF,Matteo Castro,,28339320653,,matteo.castro.1152@example.com,5532988098322,True
+1153,PF,Augusto Camargo,,13202396412,,augusto.camargo.1153@example.com,5523920018676,True
+1154,PF,Bruna Aparecida,,27776962252,,bruna.aparecida.1154@example.com,5589987610814,True
+1155,PJ,Freitas Gomes S/A ME,,38717118000108,403845319,freitas.gomes.s.a.me.1155@example.com,5507946823546,True
+1156,PF,Luara Rocha,,42308512784,,luara.rocha.1156@example.com,5500930762054,True
+1157,PF,Dr. Pedro Lucas Barbosa,,96628054861,,dr.pedro.lucas.barbosa.1157@example.com,5500966664110,True
+1158,PF,Maria Júlia Freitas,,19036160340,,maria.j.lia.freitas.1158@example.com,5511934078516,True
+1159,PF,Juliana Vargas,,67665931995,,juliana.vargas.1159@example.com,5570989058366,True
+1160,PJ,da Rocha Novaes S.A.,Nascimento,90617091000100,999626970,da.rocha.novaes.s.a.1160@example.com,5538968889178,True
+1161,PF,Raquel Viana,,17160295200,,raquel.viana.1161@example.com,5515905962571,True
+1162,PF,Mirella Garcia,,46091753983,,mirella.garcia.1162@example.com,5593920126578,True
+1163,PJ,Garcia Albuquerque Ltda.,Novaes S/A,85615314000151,952175585,garcia.albuquerque.ltda.1163@example.com,5577974127469,True
+1164,PJ,Viana Barbosa S/A Ltda,da Mota Borges - EI,60500461000155,962642229,viana.barbosa.s.a.ltda.1164@example.com,55058991704542,True
+1165,PF,Yuri Ferreira,,88365386496,,yuri.ferreira.1165@example.com,5557905682092,True
+1166,PF,Luiz Otávio Monteiro,,73520291258,,luiz.ot.vio.monteiro.1166@example.com,5590901635640,True
+1167,PF,Eloá Cunha,,55708489758,,elo.cunha.1167@example.com,55047928289540,True
+1168,PJ,Borges - ME,,85801629000193,882247312,borges.me.1168@example.com,5516985071058,True
+1169,PF,Ana Liz Borges,,36702177119,,ana.liz.borges.1169@example.com,5595909271152,True
+1170,PF,Anna Liz Souza,,52406317510,,anna.liz.souza.1170@example.com,5553970923007,True
+1171,PF,Pedro Pastor,,48570677650,,pedro.pastor.1171@example.com,5500974189485,False
+1172,PF,Sra. Heloísa Ramos,,73693081468,,sra.helo.sa.ramos.1172@example.com,55098976989365,True
+1173,PJ,Peixoto da Cunha Ltda.,Vargas,73495062000195,161982734,peixoto.da.cunha.ltda.1173@example.com,5513910450258,True
+1174,PJ,Câmara Ltda,Azevedo Martins Ltda.,24966211000141,357483526,c.mara.ltda.1174@example.com,5506948606739,True
+1175,PF,Hellena Silva,,20566969670,,hellena.silva.1175@example.com,5548983842536,True
+1176,PF,Letícia Guerra,,50028279000,,let.cia.guerra.1176@example.com,55080955077406,True
+1177,PF,Dr. Lucas Gabriel Fogaça,,29089334203,,dr.lucas.gabriel.foga.a.1177@example.com,5556923920908,True
+1178,PF,Dr. Cauê Aparecida,,8033512911,,dr.cau.aparecida.1178@example.com,55040991311178,True
+1179,PJ,Brito Ltda,Casa Grande Ltda.,33558691000100,476022069,brito.ltda.1179@example.com,5535941201227,True
+1180,PJ,Viana ME,Araújo,57983591000181,026015153,viana.me.1180@example.com,55059947950740,True
+1181,PJ,Brito EIRELI,Santos,44232828000140,327980595,brito.eireli.1181@example.com,5531900649340,True
+1182,PF,Dante Abreu,,57905543340,,dante.abreu.1182@example.com,5552903608941,True
+1183,PJ,Nogueira Ltda.,Câmara e Filhos,41709525000188,599285535,nogueira.ltda.1183@example.com,5552905610067,False
+1184,PJ,Ramos S/A Ltda,Oliveira,83065940000196,680186774,ramos.s.a.ltda.1184@example.com,5537984233944,True
+1185,PJ,Câmara Ltda,Abreu - ME,2247802000126,776255032,c.mara.ltda.1185@example.com,5501973654262,True
+1186,PF,Cauê Marques,,91472191811,,cau.marques.1186@example.com,5542990292334,True
+1187,PF,Sr. Bernardo Albuquerque,,63990207199,,sr.bernardo.albuquerque.1187@example.com,5590960530886,True
+1188,PF,Isis da Cruz,,24257687770,,isis.da.cruz.1188@example.com,5521916673290,True
+1189,PF,Lucas Gabriel Marques,,41622614666,,lucas.gabriel.marques.1189@example.com,5598987592129,True
+1190,PF,Dra. Mariana das Neves,,86604245497,,dra.mariana.das.neves.1190@example.com,55060933620275,True
+1191,PJ,Moreira S.A.,Barbosa da Cunha - ME,20142510000100,709207115,moreira.s.a.1191@example.com,55038902362192,True
+1192,PF,Luiz Gustavo Moura,,57474469839,,luiz.gustavo.moura.1192@example.com,5589970591611,True
+1193,PF,Maya Cunha,,8337979569,,maya.cunha.1193@example.com,5555988195977,True
+1194,PF,Calebe Garcia,,36657524501,,calebe.garcia.1194@example.com,5580905378931,True
+1195,PJ,Pereira S.A.,,62362813000189,289728454,pereira.s.a.1195@example.com,5518922720028,True
+1196,PF,Juan Nascimento,,64865786708,,juan.nascimento.1196@example.com,55032920414474,True
+1197,PF,Hadassa Siqueira,,76555415665,,hadassa.siqueira.1197@example.com,55081916599302,True
+1198,PF,Dra. Alice Cardoso,,47069667957,,dra.alice.cardoso.1198@example.com,5530942322775,True
+1199,PF,Cauã da Cruz,,41503683338,,cau.da.cruz.1199@example.com,5530928165064,True
+1200,PF,Fernanda Abreu,,65176915456,,fernanda.abreu.1200@example.com,5559937775691,True
+1201,PF,Zoe Câmara,,34684282864,,zoe.c.mara.1201@example.com,55010929161746,True
+1202,PJ,Castro - EI Ltda,,6773564000143,831043841,castro.ei.ltda.1202@example.com,5566922913167,True
+1203,PJ,Montenegro S/A Ltda,Guerra,5896128000107,856670636,montenegro.s.a.ltda.1203@example.com,55019986550494,True
+1204,PJ,da Rosa ME,Macedo - ME,223222000173,634933965,da.rosa.me.1204@example.com,5549962732262,True
+1205,PF,Bárbara Borges,,15788488494,,b.rbara.borges.1205@example.com,5524936258542,False
+1206,PF,Théo Moraes,,691951616,,th.o.moraes.1206@example.com,5587999196234,True
+1207,PF,Srta. Maria Helena da Luz,,32022731832,,,5538953247250,True
+1208,PF,Sr. Henry Gabriel da Cruz,,38991310451,,sr.henry.gabriel.da.cruz.1208@example.com,5530931158760,False
+1209,PJ,Silveira EIRELI,Freitas,61593422000102,769475769,silveira.eireli.1209@example.com,5553953659746,True
+1210,PF,Sarah Garcia,,20199434689,,sarah.garcia.1210@example.com,5563492125450,True
+1211,PF,Alexia Oliveira,,12539912516,,alexia.oliveira.1211@example.com,5594981526925,True
+1212,PJ,Oliveira ME,Gonçalves,90789959000140,472130742,oliveira.me.1212@example.com,5559914261404,True
+1213,PF,Ísis Pacheco,,57238037432,,sis.pacheco.1213@example.com,5532961454307,True
+1214,PJ,Câmara EIRELI,,33995777000192,731008178,c.mara.eireli.1214@example.com,5522911587184,True
+1215,PF,Sr. Gustavo Henrique Fonseca,,25753120784,,sr.gustavo.henrique.fonseca.1215@example.com,5526987447017,True
+1216,PJ,Ramos Castro e Filhos EIRELI,Sales - EI,50369754000191,652377729,ramos.castro.e.filhos.eireli.1216@example.com,5565963370140,True
+1217,PF,Ana Clara Teixeira,,18201087089,,ana.clara.teixeira.1217@example.com,5527981055800,True
+1218,PF,Dom Mendes,,32890632407,,dom.mendes.1218@example.com,55021942573160,True
+1219,PF,Liz da Conceição,,16973528120,,liz.da.concei.o.1219@example.com,5513968172031,True
+1220,PJ,Garcia Pinto Ltda.,,28433794000104,528620929,garcia.pinto.ltda.1220@example.com,55035925953322,True
+1221,PF,Pedro Miguel da Conceição,,33626492702,,pedro.miguel.da.concei.o.1221@example.com,5538999204573,True
+1222,PF,Sr. Davi Lucca da Conceição,,7220415869,,sr.davi.lucca.da.concei.o.1222@example.com,5561985076108,True
+1223,PF,Ana Clara Moraes,,87743170241,,ana.clara.moraes.1223@example.com,55069971823601,False
+1224,PF,Samuel Campos,,95761257742,,samuel.campos.1224@example.com,55061958388217,True
+1225,PJ,Santos S.A.,Nascimento,5705171000130,467357422,santos.s.a.1225@example.com,5532922801944,True
+1226,PF,Luiz Felipe Novais,,78268629576,,luiz.felipe.novais.1226@example.com,5522925606295,True
+1227,PF,Marcelo Rezende,,10595506100,,marcelo.rezende.1227@example.com,5563973118046,True
+1228,PF,Rebeca da Mota,,56854049300,,rebeca.da.mota.1228@example.com,5530975384185,True
+1229,PF,Anthony Gabriel Ribeiro,,20091365198,,anthony.gabriel.ribeiro.1229@example.com,5536926084639,True
+1230,PJ,Ribeiro S.A.,,86055113000100,561547055,ribeiro.s.a.1230@example.com,5591921516411,True
+1231,PJ,Farias ME,da Mata,62781896000140,091969395,farias.me.1231@example.com,55087952070204,True
+1232,PJ,Lopes Castro e Filhos ME,,93354274000160,019712124,lopes.castro.e.filhos.me.1232@example.com,5539936967897,True
+1233,PF,Ana Carolina Nunes,,41144965802,,fulano@example.com,5573912677319,True
+1234,PJ,Cardoso Macedo e Filhos S.A.,Rocha,18314406000104,075988978,cardoso.macedo.e.filhos.s.a.1234@example.com,5553939431916,True
+1235,PJ,das Neves Ltda,,7159030000194,308952312,das.neves.ltda.1235@example.com,5521991505764,True
+1236,PF,Rafael da Paz,,39843418069,,rafael.da.paz.1236@example.com,55000902687644,True
+1237,PF,Maya  Monteiro,,33915774790,,maya.monteiro.1237@example.com,5549979741636,True
+1238,PJ,Lima ME,da Cunha Ltda.,93118304000139,006355373,lima.me.1238@example.com,5596949692771,True
+1239,PJ,Porto - EI EIRELI,,78833284000194,529635305,porto.ei.eireli.1239@example.com,5570925512827,False
+1240,PF,Gabrielly Lima,,55999174368,,gabrielly.lima.1240@example.com,5531959489895,True
+1241,PF,Maria Júlia Ferreira,,19323962171,,maria.j.lia.ferreira.1241@example.com,5566934544344,True
+1242,PF,Leandro Pimenta,,83524342256,,leandro.pimenta.1242@example.com,5569999393449,True
+1243,PJ,da Paz ME,Oliveira da Mata - ME,11322188000100,408822309,da.paz.me.1243@example.com,5586929739889,True
+1244,PF,Carlos Eduardo da Cruz,,36644297455,,carlos.eduardo.da.cruz.1244@example.com,55010997202170,True
+1245,PJ,Duarte EIRELI,,27483880000150,485346557,duarte.eireli.1245@example.com,5522903004496,True
+1246,PJ,Garcia EIRELI,,1637856000135,129390025,garcia.eireli.1246@example.com,5521937565896,True
+1247,PJ,Farias Pacheco Ltda.,Abreu,8471760000199,861993145,farias.pacheco.ltda.1247@example.com,5543945663113,True
+1248,PJ,Aragão ME,da Rocha Cirino S.A.,93390803000180,622033474,arag.o.me.1248@example.com,55046931043796,True
+1249,PF,Maria Laura Viana,,69085520630,,maria.laura.viana.1249@example.com,5500985294690,True
+1250,PF,Caio Ramos,,41630350443,,caio.ramos.1250@example.com,55074917430435,True
+1251,PJ,Cassiano S.A.,Aragão,62050709000159,228946652,cassiano.s.a.1251@example.com,55052933282930,True
+1252,PF,Antony Carvalho,,50150932251,,antony.carvalho.1252@example.com,5569913303033,True
+1253,PF,Nicolas Martins,,9614453940,,nicolas.martins.1253@example.com,55011967507627,True
+1254,PJ,Sá ME,da Cruz,67765355000142,024530123,s.me.1254@example.com,5584972303420,True
+1255,PF,Vitor Hugo da Rocha,,42512321606,,vitor.hugo.da.rocha.1255@example.com,55019901722240,True
+1256,PJ,Araújo ME,Silveira,12542018000102,648717754,ara.jo.me.1256@example.com,5519992406583,True
+1257,PJ,Cassiano Ltda,Pires,93599781000163,258122590,cassiano.ltda.1257@example.com,5556968448237,True
+1258,PJ,Pires Correia - ME,,64952526000154,912121101,pires.correia.me.1258@example.com,5578903586901,True
+1259,PJ,Aragão EIRELI,da Rocha,15078325000164,039251999,arag.o.eireli.1259@example.com,5552995171222,True
+1260,PF,Maria Julia Souza,,80058953132,,maria.julia.souza.1260@example.com,5533987220542,True
+1261,PF,Daniel Garcia,,7598360278,,daniel.garcia.1261@example.com,55065949633083,True
+1262,PF,João Vitor da Rocha,,49808636470,,jo.o.vitor.da.rocha.1262@example.com,5570948878995,True
+1263,PJ,da Mata - ME,,94900494000104,020596851,da.mata.me.1263@example.com,5553977492663,True
+1264,PJ,Peixoto Sousa Ltda.,da Conceição,90260687000197,427775225,peixoto.sousa.ltda.1264@example.com,5520961658129,True
+1265,PF,Arthur Rezende,,95218475491,,arthur.rezende.1265@example.com,5592929411563,True
+1266,PF,Dom Pastor,,11059347300,,dom.pastor.1266@example.com,5559963637262,True
+1267,PF,LAÍS RIOS,,83336666716,,la.s.rios.1267@example.com,55006961549808,True
+1268,PJ,Brito ME,Costela Silveira S/A,13879006000122,380049832,brito.me.1268@example.com,5512921215481,True
+1269,PF,Sra. Zoe Cassiano,,48528659143,,sra.zoe.cassiano.1269@example.com,5586987640191,True
+1270,PF,Lunna da Luz,,79521135182,,lunna.da.luz.1270@example.com,5580964420062,True
+1271,PJ,Macedo ME,da Cruz,33121332000183,585664641,macedo.me.1271@example.com,5562934219262,True
+1272,PF,Breno Correia,,90924504480,,breno.correia.1272@example.com,55004910429483,True
+1273,PF,João Miguel Siqueira,,61611783119,,jo.o.miguel.siqueira.1273@example.com,55089911797269,True
+1274,PF,Lara Oliveira,,69894802540,,lara.oliveira.1274@example.com,5512983180036,True
+1275,PF,Maria Luísa Almeida,,6335893223,,maria.lu.sa.almeida.1275@example.com,55000905328538,False
+1276,PJ,Correia ME,Abreu Ltda.,54616664000109,052438380,correia.me.1276@example.com,5582969299007,True
+1277,PJ,Nascimento Ltda,Castro,98676869000155,763328389,nascimento.ltda.1277@example.com,5533976185186,True
+1278,PF,Miguel Marques,,76725388965,,miguel.marques.1278@example.com,5536984101328,False
+1279,PF,Guilherme Câmara,,3541952636,,guilherme.c.mara.1279@example.com,5521988352791,True
+1280,PJ,Duarte S.A.,Guerra - ME,98295356000102,761065920,duarte.s.a.1280@example.com,5581943192797,True
+1281,PJ,Camargo EIRELI,Montenegro,69384278000106,159698384,camargo.eireli.1281@example.com,5572902665686,True
+1282,PF,Luiz Gustavo Oliveira,,59096627407,,luiz.gustavo.oliveira.1282@example.com,5525973498992,True
+1283,PF,Dr. Henry Gabriel Pereira,,17895832760,,dr.henry.gabriel.pereira.1283@example.com,5560974299074,True
+1284,PJ,Casa Grande S.A.,Lima,61047259000182,941799670,casa.grande.s.a.1284@example.com,5508997474859,True
+1285,PJ,Guerra S.A.,Barbosa,53499269000120,839841673,guerra.s.a.1285@example.com,5578953698816,True
+1286,PF,Vitor Alves,,98879628801,,vitor.alves.1286@example.com,5545909286052,True
+1287,PJ,Andrade S.A.,Carvalho,88739576000116,706648900,andrade.s.a.1287@example.com,5524984581308,True
+1288,PF,Esther Rios,,60602506298,,esther.rios.1288@example.com,,False
+1289,PJ,Novaes Ltda.,da Costa,63359686000121,027500030,novaes.ltda.1289@example.com,5566919953056,True
+1290,PF,Calebe Novais,,80387158103,,calebe.novais.1290@example.com,5593978467908,True
+1291,PF,Allana Rezende,,90748192735,,allana.rezende.1291@example.com,5587926001365,True
+1292,PJ,Aragão S.A.,da Rocha,83247686000147,442990674,arag.o.s.a.1292@example.com,5568965240622,True
+1293,PJ,Duarte Ltda.,Mendes,50302909000172,256222190,duarte.ltda.1293@example.com,5533947047476,True
+1294,PF,Vitor Hugo da Paz,,89787856116,,vitor.hugo.da.paz.1294@example.com,5559939652138,True
+1295,PF,Levi Abreu,,40008985235,,levi.abreu.1295@example.com,55012945531290,True
+1296,PJ,Sousa S.A.,,24148261000111,622117327,sousa.s.a.1296@example.com,55026948839585,True
+1297,PF,Dra. Luna Novaes,,8316846748,,dra.luna.novaes.1297@example.com,5522994252516,True
+1298,PF,Theodoro Duarte,,37990388090,,theodoro.duarte.1298@example.com,55059917105080,True
+1299,PJ,das Neves S.A.,,77224851000142,914774473,das.neves.s.a.1299@example.com,5535924784171,True
+1300,PF,Dr. Raul Costa,,67462069121,,dr.raul.costa.1300@example.com,5549930537880,True
+1301,PJ,Correia Campos - EI S.A.,,77393395000164,361133892,correia.campos.ei.s.a.1301@example.com,5508978828152,True
+1302,PJ,Nogueira S.A.,Costa,49755434000190,048625152,nogueira.s.a.1302@example.com, 5574965353780,True
+1303,PJ,Moraes - EI ME,Fogaça - ME,13040103000127,734467177,moraes.ei.me.1303@example.com,5529969143362,True
+1304,PJ,Garcia Ltda,da Luz,28566049000125,509999001,garcia.ltda.1304@example.com,5589985739083,True
+1305,PF,Manuela Castro,,12230764314,,manuela.castro.1305@example.com,5518996844246,True
+1306,PF,Théo Vasconcelos,,1215616821,,th.o.vasconcelos.1306@example.com,5549997957285,True
+1307,PJ,Farias S.A.,,98083997000195,958281902,farias.s.a.1307@example.com,55017997891248,True
+1308,PJ,Porto Pereira - ME,Martins S/A,21918626000151,598445143,porto.pereira.me.1308@example.com,5572986811230,False
+1309,PF,Vinícius Montenegro,,83539320164,,vin.cius.montenegro.1309@example.com,5568911939781,True
+1310,PJ,Fernandes EIRELI,,8754793000146,900992177,fernandes.eireli.1310@example.com,5505952866933,False
+1311,PF,Sr. Levi Souza,,9011360931,,sr.levi.souza.1311@example.com,5580970532601,True
+1312,PJ,Oliveira S.A.,Albuquerque S.A.,28322432000138,829742551,oliveira.s.a.1312@example.com,5560990858181,True
+1313,PF,João Miguel Duarte,,29946418878,,jo.o.miguel.duarte.1313@example.com,5524937361587,True
+1314,PF,Mateus Sá,,47838067804,,mateus.s.1314@example.com,5527913589693,True
+1315,PJ,Fogaça da Costa - EI EIRELI,,20216969000101,005856154,foga.a.da.costa.ei.eireli.1315@example.com,55031956639792,True
+1316,PJ,Ferreira Ltda,Brito - ME,22481881000142,436902837,ferreira.ltda.1316@example.com,55027902896660,True
+1317,PF,Sr. Juan Cavalcanti,,38316592304,,sr.juan.cavalcanti.1317@example.com,5516944161019,True
+1318,PF,Sra. Luna Porto,,18390000318,,sra.luna.porto.1318@example.com,5558946405103,True
+1319,PJ,Carvalho - ME,Albuquerque da Luz S.A.,11083716000116,763628144,carvalho.me.1319@example.com,5571989395309,True
+1320,PF,Ana Clara Leão,,2381522514,,ana.clara.le.o.1320@example.com,55064990922884,True
+1321,PF,Sophia Marques,,22934009564,,sophia.marques.1321@example.com,5555913587271,True
+1322,PJ,da Mata S.A.,Almeida Ramos - ME,780815000130,881164034,da.mata.s.a.1322@example.com,5598981873877,True
+1323,PJ,Moraes Ltda,,82563080000158,333647704,moraes.ltda.1323@example.com,5530990915386,True
+1324,PF,Francisco Nogueira,,8815768750,,francisco.nogueira.1324@example.com,55062954204123,True
+1325,PF,Arthur Gabriel Silveira,,49421267621,,arthur.gabriel.silveira.1325@example.com,5577920441007,True
+1326,PJ,Brito S.A.,,66467061000171,932453810,brito.s.a.1326@example.com,5579941224870,False
+1327,PJ,Cassiano EIRELI,da Cunha,4850308000187,963225174,cassiano.eireli.1327@example.com,55024904326118,True
+1328,PF,Ana Júlia Andrade,,26205505991,,ana.j.lia.andrade.1328@example.com,5546986163070,True
+1329,PF,Yago Guerra,,89374310503,,yago.guerra.1329@example.com,55020920095366,True
+1330,PF,Srta. Ana Lívia Oliveira,,92669967850,,srta.ana.l.via.oliveira.1330@example.com,5536989005779,True
+1331,PJ,Alves ME,Brito - ME,12626937000156,325900739,alves.me.1331@example.com,55013907221138,False
+1332,PF,Ana Cecília Souza,,51708015302,,ana.cec.lia.souza.1332@example.com,5571967221045,True
+1333,PF,Sra. Maria Luísa Vieira,,39397815253,,sra.maria.lu.sa.vieira.1333@example.com,5571992817074,True
+1334,PJ,da Cruz Ltda,Aragão,795446000150,234422521,da.cruz.ltda.1334@example.com,5502952394120,True
+1335,PF,Júlia das Neves,,30250404168,,j.lia.das.neves.1335@example.com,55072969032655,True
+1336,PF,Henry Gabriel Cardoso,,47461254570,,henry.gabriel.cardoso.1336@example.com,55061979480245,True
+1337,PF,Sra. Ágatha Ferreira,,74981632410,,sra.gatha.ferreira.1337@example.com,5560921191589,True
+1338,PF,Enzo Gabriel Lopes,,29559637800,,enzo.gabriel.lopes.1338@example.com,5564998647868,True
+1339,PJ,Cardoso Ltda,Martins Garcia S/A,37883913000103,088447408,cardoso.ltda.1339@example.com,5578919190749,True
+1340,PJ,Barros Lopes Ltda.,Aragão - ME,17960028000173,983692353,barros.lopes.ltda.1340@example.com,5584986470821,True
+1341,PJ,Oliveira Moura - ME,da Mota,27101859000143,622021237,oliveira.moura.me.1341@example.com,55005950330000,True
+1342,PF,Stella Garcia,,72334080683,,stella.garcia.1342@example.com,5546973919008,True
+1343,PJ,Campos Ltda.,,75823457000103,160091692,campos.ltda.1343@example.com,5527937989790,True
+1344,PF,Alexia Nogueira,,86486722797,,alexia.nogueira.1344@example.com,5548918674630,True
+1345,PJ,Almeida - EI EIRELI,Rodrigues,78771925000123,336113711,almeida.ei.eireli.1345@example.com,5515919854582,True
+1346,PJ,Cassiano ME,Correia e Filhos,38448927000161,401535346,cassiano.me.1346@example.com,5507956999449,True
+1347,PF,Sra. Maria Luiza Lopes,,25864890634,,sra.maria.luiza.lopes.1347@example.com,55020910824028,True
+1348,PJ,Sales - EI ME,,42923794000105,223879402,sales.ei.me.1348@example.com,5520985817452,True
+1349,PJ,da Conceição ME,,77937943000170,536423570,da.concei.o.me.1349@example.com,5541929182851,True
+1350,PJ,Rodrigues - ME,,70876346000133,125590461,rodrigues.me.1350@example.com,5507992304660,True
+1351,PJ,Barros S.A.,Moreira Casa Grande - ME,40910521000109,101232961,barros.s.a.1351@example.com,5512904850766,True
+1352,PF,Sr. José Pedro das Neves,,43355837709,,sr.jos.pedro.das.neves.1352@example.com,5504922763460,True
+1353,PJ,Pinto S/A S.A.,da Costa,3134102000198,057347243,pinto.s.a.s.a.1353@example.com,5586917682251,True
+1354,PF,Dra. Carolina Marques,,10657047554,,dra.carolina.marques.1354@example.com,55067908666562,True
+1355,PF,Cliente,,66772931068,,jo.o.guilherme.barbosa.1355@example.com,5576987849477,True
+1356,PJ,Ribeiro S.A.,Porto S.A.,10406807000182,500618489,ribeiro.s.a.1356@example.com,55042923543404,True
+1357,PJ,Sousa EIRELI,,8656392000153,682121564,sousa.eireli.1357@example.com,5552954920644,False
+1358,PF,Aurora Vargas,,15587234479,,aurora.vargas.1358@example.com,5519973881827,True
+1359,PJ,Abreu Rios - ME,das Neves Câmara Ltda.,61773574000197,948821884,abreu.rios.me.1359@example.com,5568906640511,True
+1360,PJ,Cirino S/A EIRELI,Freitas das Neves S.A.,55245795000190,412301604,cirino.s.a.eireli.1360@example.com,5586903721860,True
+1361,PJ,Costa S.A.,Sampaio S.A.,47398212000132,197899901,costa.s.a.1361@example.com,5540903471317,True
+1362,PF,Srta. Nina Teixeira,,51994194715,,srta.nina.teixeira.1362@example.com,5560916259084,True
+1363,PF,João Miguel Porto,,70101987218,,jo.o.miguel.porto.1363@example.com,55085950113753,True
+1364,PF,Sr. Dante Almeida,,75936510450,,sr.dante.almeida.1364@example.com,55028987807279,True
+1365,PF,Ian Martins,,37473837850,,ian.martins.1365@example.com,5561960881972,True
+1366,PF,Guilherme Rocha,,90089115660,,guilherme.rocha.1366@example.com,5596947718375,True
+1367,PF,Asafe Machado,,57107374532,,asafe.machado.1367@example.com,5581902480855,True
+1368,PJ,Montenegro S.A.,Albuquerque S.A.,67724668000152,443236221,montenegro.s.a.1368@example.com,5590969685746,True
+1369,PF,Olivia Almeida,,14571685378,,olivia.almeida.1369@example.com,5575916913952,True
+1370,PJ,Duarte S/A S.A.,Jesus Ltda.,78850236000104,261070335,duarte.s.a.s.a.1370@example.com,5584924319839,True
+1371,PJ,da Paz Nogueira Ltda.,Câmara S/A,25970664000104,041691053,da.paz.nogueira.ltda.1371@example.com,5521951675864,True
+1372,PF,Isabelly da Conceição,,43428921208,,isabelly.da.concei.o.1372@example.com,5553948110501,True
+1373,PJ,Monteiro Ltda,da Luz,64568709000170,278961573,monteiro.ltda.1373@example.com,1234567890,True
+1374,PJ,da Conceição Pastor Ltda.,,7556210000100,978155426,da.concei.o.pastor.ltda.1374@example.com,5597923602446,True
+1375,PF,Sra. Lara Lima,,9370025693,,sra.lara.lima.1375@example.com,55072905171073,True
+1376,PF,Theodoro Martins,,85657560337,,theodoro.martins.1376@example.com,5556947837031,True
+1377,PJ,Dias ME,,23720453000198,438027414,dias.me.1377@example.com,5557926029254,True
+1378,PJ,Rodrigues ME,Casa Grande,51843212000171,728840766,rodrigues.me.1378@example.com,5520976327135,True
+1379,PJ,Siqueira Novaes - ME,Leão,14103521000189,259238687,siqueira.novaes.me.1379@example.com,5506904886932,True
+1380,PJ,Sales Ltda.,Vasconcelos,82306729000155,340508927,sales.ltda.1380@example.com,5596915976405,True
+1381,PJ,Rodrigues Rezende e Filhos S.A.,Jesus,24820928000180,707897755,rodrigues.rezende.e.filhos.s.a.1381@example.com,5526919038422,True
+1382,PF,Giovanna Guerra,,34495181009,,giovanna.guerra.1382@example.com,55073920222711,True
+1383,PF,Ravi Freitas,,95695700248,,ravi.freitas.1383@example.com,55069917162042,True
+1384,PF,Ísis Freitas,,32693771005,,sis.freitas.1384@example.com,5544986983052,True
+1385,PJ,Lima - EI ME,Costela - EI,86297784000187,220269801,lima.ei.me.1385@example.com,5526947106801,True
+1386,PF,Nicole Teixeira,,80140494383,,nicole.teixeira.1386@bol.con,5531963705004,True
+1387,PF,Fernanda Costela,,77681506438,,fernanda.costela.1387@example.com,55067924469317,True
+1388,PJ,Nunes da Mota - ME,da Costa,58289772000175,808390654,nunes.da.mota.me.1388@example.com,5525999851939,True
+1389,PF,Davi Lucas Martins,,24463537207,,davi.lucas.martins.1389@example.com,55072981291635,False
+1390,PF,Ana Julia da Rosa,,32493304187,,ana.julia.da.rosa.1390@example.com,5560926676527,True
+1391,PF,Yuri Ramos,,94071252464,,yuri.ramos.1391@example.com,5553997499507,True
+1392,PF,Srta. Sofia Nogueira,,68193697600,,srta.sofia.nogueira.1392@example.com,5540967560208,True
+1393,PF,Cauã Nunes,,42683549997,,cau.nunes.1393@example.com,55090922154390,True
+1394,PF,José Pedro Nogueira,,24276364604,,jos.pedro.nogueira.1394@example.com,5509932253332,False
+1395,PJ,Cavalcante S.A.,Azevedo,80590684000168,025550193,cavalcante.s.a.1395@example.com,5545903698884,True
+1396,PJ,Pinto Correia S.A.,Castro da Rocha S.A.,95187457000163,629620805,pinto.correia.s.a.1396@example.com,5583912441290,True
+1397,PJ,Vasconcelos S.A.,,7033762000133,596599920,vasconcelos.s.a.1397@example.com,5523976317749,True
+1398,PJ,da Mota Ltda,Azevedo Albuquerque - ME,10703183000165,294193759,da.mota.ltda.1398@example.com,5592926713175,True
+1399,PF,Murilo Cardoso,,43719598063,,murilo.cardoso.1399@example.com,5547952864612,True
+1400,PJ,Pinto - ME,,9131766000180,173009928,pinto.me.1400@example.com,5552940321153,False
+1401,PJ,Fogaça EIRELI,Dias S/A,811752000132,432191430,foga.a.eireli.1401@example.com,5577997247925,True
+1402,PF,Dra. Isis Cardoso,,83035047898,,dra.isis.cardoso.1402@example.com,55018983458192,True
+1403,PF,Srta. Liz Vargas,,15120004008,,srta.liz.vargas.1403@example.com,5577906769333,True
+1404,PF,Pedro Fogaça,,21621377393,,pedro.foga.a.1404@example.com,5559902578464,True
+1405,PF,Vicente Farias,,49649256172,,vicente.farias.1405@example.com,5558983825672,True
+1406,PJ,Viana Ltda,,78858658000126,208467292,viana.ltda.1406@example.com,5543955196282,True
+1407,PJ,Cirino Ferreira S/A Ltda,Nascimento S.A.,13670923000100,562472863,cirino.ferreira.s.a.ltda.1407@example.com,5542901223414,True
+1408,PJ,Peixoto Albuquerque S/A ME,Gonçalves,11063540000130,270266045,peixoto.albuquerque.s.a.me.1408@example.com,5595963217400,True
+1409,PF,Srta. Ana Vitória Aragão,,86289071491,,srta.ana.vit.ria.arag.o.1409@example.com,5593935389222,True
+1410,PJ,Martins S.A.,Borges - EI,80127891000180,360060827,martins.s.a.1410@example.com,55005964616076,True
+1411,PJ,Gonçalves da Paz S.A.,Albuquerque,99946419000106,095372346,gon.alves.da.paz.s.a.1411@example.com,5576923133610,True
+1412,PF,Joana da Paz,,18645861844,,joana.da.paz.1412@example.com,5564923165441,True
+1413,PF,Srta. Natália Cavalcanti,,53689875870,,srta.nat.lia.cavalcanti.1413@example.com,55076985760634,True
+1414,PJ,Cirino ME,da Mota - ME,24642601000166,175518870,cirino.me.1414@example.com,5579999324202,True
+1415,PF,Henry Macedo,,81500805890,,henry.macedo.1415@example.com,5544917234565,True
+1416,PJ,Montenegro Gomes - EI ME,,42887283000185,479025485,montenegro.gomes.ei.me.1416@example.com,5562968904723,True
+1417,PF,Maya Siqueira,,58260730715,,maya.siqueira.1417@example.com,5510909538557,True
+1418,PF,Sra. Emanuella Borges,,59006041793,,sra.emanuella.borges.1418@example.com,5543959900937,True
+1419,PF,Ana Vitória da Luz,,47570235290,,ana.vit.ria.da.luz.1419@example.com,5504976143788,True
+1420,PF,João Guilherme Cunha,,63194008625,,jo.o.guilherme.cunha.1420@example.com,55006961875646,True
+1421,PF,Caroline Rocha,,73207403700,,caroline.rocha.1421@example.com,5536981541858,True
+1422,PJ,Araújo S.A.,Melo,42790496000194,291084507,ara.jo.s.a.1422@example.com,5560943566050,True
+1423,PF,Josué Macedo,,852620136,,josu.macedo.1423@example.com,5569983306773,True
+1424,PF,Nathan Melo,,84298173364,,nathan.melo.1424@example.com,5582922667941,True
+1425,PF,Allana Vargas,,47309022890,,allana.vargas.1425@example.com,5578986538590,True
+1426,PJ,Melo Ltda,Oliveira Leão S.A.,32853794000122,428987605,melo.ltda.1426@example.com,5504992217048,True
+1427,PF,Ana Vitória Nogueira,,79591301758,,ana.vit.ria.nogueira.1427@example.com,5570966320162,False
+1428,PJ,Melo S.A.,Vargas Moraes - EI,3779109000167,198271826,melo.s.a.1428@example.com,5533971708649,True
+1429,PJ,Cavalcante EIRELI,,70193575000153,694203983,cavalcante.eireli.1429@example.com,5535949014599,True
+1430,PF,Milena Alves,,14789077896,,milena.alves.1430@example.com,,True
+1431,PJ,Pereira ME,,35758696000102,824388430,pereira.me.1431@example.com,55017981678066,True
+1432,PJ,Ribeiro S.A.,Rocha Camargo Ltda.,98004574000132,890164928,ribeiro.s.a.1432@example.com,5550937017092,True
+1433,PF,Letícia Aparecida,,10352688840,,let.cia.aparecida.1433@example.com,55003908808172,True
+1434,PF,Clarice Moura,,17760059108,,clarice.moura.1434@example.com,55096982448500,True
+1435,PF,Clara Moreira,,88298385276,,clara.moreira.1435@example.com,5595992741168,True
+1436,PJ,Lima - EI ME,,90908098000172,196127662,lima.ei.me.1436@example.com,5580982039170,True
+1437,PF,Emanuella Leão,,72329486545,isento,emanuella.le.o.1437@example.com,5544943596245,True
+1438,PF,Raquel Abreu,,30643291547,,raquel.abreu.1438@example.com,5520942425369,True
+1439,PJ,Pacheco S/A EIRELI,,81166091000131,237530284,pacheco.s.a.eireli.1439@example.com,5576903967024,True
+1440,PJ,Garcia Dias S.A.,Aparecida,19985897000188,553648187,garcia.dias.s.a.1440@example.com,5540936488215,True
+1441,PF,Dra. Milena Monteiro,,55037587069,,dra.milena.monteiro.1441@example.com,5585946623236,True
+1442,PJ,Garcia - ME,,13791186000196,799864912,garcia.me.1442@example.com,5594997220429,True
+1443,PF,Maria Julia Cirino,,35676760672,0,maria.julia.cirino.1443@example.com,55069992066617,True
+1444,PF,Maria Luísa Cavalcanti,,46469935540,,maria.lu.sa.cavalcanti.1444@example.com,5556999929983,True
+1445,PF,Lorenzo Sá,,28500925337,,lorenzo.s.1445@example.com,5576988777925,True
+1446,PJ,Albuquerque S.A.,,65406804000130,413482084,albuquerque.s.a.1446@example.com,5531953983912,True
+1447,PJ,Guerra Albuquerque S/A EIRELI,Azevedo Ltda.,33238272000183,407629143,guerra.albuquerque.s.a.eireli.1447@example.com,5549913410389,True
+1448,PF,Luna Cassiano,,50786387254,,luna.cassiano.1448@example.com,5572909986564,True
+1449,PF,Davi Luiz da Rocha,,40685933105,,davi.luiz.da.rocha.1449@example.com,5559920823530,True
+1450,PF,Raquel Lima,,84576958275,,raquel.lima.1450@example.com,5591994896298,True
+1451,PJ,Rezende Ltda.,Nascimento,82602139000170,201753079,rezende.ltda.1451@example.com,5561986957240,True
+1452,PJ,da Cruz Ltda,Mendonça,89113542000184,412531379,da.cruz.ltda.1452@example.com,5561900777321,True
+1453,PF,Marcela Araújo,,13795997500,,marcela.ara.jo.1453@example.com,5561992025999,True
+1454,PF,Srta. Fernanda Moreira,,77571043190,,srta.fernanda.moreira.1454@example.com,55033970342444,True
+1455,PF,Laura Novaes,,75820329341,,laura.novaes.1455@example.com,5504976078623,True
+1456,PJ,Azevedo EIRELI,Sales - ME,19584434000104,651917085,azevedo.eireli.1456@example.com,5573928951456,True
+1457,PF,José Miguel Andrade,,83560566835,,jos.miguel.andrade.1457@example.com,5518958055811,True
+1458,PF,Dr. José Pedro da Mata,,55346624503,,dr.jos.pedro.da.mata.1458@example.com,5565939160770,True
+1459,PF,João Miguel Albuquerque,,5364297586,,jo.o.miguel.albuquerque.1459@example.com,5530945418403,True
+1460,PF,Ísis Cassiano,,28149644539,,sis.cassiano.1460@example.com,55018903966203,True
+1461,PF,Maria Fernanda Nogueira,,16166298277,,maria.fernanda.nogueira.1461@example.com,5564907880265,True
+1462,PJ,Pereira Sampaio Ltda.,,62227469000115,164693335,pereira.sampaio.ltda.1462@example.com,5523903974408,True
+1463,PF,Ana Júlia Teixeira,,7205433207,,ana.j.lia.teixeira.1463@example.com,5570989870920,True
+1464,PJ,Peixoto e Filhos Ltda,,95071956000190,918431132,peixoto.e.filhos.ltda.1464@example.com,5561915848580,True
+1465,PF,Sr. Murilo da Costa,,36541177597,,sr.murilo.da.costa.1465@example.com,55011996047220,False
+1466,PF,Sr. Ravy Rocha,,97589591157,,sr.ravy.rocha.1466@example.com,5577945447082,True
+1467,PJ,Barros Macedo S/A ME,Gomes,66685098000176,199539467,barros.macedo.s.a.me.1467@example.com,0000000000,True
+1468,PF,Anthony Gabriel Carvalho,,84538719650,,anthony.gabriel.carvalho.1468@example.com,5518940257870,True
+1469,PJ,Gomes Moreira - ME,,55220703000117,050630663,gomes.moreira.me.1469@example.com,5505902816409,True
+1470,PF,Bárbara Albuquerque,,19017412577,,b.rbara.albuquerque.1470@example.com,5590991203025,True
+1471,PF,Antônio Pereira,,53847390708,,ant.nio.pereira.1471@example.com,5552937597953,True
+1472,PF,Francisco Gonçalves,,11606036262,,francisco.gon.alves.1472@example.com,5509986027574,True
+1473,PF,Luna da Cunha,,37213836722,,luna.da.cunha.1473@example.com,5592905489445,True
+1474,PF,Théo Borges,,69955606045,,th.o.borges.1474@example.com,5580981896558,True
+1475,PJ,da Paz da Paz Ltda.,Guerra,58015780000123,229521797,da.paz.da.paz.ltda.1475@example.com,5556960361624,True
+1476,PJ,Alves EIRELI,,65075756000145,704726602,alves.eireli.1476@example.com,5551958501530,True
+1477,PF,Pedro Lucas da Conceição,,56957287548,,pedro.lucas.da.concei.o.1477@example.com,5567915605879,True
+1478,PJ,Freitas S.A.,da Cunha da Rosa S/A,9281420000168,339547940,freitas.s.a.1478@example.com,5545931579057,True
+1479,PF,Bruno Teixeira,,60787789860,,bruno.teixeira.1479@example.com,5598966469365,True
+1480,PF,Camila Novaes,,74453443498,,camila.novaes.1480@example.com,5535997487680,True
+1481,PF,Dr. Benicio Vargas,,84792245923,,dr.benicio.vargas.1481@example.com,55037971843019,True
+1482,PJ,Castro Alves - EI ME,Lopes,480709000131,733329732,castro.alves.ei.me.1482@example.com,5596944028253,True
+1483,PF,Miguel Marques,,32692569733,,miguel.marques.1483@example.com,5599924277392,True
+1484,PJ,Silveira Nascimento Ltda.,,5140554000108,202320914,silveira.nascimento.ltda.1484@example.com,5516993328442,True
+1485,PF,Kaique Monteiro,,44177763268,,kaique.monteiro.1485@example.com,5599982907551,True
+1486,PF,Dr. Luigi Cardoso,,9048196558,,dr.luigi.cardoso.1486@example.com,5507956999138,True
+1487,PF,Davi Alves,,46394967963,,davi.alves.1487@example.com,5564933226227,True
+1488,PF,Nina Martins,,51765156360,,nina.martins.1488@example.com,5531968066470,True
+1489,PF,Agatha Costela,,48748385883,,agatha.costela.1489@example.com,5550936059529,True
+1490,PF,Liz Carvalho,,67674294650,,liz.carvalho.1490@example.com,5510974027406,True
+1491,PJ,Viana Ltda,Montenegro,17449708000127,267625906,viana.ltda.1491@example.com,55000936385646,True
+1492,PJ,da Paz - EI S.A.,da Mata,97570198000180,597931839,da.paz.ei.s.a.1492@example.com,5579984914986,True
+1493,PF,Levi Dias,,79905502882,,levi.dias.1493@example.com,5549932664322,True
+1494,PF,Srta. Jade Garcia,,30587891904,,srta.jade.garcia.1494@example.com,5521928981159,True
+1495,PJ,Novais ME,,23720131000149,400127622,novais.me.1495@example.com,5598947422567,True
+1496,PJ,Azevedo Ltda,,7647008000193,888223788,azevedo.ltda.1496@example.com,55005984168061,False
+1497,PF,Srta. Jade Oliveira,,43070539823,,srta.jade.oliveira.1497@example.com,5564979984605,True
+1498,PF,Mariane Rodrigues,,3640328477,,mariane.rodrigues.1498@example.com,55094996383097,True
+1499,PF,Guilherme Gonçalves,,54926545519,,guilherme.gon.alves.1499@example.com,5508909261662,True
+1500,PJ,Brito - ME,Fogaça,884752000162,578645786,brito.me.1500@example.com,5555975124764,True
+1501,PF,André Aragão,,20011690941,,andr.arag.o.1501@example.com,5587958682405,True
+1502,PF,Oliver Garcia,,40509792251,,oliver.garcia.1502@example.com,5545912244418,True
+1503,PJ,da Rocha S.A.,Casa Grande S.A.,20353072000120,386860835,da.rocha.s.a.1503@example.com,55001970363094,True
+1504,PF,Eduardo Cunha,,80123074487,,eduardo.cunha.1504@example.com,5560920508983,True
+1505,PF,João Lucas Souza,,22746721724,,jo.o.lucas.souza.1505@example.com,5534990961979,True
+1506,PF,Raquel Carvalho,,11029096708,,raquel.carvalho.1506@example.com,5552984135694,True
+1507,PF,Alice da Rosa,,18194990815,,alice.da.rosa.1507@example.com,5507935674809,True
+1508,PF,Dr. Henry Gabriel Oliveira,,41437949690,,dr.henry.gabriel.oliveira.1508@example.com,5505998026029,True
+1509,PF,João Gabriel Casa Grande,,7197160634,,jo.o.gabriel.casa.grande.1509@example.com,5531958925849,True
+1510,PF,Ravi Lucca Correia,,68246680609,,ravi.lucca.correia.1510@example.com,5520931977748,True
+1511,PJ,Marques EIRELI,,42525146000109,595141864,marques.eireli.1511@example.com,5523908829586,True
+1512,PF,Dra. Kamilly Caldeira,,47134750418,,dra.kamilly.caldeira.1512@example.com,5562933260586,True
+1513,PJ,Cavalcante EIRELI,Leão,85357367000110,748317306,cavalcante.eireli.1513@example.com,5529931518178,True
+1514,PJ,da Rocha Vasconcelos S.A.,,39128753000112,655946989,da.rocha.vasconcelos.s.a.1514@example.com,5562932723717,True
+1515,PJ,Cassiano S.A.,Melo Rocha - EI,53697586000151,006548708,cassiano.s.a.1515@example.com,5577995417675,True
+1516,PJ,Costa Ltda,Nogueira - EI,1409888000183,907378159,costa.ltda.1516@example.com,5557990894589,True
+1517,PJ,Cavalcante ME,Novaes,17760707000107,384887638,cavalcanet.me.1517@example.com,5520976123961,True
+1518,PJ,Camargo Pires e Filhos S.A.,Pires Ltda.,54548129000168,188129886,camargo.pires.e.filhos.s.a.1518@example.com,5582907066901,True
+1519,PF,Rafael Pastor,,96729313790,,rafael.pastor.1519@example.com,1234567890,True
+1520,PF,João Guilherme Santos,,11929905874,,jo.o.guilherme.santos.1520@example.com,5564997035067,True
+1521,PJ,Marques Ltda,,5174770000174,896833557,marques.ltda.1521@example.com,5577931231555,True
+1522,PJ,Rodrigues Ltda.,,96284292000100,705218799,rodrigues.ltda.1522@example.com,5584944045883,True
+1523,PJ,Barbosa Ltda.,,48946629000155,147012350,barbosa.ltda.1523@example.com,5568971568910,False
+1524,PF,Maysa Machado,,13295351627,,maysa.machado.1524@example.com,5578902344568,True
+1525,PJ,da Luz ME,Melo,88557283000118,940366401,da.luz.me.1525@example.com,5532995737831,True
+1526,PF,Dr. Luiz Otávio Machado,,74245698055,,dr.luiz.ot.vio.machado.1526@example.com,55092973186830,True
+1527,PF,Caio Farias,,8581402500,,caio.farias.1527@example.com,5554923324165,True
+1528,PF,Yan Ferreira,,28965699444,,yan.ferreira.1528@example.com,5583996607344,True
+1529,PF,Olivia Santos,,63243474,,olivia.santos.1529@example.com,5562915958417,True
+1530,PF,Danilo Lima,,53732661750,,danilo.lima.1530@example.com,5570950221816,True
+1531,PJ,Ramos Ltda.,da Conceição Ltda.,57508271000170,476094837,ramos.ltda.1531@example.com,55040929286433,False
+1532,PJ,Cassiano - ME,Souza,91174339000160,099621836,cassiano.me.1532@example.com,5577919666610,True
+1533,PJ,Dias Souza - ME,da Mota Cavalcanti S/A,63134786000150,222349980,dias.souza.me.1533@example.com,5537968367590,True
+1534,PF,Renan Machado,,12174200376,,renan.machado.1534@example.com,5515924461440,True
+1535,PJ,Cunha da Cruz Ltda.,Marques Ltda.,61127636000193,656426018,cunha.da.cruz.ltda.1535@example.com,5537926319956,True
+1536,PF,Lívia Fogaça,,8247541904,,l.via.foga.a.1536@example.com,5522977641490,False
+1537,PJ,Cunha - EI Ltda,,59831994000130,502551344,cunha.ei.ltda.1537@example.com,5586972288390,True
+1538,PF,Ravy Sá,,92189327210,,ravy.s.1538@example.com,5531945461574,True
+1539,PJ,Cassiano Fogaça S/A ME,da Luz e Filhos,63336116000116,978879531,cassiano.foga.a.s.a.me.1539@example.com,55004909543776,True
+1540,PF,Aylla Moraes,,91479070378,,aylla.moraes.1540@example.com,5508958001873,True
+1541,PJ,das Neves S.A.,,6904945000114,915114367,das.neves.s.a.1541@example.com,5562910781871,True
+1542,PF,Nathan Pires,,30674857429,,nathan.pires.1542@example.com,5556942570680,True
+1543,PF,Paulo Pacheco,,37250636995,,paulo.pacheco.1543@example.com,5531954230600,True
+1544,PJ,Correia Aragão S.A.,,64126493000193,865505224,correia.arag.o.s.a.1544@example.com,5514920667015,True
+1545,PF,José Miguel Dias,,52699048100,,jos.miguel.dias.1545@example.com,5592901663382,True
+1546,PJ,Carvalho Carvalho Ltda.,Andrade Ltda.,73959637000183,392220562,carvalho.carvalho.ltda.1546@example.com,5519901134843,True
+1547,PJ,Oliveira Brito S.A.,,72505731000108,325286132,oliveira.brito.s.a.1547@example.com,5594956452342,True
+1548,PF,Maria Liz da Rosa,,33936913846,,maria.liz.da.rosa.1548@example.com,5597960249866,True
+1549,PJ,da Mata Cavalcanti e Filhos Ltda,Siqueira - EI,82136974000161,536773498,da.mata.cavalcanti.e.filhos.ltda.1549@example.com,5529973561526,True
+1550,PF,Maria Eduarda Farias,,16141220088,,maria.eduarda.farias.1550@example.com,5514976253809,True
+1551,PJ,Leão EIRELI,Caldeira,87759268000190,475336952,le.o.eireli.1551@example.com,5574966535389,False
+1552,PJ,Cardoso S.A.,Souza,54815785000180,324367924,cardoso.s.a.1552@example.com,5557912763835,True
+1553,PJ,Cunha S.A.,Jesus,38902520000162,858639061,cunha.s.a.1553@example.com,5582949793998,True
+1554,PF,Ana Vitória Leão,,4484356830,,ana.vit.ria.le.o.1554@example.com,5553981168371,True
+1555,PJ,da Cruz S/A ME,,51524377000180,726072014,da.cruz.s.a.me.1555@example.com,5596978082649,True
+1556,PJ,Campos Cardoso S/A EIRELI,Gonçalves,77472502000140,394762542,campos.cardoso.s.a.eireli.1556@example.com,5526945633917,True
+1557,PF,Kaique Albuquerque,,50213465124,,kaique.albuquerque.1557@example.com,5569948112664,True
+1558,PF,Natália Borges,,70316451070,,nat.lia.borges.1558@example.com,5567906833539,True
+1559,PF,Arthur Gabriel Caldeira,,52021345505,,arthur.gabriel.caldeira.1559@example.com,5512959016399,True
+1560,PF,Arthur Gabriel Teixeira,,43551764603,,arthur.gabriel.teixeira.1560@example.com,5533934437673,True
+1561,PF,Kamilly Nascimento,,15189275728,,kamilly.nascimento.1561@example.com,5540998410167,True
+1562,PJ,Andrade Barbosa Ltda.,Caldeira - ME,27792986000136,049910042,andrade.barbosa.ltda.1562@example.com,5528986616801,True
+1563,PF,Ana Cecília da Cruz,,28050859576,,ana.cec.lia.da.cruz.1563@example.com,5521934854842,True
+1564,PJ,Costela Ltda.,Barbosa Lima S/A,75016253000152,791791386,costela.ltda.1564@example.com,5515791171321,True
+1565,PJ,Almeida EIRELI,,55947228000185,247028814,almeida.eireli.1565@example.com,5512987452719,True
+1566,PF,Pedro Henrique Melo,,66647761462,,pedro.henrique.melo.1566@example.com,5557964639138,True
+1567,PF,Arthur Miguel Porto,,85498771665,,arthur.miguel.porto.1567@example.com,55049916194232,True
+1568,PF,Luiz Fernando da Paz,,71973733528,,luiz.fernando.da.paz.1568@example.com,5513915350696,True
+1569,PJ,Gomes Azevedo - ME,Ferreira,8488772000126,525274102,gomes.azevedo.me.1569@example.com,5547917989948,True
+1570,PF,Maria Alice Lima,,42679699572,,maria.alice.lima.1570@example.com,5594989930051,True
+1571,PJ,Lopes Ltda,Ferreira,64624247000161,635584227,lopes.ltda.1571@example.com,5572966256504,True
+1572,PF,Alexia Melo,,74253718809,,alexia.melo.1572@example.com,5501944130686,False
+1573,PF,José Pedro Aparecida,,74019776997,,jos.pedro.aparecida.1573@example.com,5571900668904,False
+1574,PF,Ryan Carvalho,,99214432163,,ryan.carvalho.1574@example.com,5520976238115,True
+1575,PF,Elisa Carvalho,,64400778720,,elisa.carvalho.1575@example.com,5528922282408,True
+1576,PF,Ravy Duarte,,60389194816,,ravy.duarte.1576@example.com,55083959994004,True
+1577,PF,Arthur Miguel Silveira,,40385916116,,arthur.miguel.silveira.1577@example.com,5547991351135,True
+1578,PF,Ana Vasconcelos,,9055223115,,ana.vasconcelos.1578@example.com,5535972289206,True
+1579,PJ,Campos Ltda,,31228486000143,578097830,campos.ltda.1579@example.com,55080910419453,True
+1580,PF,Breno Pimenta,,34301938850,,breno.pimenta.1580@example.com,5528914478674,True
+1581,PJ,Novaes Andrade S.A.,Ramos - EI,14481123000104,893063578,novaes.andrade.s.a.1581@example.com,5537989121397,True
+1582,PJ,da Costa ME,Peixoto,27377291000198,905585575,da.costa.me.1582@example.com,5594908429069,True
+1583,PJ,Nunes S.A.,Sales Ltda.,27806300000119,528986061,nunes.s.a.1583@example.com,5565967337457,True
+1584,PF,Bryan Guerra,,14946578056,,a@a.com,5527961368149,True
+1585,PF,Ana Laura Carvalho,,44833981726,,ana.laura.carvalho.1585@example.com,5530984376992,True
+1586,PF,Maria Laura da Rocha,,9531167435,,maria.laura.da.rocha.1586@example.com,5547972508423,True
+1587,PF,Srta. Isis Cavalcanti,,6441991217,,srta.isis.cavalcanti.1587@example.com,5548900417241,True
+1588,PJ,Fernandes S.A.,Gonçalves Peixoto S/A,57416946000150,585574906,fernandes.s.a.1588@example.com,55079960242570,True
+1589,PF,Heitor Câmara,,58239831311,,heitor.c.mara.1589@example.com,55095994523158,False
+1590,PF,Vinicius Gomes,,37079594146,,vinicius.gomes.1590@example.com,5504902966299,True
+1591,PF,Pedro Miguel Castro,,62271549620,,pedro.miguel.castro.1591@example.com,5574929220416,True
+1592,PF,Ágatha Vargas,,3087487430,,gatha.vargas.1592@example.com,55015939266937,True
+1593,PJ,Gonçalves S.A.,Fogaça Sá S/A,18415752000189,313928048,gon.alves.s.a.1593@example.com,5502920619019,True
+1594,PF,Joaquim Cunha,,70707185009,,joaquim.cunha.1594@example.com,5593979719000,True
+1595,PJ,Cirino e Filhos Ltda,Lopes,1064046000137,162256471,cirino.e.filhos.ltda.1595@example.com,5555994079923,True
+1596,PF,João Pedro Vieira,,30304796760,,jo.o.pedro.vieira.1596@example.com,5532931677814,True
+1597,PJ,Garcia ME,,69670053000116,474370194,garcia.me.1597@example.com,5539911776665,True
+1598,PF,Luiz Felipe Cavalcanti,,60022912290,,luiz.felipe.cavalcanti.1598@example.com,55061920928157,True
+1599,PF,Ana Laura Jesus,,82352497582,,ana.laura.jesus.1599@example.com,5590922311678,False
+1600,PF,Melina Alves,,45908160245,,melina.alves.1600@example.com,5576935322371,True
+1601,PF,Maria Alice Pacheco,,76351303745,,maria.alice.pacheco.1601@example.com,55012968485637,False
+1602,PF,Bryan da Paz,,41104056020,,bryan.da.paz.1602@example.com,55094930003753,True
+1603,PJ,da Cruz Sampaio e Filhos EIRELI,Costela S.A.,21284943000163,465986693,da.cruz.sampaio.e.filhos.eireli.1603@example.com,55078941783765,True
+1604,PJ,Fernandes S.A.,Aparecida Brito S/A,99336289000181,406526642,fernandes.s.a.1604@example.com,5573951272455,True
+1605,PF,Josué Mendonça,,18600324351,,josu.mendon.a.1605@example.com,5565969764878,True
+1606,PF,Paulo Castro,,75410317475,,paulo.castro.1606@example.com,55049945104625,True
+1607,PJ,Jesus - EI Ltda,,6706278000165,296568512,jesus.ei.ltda.1607@example.com,5562976729350,True
+1608,PF,Maysa Pacheco,,81882897447,,maysa.pacheco.1608@example.com,5544921291465,True
+1609,PF,Francisco Casa Grande,,45537567652,,francisco.casa.grande.1609@example.com,5547978045797,True
+1610,PJ,Freitas Camargo - EI ME,Sampaio,72273511000198,070339821,freitas.camargo.ei.me.1610@example.com,5578923372094,True
+1611,PF,Sr. Miguel Mendonça,,5060379167,,sr.miguel.mendon.a.1611@example.com,5570963632863,True
+1612,PJ,Camargo S/A ME,Vieira Cassiano S/A,54111484000175,084842648,camargo.s.a.me.1612@example.com,5533967960828,True
+1613,PJ,Monteiro EIRELI,Sampaio S.A.,77130187000172,605494692,monteiro.eireli.1613@example.com,5585964901324,True
+1614,PF,Maria Eduarda Teixeira,,16105850700,,maria.eduarda.teixeira.1614@example.com,5593950011546,True
+1615,PJ,Melo Ltda.,Nogueira S/A,11266341000120,388904410,melo.ltda.1615@example.com,5504931566851,True
+1616,PF,Hadassa Farias,,83541171979,,hadassa.farias.1616@example.com,5581948374755,True
+1617,PF,Ana Julia Costa,,59860224838,,ana.julia.costa.1617@example.com,5590916856471,True
+1618,PF,Milena Novaes,,38600373743,,milena.novaes.1618@example.com,5501990271698,True
+1619,PF,Dra. Gabrielly Mendes,,99581030956,,dra.gabrielly.mendes.1619@example.com,5561915866861,False
+1620,PF,Ravy Gomes,,65225228534,,ravy.gomes.1620@example.com,55059983326170,True
+1621,PJ,Alves Ltda,Nascimento,67560490000151,353458195,alves.ltda.1621@example.com,5557928535339,True
+1622,PJ,da Paz Castro - ME,Ribeiro,53744761000114,217758015,da.paz.castro.me.1622@example.com,5546968793030,True
+1623,PF,Théo Fernandes,,23738894632,,th.o.fernandes.1623@example.com,5527927669834,True
+1624,PF,Sr. Léo Sousa,,17609734080,,sr.l.o.sousa.1624@example.com,5525928546130,True
+1625,PF,Nina Correia,,57669406,,nina.correia.1625@example.com,5589972073827,True
+1626,PF,Olivia Marques,,39554293852,,olivia.marques.1626@example.com,5518942527863,True
+1627,PJ,Vasconcelos - EI S.A.,Albuquerque - ME,4605444000101,121024234,vasconcelos.ei.s.a.1627@example.com,5573905777196,False
+1628,PF,Renan Caldeira,,82567141740,,renan.caldeira.1628@example.com,5559965667640,True
+1629,PJ,Moura S.A.,Correia da Paz Ltda.,58885463000168,009522426,moura.s.a.1629@example.com,5537993221914,True
+1630,PJ,Pinto Santos S/A ME,Almeida,59816124000192,547360157,pinto.santos.s.a.me.1630@example.com,5511950101626,True
+1631,PF,Arthur Montenegro,,82202380540,,arthur.montenegro.1631@example.com,5526958934759,True
+1632,PF,Gabrielly Câmara,,35177018075,,gabrielly.c.mara.1632@example.com,5548983571921,True
+1633,PJ,Oliveira ME,Melo,18667746000119,914638664,oliveira.me.1633@example.com,5520931726652,True
+1634,PJ,das Neves Gonçalves - EI S.A.,da Luz,28773832000160,927240002,das.neves.gon.alves.ei.s.a.1634@example.com,5586901460519,True
+1635,PF,Lucca da Mota,,52425338209,,lucca.da.mota.1635@example.com,5527916303356,True
+1636,PF,Helena Garcia,,48231525149,,helena.garcia.1636@example.com,5530910009089,True
+1637,PF,Isabela Azevedo,,60284902616,,isabela.azevedo.1637@example.com,5578910480283,True
+1638,PF,Dr. Benício Farias,,99682573467,,dr.ben.cio.farias.1638@example.com,5592990930437,True
+1639,PF,Mariana Borges,,44700750944,,mariana.borges.1639@example.com,5566928081226,True
+1640,PF,Ana Lívia Ferreira,,36854472466,,ana.l.via.ferreira.1640@example.com,5547947053110,True
+1641,PF,Sr. Joaquim Albuquerque,,90460388746,,sr.joaquim.albuquerque.1641@example.com,5567939798421,True
+1642,PF,Camila Souza,,39213072104,,camila.souza.1642@example.com,5526993765016,True
+1643,PF,Mariane Mendes,,98539134454,,mariane.mendes.1643@example.com,5587976288363,True
+1644,PJ,Nogueira ME,,15842569000171,850162762,nogueira.me.1644@example.com,5522966678809,True
+1645,PF,Dra. Evelyn Machado,,44069405291,,dra.evelyn.machado.1645@example.com,5516952289890,True
+1646,PJ,da Rocha S.A.,Dias Nunes - EI,81877079000135,125597772,da.rocha.s.a.1646@example.com,5559976408385,True
+1647,PF,Dra. Amanda Dias,,46091102532,,dra.amanda.dias.1647@example.com,5514917165789,True
+1648,PF,Bernardo Carvalho,,71414950292,,bernardo.carvalho.1648@example.com,5556951887114,True
+1649,PF,Mariane Aparecida,,94290269338,,mariane.aparecida.1649@example.com,5550909244928,True
+1650,PJ,Novais S.A.,,55221832000120,757030293,novais.s.a.1650@example.com,5511925018607,True
+1651,PF,Enzo Gabriel Oliveira,,34723297693,,enzo.gabriel.oliveira.1651@example.com,5569952223369,True
+1652,PJ,Campos Porto - EI EIRELI,Gomes S.A.,67348936000189,007302426,campos.porto.ei.eireli.1652@example.com,5524997537405,True
+1653,PF,Ayla Ramos,,67904645491,,ayla.ramos.1653@example.com,5546995674068,True
+1654,PJ,Viana ME,,2658133000185,354453451,viana.me.1654@example.com,5566988658348,True
+1655,PF,Juan Novais,,33638126552,,juan.novais.1655@example.com,5558962673664,False
+1656,PF,Luara da Costa,,86622631271,,luara.da.costa.1656@example.com,55007975870894,True
+1657,PJ,Castro Vargas e Filhos ME,Vargas,88748800000136,983443695,castro.vargas.e.filhos.me.1657@example.com,5505904505092,True
+1658,PJ,Guerra ME,Cavalcante,6589081000193,007342939,,5577937295450,True
+1659,PF,Arthur Azevedo,,48645678160,,arthur.azevedo.1659@example.com,5525985150204,True
+1660,PJ,Almeida Ltda,Novais Brito Ltda.,12269872000139,353127943,almeida.ltda.1660@example.com,5579953111235,True
+1661,PF,Ana da Mota,,33778982478,,ana.da.mota.1661@example.com,55065927428662,True
+1662,PJ,Camargo EIRELI,Moura Ltda.,94479502000190,738385545,camargo.eireli.1662@example.com,5546909193511,True
+1663,PF,Liz Ferreira,,8680980510,,liz.ferreira.1663@example.com,5553970627281,True
+1664,PF,Mirella Costa,,45065777365,,mirella.costa.1664@example.com,5574961215756,True
+1665,PF,Dra. Eloah Teixeira,,97630246099,,dra.eloah.teixeira.1665@example.com,5541926084818,True
+1666,PF,Melina Gonçalves,,77015876400,,melina.gon.alves.1666@example.com,55009990693196,True
+1667,PJ,Almeida Vieira S.A.,Barbosa,73725224000134,670450599,almeida.vieira.s.a.1667@example.com,5522967312343,True
+1668,PF,Vitória Andrade,,80683183486,,vit.ria.andrade.1668@example.com,5585914202593,True
+1669,PJ,da Rosa ME,,89247000126,502823134,da.rosa.me.1669@example.com,55075957672991,True
+1670,PF,Lucas da Rocha,,99552238633,,lucas.da.rocha.1670@example.com,5504943183436,True
+1671,PF,Maria Fernanda Câmara,,47069515774,,maria.fernanda.c.mara.1671@example.com,5502997711506,True
+1672,PJ,Rodrigues Pacheco S/A ME,,56841319000102,792651732,rodrigues.pacheco.s.a.me.1672@example.com,5516929108739,True
+1673,PJ,Castro Brito - EI Ltda,Gonçalves Nunes S/A,60862638000163,573767105,castro.brito.ei.ltda.1673@example.com,55098977074599,False
+1674,PJ,Freitas S.A.,,87758563000121,044500202,freitas.s.a.1674@example.com,5583987890345,True
+1675,PF,Enzo Gabriel Peixoto,,12576424481,,enzo.gabriel.peixoto.1675@example.com,5586976030409,True
+1676,PF,Srta. Júlia Jesus,,88364940481,,srta.j.lia.jesus.1676@example.com,55054918236881,False
+1677,PJ,Barbosa S.A.,Machado Cavalcanti S/A,94555948000157,051334601,barbosa.s.a.1677@example.com,5542920138825,True
+1678,PJ,Cavalcanti Andrade - EI EIRELI,Rodrigues Siqueira S/A,78041338000189,681636038,cavalcanti.andrade.ei.eireli.1678@example.com,5517936907894,True
+1679,PJ,Lima ME,,38513719000107,720005214,lima.me.1679@example.com,5507907163485,True
+1680,PJ,Vieira e Filhos S.A.,Caldeira,34846137000183,237085119,vieira.e.filhos.s.a.1680@example.com,5594945456972,True
+1681,PF,Maria Laura Ferreira,,46492628446,,maria.laura.ferreira.1681@example.com,5561992767137,True
+1682,PF,Bruna Sales,,3009549300,,bruna.sales.1682@example.com,5586926395612,True
+1683,PF,Sra. Maria Helena Vasconcelos,,40737364505,,sra.maria.helena.vasconcelos.1683@example.com,55083905573713,True
+1684,PF,Valentina Mendes,,26063326448,,valentina.mendes.1684@example.com,5502923461446,True
+1685,PF,Emanuelly Monteiro,,31099041791,,emanuelly.monteiro.1685@example.com,5533904117614,True
+1686,PF,Cauã Freitas,,42263502602,,cau.freitas.1686@example.com,55048931968636,True
+1687,PF,Rhavi Alves,,92227772395,,rhavi.alves.1687@example.com,5565968969870,True
+1688,PJ,Garcia Novaes - EI S.A.,Abreu Alves Ltda.,23137599000105,837936315,garcia.novaes.ei.s.a.1688@example.com,5522991270659,True
+1689,PF,João Lucas Azevedo,,41234389622,,jo.o.lucas.azevedo.1689@example.com,5540962911872,True
+1690,PF,Théo Castro,,9791931259,,th.o.castro.1690@example.com,5571983018179,True
+1691,PF,Ana Júlia Mendes,,410458589,,ana.j.lia.mendes.1691@example.com,5578998497499,True
+1692,PJ,Pinto Ltda,,34483270000112,905221711,pinto.ltda.1692@example.com,5586956581898,True
+1693,PJ,Albuquerque - ME,,24659945000188,173563163,albuquerque.me.1693@example.com,5529975572616,True
+1694,PF,Lorena Pereira,,9010964159,,lorena.pereira.1694@example.com,5537988119389,True
+1695,PF,Ana Júlia Gonçalves,,45977991410,,ana.j.lia.gon.alves.1695@example.com,5520913071675,True
+1696,PJ,Vieira Rodrigues e Filhos EIRELI,Camargo Gomes S.A.,95743994000142,361317985,vieira.rodrigues.e.filhos.eireli.1696@example.com,5590904903729,True
+1697,PF,Dr. Marcelo Moreira,,50442701721,,dr.marcelo.moreira.1697@example.com,5583956399812,True
+1698,PF,Lara Siqueira,,63302625359,,lara.siqueira.1698@example.com,5592925517419,True
+1699,PF,Dra. Ester Duarte,,99143430406,isento,dra.ester.duarte.1699@example.com,5514976212360,True
+1700,PF,Vitor Hugo Gonçalves,,23214721038,,vitor.hugo.gon.alves.1700@example.com,5599945413845,True
+1701,PJ,Brito Dias - ME,Vasconcelos Aragão - EI,97267466000190,307968590,brito.dias.me.1701@example.com,5564959872408,True
+1702,PF,Dra. Emanuelly Sampaio,,35407134250,,dra.emanuelly.sampaio.1702@example.com,5577935166811,True
+1703,PJ,Cunha Pinto - ME,Lima Machado S/A,84974967000164,721734024,cunha.pinto.me.1703@example.com,55022941983063,True
+1704,PJ,Siqueira da Costa - ME,,97575749000107,540181444,siqueira.da.costa.me.1704@example.com,55048942024350,True
+1705,PF,Dra. Lorena Macedo,,8709031871,,dra.lorena.macedo.1705@example.com,5551918615640,True
+1706,PJ,Caldeira Ltda,Monteiro,27595966000175,539891370,caldeira.ltda.1706@example.com,5542945190826,True
+1707,PF,Brayan Alves,,69129588774,,brayan.alves.1707@example.com,5556959429920,True
+1708,PF,Emanuella da Costa,,89423827977,,emanuella.da.costa.1708@example.com,55066969692295,True
+1709,PJ,da Conceição Nascimento - ME,,93971166000136,194118390,da.concei.o.nascimento.me.1709@example.com,5534924240662,True
+1710,PF,Esther da Mata,,7565888397,,esther.da.mata.1710@example.com,5533948893343,True
+1711,PJ,Freitas S.A.,Sousa - EI,85508049000102,669408654,freitas.s.a.1711@example.com,55043982692855,True
+1712,PF,Rael da Mata,,44773060085,,rael.da.mata.1712@example.com,5550995288959,True
+1713,PJ,Mendes ME,da Cruz - EI,62861868000133,696453591,mendes.me.1713@example.com,55065904718830,True
+1714,PF,Luigi da Mota,,57450857707,,luigi.da.mota.1714@example.com,55088973449668,True
+1715,PF,Marina Machado,,58395612745,,marina.machado.1715@example.com,5589994706170,True
+1716,PF,Ana Júlia Barros,,77386503202,,ana.j.lia.barros.1716@example.com,5597911038471,True
+1717,PJ,Gonçalves ME,,65029808000147,756650518,gon.alves.me.1717@example.com,5560916744923,True
+1718,PF,Gustavo Henrique Freitas,,10966575890,,gustavo.henrique.freitas.1718@example.com,5569985045056,True
+1719,PJ,Santos S.A.,,15923239000100,937540242,santos.s.a.1719@example.com,5561978925714,True
+1720,PF,Davi Lucca Farias,,25857141443,,davi.lucca.farias.1720@example.com,5538957626481,True
+1721,PF,Maria Sophia Teixeira,,72156455848,,maria.sophia.teixeira.1721@example.com,5584993680635,True
+1722,PF,Marcela Câmara,,77185219230,,marcela.c.mara.1722@example.com,5510912789695,True
+1723,PF,Gustavo Henrique Abreu,,14911822104,,gustavo.henrique.abreu.1723@example.com,5585927758670,True
+1724,PJ,Gomes Duarte - ME,Aragão Correia e Filhos,51373822000159,634443946,gomes.duarte.me.1724@example.com,5596933181233,True
+1725,PF,Dr. Otto Borges,,68896554519,,dr.otto.borges.1725@example.com,55007931744577,True
+1726,PF,Emanuella Rocha,,58455343729,,emanuella.rocha.1726@example.com,5526936785089,True
+1727,PJ,Monteiro Ltda,Viana,20893561000174,759443485,monteiro.ltda.1727@example.com,55095937740376,True
+1728,PF,Mariah Novais,,49180509720,,mariah.novais.1728@example.com,55040942076751,True
+1729,PF,Pedro Miguel Ferreira,,6043622777,,pedro.miguel.ferreira.1729@example.com,5541915733099,True
+1730,PF,Arthur Gabriel Ramos,,72746175916,,arthur.gabriel.ramos.1730@example.com,5594906565823,True
+1731,PF,Sra. Julia Fernandes,,44073488953,,sra.julia.fernandes.1731@example.com,5585965352326,True
+1732,PF,Ana Beatriz Pires,,71449548148,,ana.beatriz.pires.1732@example.com,5504970911034,True
+1733,PF,Maria Cecília Leão,,79086219535,,maria.cec.lia.le.o.1733@example.com,5519998996511,True
+1734,PJ,Rodrigues Ltda.,,80249988000166,837466144,rodrigues.ltda.1734@example.com,55076918687047,True
+1735,PF,Dra. Maria Sophia Guerra,,69680664759,,dra.maria.sophia.guerra.1735@example.com,5582990525659,True
+1736,PF,Maria Fernanda Almeida,,30241974941,,fulano@example.com,5591942330292,True
+1737,PF,Mariana da Paz,,72455409775,,mariana.da.paz.1737@example.com,5554973986221,True
+1738,PF,Benjamin Fogaça,,34458890662,,benjamin.foga.a.1738@example.com,5531986604747,True
+1739,PF,Heitor Novaes,,66001376573,,heitor.novaes.1739@example.com,5514978524744,True
+1740,PJ,Abreu Correia Ltda.,,69796088000104,944102387,abreu.correia.ltda.1740@example.com,5551986647741,False
+1741,PF,Caleb Costela,,48011531514,,caleb.costela.1741@example.com,5518930258534,True
+1742,PF,Luiza Nascimento,,80090637119,,luiza.nascimento.1742@example.com,5553998852178,True
+1743,PF,Lunna Fernandes,,8578236475,,lunna.fernandes.1743@example.com,5590998412865,True
+1744,PJ,Moreira S.A.,,68597625000116,167592383,moreira.s.a.1744@example.com,5593948918003,False
+1745,PF,Ana Luiza da Luz,,92674462230,,ana.luiza.da.luz.1745@example.com,5534929242195,True
+1746,PJ,Souza ME,Teixeira Aragão - EI,76556319000160,121852734,souza.me.1746@example.com,5514961331555,True
+1747,PF,Benjamim Azevedo,,45100868228,,benjamim.azevedo.1747@example.com,5530930440778,True
+1748,PJ,Rios e Filhos S.A.,Aragão - EI,93035253000181,659845576,rios.e.filhos.s.a.1748@example.com,5534954182991,True
+1749,PJ,Jesus Pimenta - EI Ltda,Fernandes,73424400000106,206419106,jesus.pimenta.ei.ltda.1749@example.com,5566991008224,True
+1750,PF,Davi Guerra,,35162412414,,davi.guerra.1750@example.com,5526982217562,True
+1751,PF,Maria Helena Pinto,,49736533301,,maria.helena.pinto.1751@example.com,5562908347910,True
+1752,PF,LUIZ FELIPE NUNES,,92804893995,,luiz.felipe.nunes.1752@example.com,5525972287032,True
+1753,PF,Arthur Aparecida,,5420903849,,arthur.aparecida.1753@example.com,55048959724387,True
+1754,PF,Diogo Pimenta,,80770655386,,diogo.pimenta.1754@example.com,5514952058028,True
+1755,PF,Allana Garcia,,19506887802,,allana.garcia.1755@example.com,5548902240654,False
+1756,PJ,da Luz Ltda,Guerra,22205653000140,950904189,da.luz.ltda.1756@example.com,5556964301655,True
+1757,PF,Catarina Câmara,,99629056135,,catarina.c.mara.1757@example.com,5587988876569,True
+1758,PJ,Barbosa Costela - ME,,96210538000108,062290113,barbosa.costela.me.1758@example.com,5560947947199,True
+1759,PJ,Cunha - EI ME,Costela Ltda.,15656122000108,148953829,cunha.ei.me.1759@example.com,5541991479053,True
+1760,PJ,Macedo ME,,18552301000193,283951673,macedo.me.1760@example.com,5595932670848,True
+1761,PF,Maria Luiza Pires,,14269929391,,maria.luiza.pires.1761@example.com,5565962925822,True
+1762,PJ,Silva Nascimento S/A EIRELI,,43825980000174,183235306,silva.nascimento.s.a.eireli.1762@example.com,5585968467678,True
+1763,PJ,Pimenta - ME,Duarte,88536670000178,837449597,pimenta.me.1763@example.com,5521935317555,True
+1764,PJ,Montenegro Sampaio - EI ME,da Mota,80044028000160,874114862,montenegro.sampaio.ei.me.1764@example.com,5575911997645,True
+1765,PJ,da Mata Pimenta - ME,Viana,30886427000108,515641967,da.mata.pimenta.me.1765@example.com,5596930093582,False
+1766,PF,Daniel Gonçalves,,16832829736,,daniel.gon.alves.1766@example.com,5501959722422,True
+1767,PJ,Teixeira ME,das Neves Vargas e Filhos,1369792000139,927668098,teixeira.me.1767@example.com,5560918040334,True
+1768,PF,Alana Barbosa,,25004563071,,alana.barbosa.1768@example.com,5537935866715,True
+1769,PF,Dr. João Gabriel Leão,,41467498165,,dr.jo.o.gabriel.le.o.1769@example.com,5553992609674,True
+1770,PJ,Porto Ltda,Monteiro Carvalho S/A,72094461000181,536499119,porto.ltda.1770@example.com,55085967285021,True
+1771,PJ,Duarte Ltda,Novais da Cruz S/A,48983821000111,775582126,duarte.ltda.1771@example.com,55064939567844,True
+1772,PF,Sra. Agatha Machado,,23823454544,,sra.agatha.machado.1772@example.com,5590975199198,False
+1773,PF,Rafael Mendes,,95126682202,,rafael.mendes.1773@example.com,5551929441492,True
+1774,PF,Sr. Carlos Eduardo Lima,,63734802083,,sr.carlos.eduardo.lima.1774@example.com,5598928385974,True
+1775,PF,Melina Lopes,,75869707188,,melina.lopes.1775@example.com,5565990705549,False
+1776,PF,Gustavo Henrique Porto,,60714616265,,gustavo.henrique.porto.1776@example.com,5536987715692,True
+1777,PF,Alexandre Pacheco,,84946095136,,alexandre.pacheco.1777@example.com,5590976341535,True
+1778,PJ,Martins ME,Aragão e Filhos,40825286000169,011547734,martins.me.1778@example.com,5543914872255,True
+1779,PF,Sarah Fernandes,,78814070261,,sarah.fernandes.1779@example.com,5541935474168,True
+1780,PF,Dr. Ravi Lucca Cunha,,30108238350,,dr.ravi.lucca.cunha.1780@example.com,5552932855580,True
+1781,PF,Manuella Mendonça,,32268017400,,manuella.mendon.a.1781@example.com,5547958166028,True
+1782,PF,Dante Vasconcelos,,83954512459,,dante.vasconcelos.1782@example.com,5562933470407,True
+1783,PJ,da Cunha - ME,,1392233000140,971479734,da.cunha.me.1783@example.com,5585959508374,True
+1784,PF,Dr. Arthur Miguel Campos,,28100104204,,dr.arthur.miguel.campos.1784@example.com,55003996101759,True
+1785,PF,Ana Ribeiro,,83426017733,,ana.ribeiro.1785@example.com,5517906794907,True
+1786,PF,Marina Sampaio,,80698291255,,marina.sampaio.1786@example.com,5528955162159,True
+1787,PF,Yan Vargas,,62232024741,,yan.vargas.1787@example.com,5567963536735,True
+1788,PJ,Santos S.A.,Aparecida,63745431000105,707228834,santos.s.a.1788@example.com,5533951390143,True
+1789,PF,Ravi Lucca das Neves,,42331725411,,ravi.lucca.das.neves.1789@example.com,55074993663579,True
+1790,PF,Melina Vargas,,11249246636,,melina.vargas.1790@example.com,5548903007356,True
+1791,PJ,Novais S.A.,,76216772000127,260825263,novais.s.a.1791@example.com,55094912886691,True
+1792,PF,Davi Lucas Rocha,,86064225688,,davi.lucas.rocha.1792@example.com,55032914252611,True
+1793,PJ,Vieira Ltda,Farias Pinto Ltda.,36438535000196,657446532,vieira.ltda.1793@example.com,5554941181851,True
+1794,PF,Mateus Machado,,89853053799,,mateus.machado.1794@example.com,5580952038819,True
+1795,PF,Pedro Miguel Silveira,,40146762002,,pedro.miguel.silveira.1795@example.com,5584918471462,True
+1796,PJ,Alves Barbosa Ltda.,Costa da Cruz Ltda.,63126196000185,401127283,alves.barbosa.ltda.1796@example.com,5503908764770,True
+1797,PF,Dra. Alexia Leão,,73293805710,,dra.alexia.le.o.1797@example.com,55061983762950,True
+1798,PJ,Leão Ltda,Sales,42995114000169,162172048,le.o.ltda.1798@example.com,5586980418693,True
+1799,PJ,Câmara e Filhos ME,Gomes da Rosa e Filhos,86903509000160,564967419,c.mara.e.filhos.me.1799@example.com,5516905390649,True
+1800,PF,Ryan Ramos,,21219924997,,ryan.ramos.1800@example.com,5534925197018,False
+1801,PF,Marcelo Novais,,43572542561,,marcelo.novais.1801@example.com,5513968296707,False
+1802,PF,Erick Campos,,24059789704,,erick.campos.1802@example.com,5531993625260,True
+1803,PJ,Cavalcanti Camargo - ME,,47882828000184,908875480,cavalcanti.camargo.me.1803@example.com,55093935838439,True
+1804,PF,Antonella Abreu,,83843567425,,antonella.abreu.1804@example.com,5557935174546,True
+1805,PJ,Vargas Sales e Filhos S.A.,Campos,80638442000105,021401283,vargas.sales.e.filhos.s.a.1805@example.com,5519955897990,True
+1806,PF,Lucca Teixeira,,75853815067,,lucca.teixeira.1806@example.com,5571977170305,True
+1807,PF,Sarah Machado,,43294098448,,sarah.machado.1807@example.com,5594912460516,True
+1808,PF,Vitor Hugo da Conceição,,94654296603,,vitor.hugo.da.concei.o.1808@example.com,5595933768418,True
+1809,PJ,Teixeira ME,Marques,98943538000134,760064345,teixeira.me.1809@example.com,5573917303324,True
+1810,PJ,Souza Ltda,Farias,12332345000121,745104848,souza.ltda.1810@example.com,5594973181560,True
+1811,PF,Dr. Enrico Mendes,,72334191671,,dr.enrico.mendes.1811@example.com,5579995947611,True
+1812,PJ,Aragão - ME,Gonçalves,8717461000191,475456572,arag.o.me.1812@example.com,5597922693485,True
+1813,PJ,Rodrigues Ltda,Teixeira S.A.,82642908000163,909846856,rodrigues.ltda.1813@example.com,5566999261382,True
+1814,PJ,Viana ME,Andrade,86146861000106,977779570,viana.me.1814@example.com,5599962637792,False
+1815,PJ,Azevedo ME,Araújo - ME,52573794000186,351289622,azevedo.me.1815@example.com,5568924323330,True
+1816,PF,Henrique Pimenta,,17152829497,,henrique.pimenta.1816@example.com,5534946060694,True
+1817,PF,Srta. Agatha Guerra,,79863145670,,srta.agatha.guerra.1817@example.com,5552935786529,True
+1818,PF,Caleb Carvalho,,72800229012,,caleb.carvalho.1818@example.com,5553970064488,True
+1819,PF,Dr. Vitor Mendes,,20413032124,,dr.vitor.mendes.1819@example.com,5531919804255,False
+1820,PJ,Casa Grande EIRELI,Duarte S.A.,36221345000112,764255078,casa.grande.eireli.1820@example.com,5588978602039,True
+1821,PJ,Cavalcante Campos S.A.,Mendes S/A,15109426000155,195866399,cavalcante.campos.s.a.1821@example.com,55087998728731,True
+1822,PJ,Castro ME,Nunes,34655590000102,562917964,castro.me.1822@example.com,5516903328880,True
+1823,PF,Alana Almeida,,61504389026,,alana.almeida.1823@example.com,5510928745120,True
+1824,PJ,Rodrigues Castro e Filhos S.A.,,36356213000106,017545416,rodrigues.castro.e.filhos.s.a.1824@example.com,5587992104662,True
+1825,PF,Luiza Rezende,,37472894605,,luiza.rezende.1825@example.com,5515926974420,True
+1826,PJ,Silveira Gonçalves S/A EIRELI,Nascimento,76958218000115,548330958,silveira.gon.alves.s.a.eireli.1826@example.com,55023983680601,True
+1827,PF,Lucas Gabriel Machado,,6010808316,,lucas.gabriel.machado.1827@example.com,5523926714858,True
+1828,PF,Srta. Natália Abreu,,95699862552,NAO POSSUI,srta.nat.lia.abreu.1828@example.com,5550919679720,True
+1829,PF,Caroline Ferreira,,27109072320,,caroline.ferreira.1829@example.com,5592901828523,True
+1830,PJ,Santos Cassiano - EI S.A.,,42725390000107,704937958,santos.cassiano.ei.s.a.1830@example.com,55091958551163,True
+1831,PJ,Barros ME,Peixoto,10913796000127,207574142,barros.me.1831@example.com,5587939626259,True
+1832,PF,Valentim Nogueira,,36010847834,,valentim.nogueira.1832@example.com,5512949773677,True
+1833,PF,José Pedro da Rosa,,97334875893,,jos.pedro.da.rosa.1833@example.com,5543954978729,True
+1834,PJ,Fonseca ME,Camargo,75293046000145,564380299,fonseca.me.1834@example.com,5534980424796,True
+1835,PF,Arthur Silveira,,8380802780,,arthur.silveira.1835@example.com,5594909165737,True
+1836,PF,Carolina da Paz,,3788394030,,carolina.da.paz.1836@example.com,55066922549203,True
+1837,PF,Isabel Aragão,,4145575571,,isabel.arag.o.1837@example.com,5514901527311,True
+1838,PF,Ester Cirino,,90598649565,,ester.cirino.1838@example.com,5541947569001,True
+1839,PF,Juliana Cardoso,,11455042803,,juliana.cardoso.1839@example.com,5533959847422,True
+1840,PF,Zoe Porto,,64802996470,,zoe.porto.1840@example.com,5559966771539,True
+1841,PF,Enzo Gabriel Cavalcante,,56041068012,,enzo.gabriel.cavalcante.1841@example.com,5524973650032,True
+1842,PF,Allana Oliveira,,15340118975,,allana.oliveira.1842@example.com,5506947614427,True
+1843,PJ,da Cruz S.A.,Dias,38640109000166,404231697,da.cruz.s.a.1843@example.com,5520967549393,True
+1844,PF,Igor Rodrigues,,8285113060,,igor.rodrigues.1844@example.com,5569904539252,True
+1845,PF,Olivia Novais,,66140159741,,olivia.novais.1845@example.com,5557933813307,True
+1846,PJ,da Mota Fernandes S.A.,Aragão Cirino S.A.,34323497000109,641224740,da.mota.fernandes.s.a.1846@example.com,5585937203350,True
+1847,PJ,Barbosa Ltda,Aragão,17545994000124,232510715,barbosa.ltda.1847@example.com,5558970940422,True
+1848,PF,Letícia Fernandes,,87958786611,,let.cia.fernandes.1848@example.com,5541919925512,True
+1849,PF,Sr. Thomas Andrade,,70801376670,,sr.thomas.andrade.1849@example.com,55081991350534,True
+1850,PF,Jade Teixeira,,87529333500,,jade.teixeira.1850@example.com,5597915755716,True
+1851,PJ,da Conceição EIRELI,,36904147000153,282463061,da.concei.o.eireli.1851@example.com,5521985635200,True
+1852,PF,Maya Barbosa,,43810839973,,maya.barbosa.1852@example.com,5504920598685,True
+1853,PJ,Peixoto S.A.,Marques,16010370000140,143360809,peixoto.s.a.1853@example.com,5510914610392,True
+1854,PJ,Moraes ME,Nascimento - EI,15110815000109,304616388,moraes.me.1854@example.com,5568978518569,True
+1855,PJ,Ferreira e Filhos Ltda,Ribeiro - EI,99421918000171,656882672,ferreira.e.filhos.ltda.1855@example.com,5500972720814,True
+1856,PJ,Cassiano S.A.,Marques Costela Ltda.,16028603000131,640783083,cassiano.s.a.1856@example.com,5569978999514,True
+1857,PF,Dr. Yan Costela,,82430636689,,dr.yan.costela.1857@example.com,5571946749066,True
+1858,PJ,Machado EIRELI,Azevedo,68511228000180,857116456,machado.eireli.1858@example.com,5559956343180,True
+1859,PJ,Costela S.A.,Almeida Silveira S/A,48251926000186,258565337,costela.s.a.1859@example.com,55073903167871,True
+1860,PF,Elisa Leão,,80072266562,,elisa.le.o.1860@example.com,5554987201240,True
+1861,PJ,Freitas da Rocha Ltda.,Alves,71740757000160,054908099,freitas.da.rocha.ltda.1861@example.com,5539976738872,True
+1862,PF,Marcos Vinicius Brito,,91687615896,,marcos.vinicius.brito.1862@example.com,5530934383000,True
+1863,PF,Anna Liz da Rocha,,65191696336,,anna.liz.da.rocha.1863@example.com,5552994930741,True
+1864,PJ,Nunes S.A.,Dias,48370760000117,466289735,nunes.s.a.1864@example.com,5589962252756,True
+1865,PJ,Abreu S.A.,da Cruz Andrade S.A.,46647167000140,340567712,abreu.s.a.1865@example.com,5515989041828,True
+1866,PF,Lucca Azevedo,,62445755395,,lucca.azevedo.1866@example.com,5566908123927,True
+1867,PF,Laís Vargas,,95227247005,,la.s.vargas.1867@example.com,5579909863615,True
+1868,PJ,Melo Gonçalves - EI ME,,94881732000181,584442022,melo.gon.alves.ei.me.1868@example.com,5582948863137,True
+1869,PJ,Martins Barbosa Ltda.,,20206914000110,503118026,martins.barbosa.ltda.1869@example.com,5591941939606,True
+1870,PJ,Alves Ltda.,Viana,43726988000183,189119925,alves.ltda.1870@example.com,5592947688341,True
+1871,PF,Henry da Luz,,77990684268,,henry.da.luz.1871@example.com,5541931811814,True
+1872,PF,Luigi Barros,,46260717407,,luigi.barros.1872@example.com,5525917904470,True
+1873,PJ,Leão Ltda,,89666476000170,094067148,le.o.ltda.1873@example.com,55083910314564,True
+1874,PF,Dr. Davi Lucas Teixeira,,60735926042,,dr.davi.lucas.teixeira.1874@example.com,55075979407403,True
+1875,PF,Rael da Luz,,81027278884,,rael.da.luz.1875@example.com,5599998709339,True
+1876,PF,Ian Gonçalves,,21001734726,,ian.gon.alves.1876@example.com,5541926410603,True
+1877,PF,Paulo Teixeira,,71070674001,,paulo.teixeira.1877@example.com,55053918057631,True
+1878,PF,Ana Carolina Barros,,58324543325,,ana.carolina.barros.1878@example.com,5589965461253,True
+1879,PF,Ana Carolina Gomes,,81303450054,,ana.carolina.gomes.1879@example.com,5500947486794,True
+1880,PJ,Vasconcelos ME,Moraes,57941509000156,481703610,vasconcelos.me.1880@example.com,5577901773759,True
+1881,PF,Gael Henrique Costa,,87022979308,,gael.henrique.costa.1881@example.com,5578911171960,True
+1882,PF,João Lucas Pimenta,,45697065841,,jo.o.lucas.pimenta.1882@example.com,5521944415596,False
+1883,PF,Lara da Conceição,,65420457083,,lara.da.concei.o.1883@example.com,5538949655239,False
+1884,PF,Rhavi Vasconcelos,,62888995697,,rhavi.vasconcelos.1884@example.com,5533953004999,True
+1885,PJ,Gomes Pires - ME,Cunha,14883463000153,619773173,gomes.pires.me.1885@example.com,5546924872385,True
+1886,PJ,Farias EIRELI,,98509674000110,392768714,farias.eireli.1886@example.com,5534993179670,True
+1887,PF,Alana Fonseca,,9004042130,,alana.fonseca.1887@example.com,5581973579211,True
+1888,PJ,Carvalho ME,Alves,42735871000101,698935464,carvalho.me.1888@example.com,5539989701455,True
+1889,PJ,Abreu Ltda,,12742678000129,393427186,abre.ultda.1889@example.com,5592955290509,True
+1890,PF,Mathias Aragão,,6344896582,,mathias.arag.o.1890@example.com,5501910156161,True
+1891,PJ,Correia Ltda,Viana,84441567000193,498121300,correia.ltda.1891@example.com,5582938469908,True
+1892,PF,Pietra Cardoso,,44574535105,,pietra.cardoso.1892@example.com,5531904481773,True
+1893,PJ,Fonseca Ltda,Silveira,35599863000101,619221882,fonseca.ltda.1893@example.com,55006931864176,False
+1894,PF,Henry Gabriel Alves,,98496663825,,henry.gabriel.alves.1894@example.com,55036941693683,True
+1895,PF,Sr. Noah Martins,,8545089538,,sr.noah.martins.1895@example.com,5540932391932,True
+1896,PF,Sr. Vitor Cassiano,,26786952470,,sr.vitor.cassiano.1896@example.com,5571926937949,True
+1897,PF,Luna Cavalcante,,77864963196,,luna.cavalcante.1897@example.com,55052996444843,True
+1898,PJ,Vargas ME,,88243109000109,868111433,vargas.me.1898@example.com,5564909805877,True
+1899,PF,Lucas Gabriel Dias,,43018594118,,lucas.gabriel.dias.1899@example.com,5590962787902,True
+1900,PF,Sr. Dom Almeida,,79963645402,,sr.dom.almeida.1900@example.com,5563972162660,True
+1901,PF,Diogo Correia,,86404032791,,diogo.correia.1901@example.com,5584918029559,True
+1902,PF,Rebeca Martins,,59103153231,,rebeca.martins.1902@example.com,5579939579551,True
+1903,PF,Clara da Cunha,,69104934865,,clara.da.cunha.1903@example.com,55041911736703,True
+1904,PJ,Casa Grande ME,Gonçalves,41516397000156,761125842,casa.grande.me.1904@example.com,5530908056308,True
+1905,PF,Srta. Eloah Pires,,14796181016,,srta.eloah.pires.1905@example.com,5582987321078,True
+1906,PF,Gabriela Barros,,29881745047,,gabriela.barros.1906@example.com,55073965485220,True
+1907,PF,Catarina Abreu,,44351975539,,catarina.abreu.1907@example.com,5597908428741,True
+1908,PJ,Rodrigues EIRELI,,14768227000196,279636512,rodrigues.eireli.1908@example.com,5555951005108,False
+1909,PF,Kevin Sales,,18856758873,,kevin.sales.1909@example.com,5542926230036,True
+1910,PJ,Machado S.A.,da Costa Duarte S/A,1001748000171,283034243,machado.s.a.1910@example.com,55053991692809,True
+1911,PJ,Leão e Filhos S.A.,Câmara,16619708000165,166968740,le.o.e.filhos.s.a.1911@example.com,5530945441061,True
+1912,PF,Maria Júlia da Luz,,24884262964,,maria.j.lia.da.luz.1912@example.com,5570908445801,True
+1913,PJ,Siqueira S.A.,Mendonça - ME,20679085000193,429628092,siqueira.s.a.1913@example.com,5511950509699,True
+1914,PF,Sra. Beatriz Siqueira,,97094385650,,sra.beatriz.siqueira.1914@example.com,5515925523228,True
+1915,PF,Luan Montenegro,,67693997334,,luan.montenegro.1915@example.com,5537974354047,True
+1916,PF,Emanuella Fernandes,,37679700400,,emanuella.fernandes.1916@example.com,5595901115255,True
+1917,PJ,Cirino ME,,64372025000107,778882603,cirino.me.1917@example.com,5574989030458,True
+1918,PJ,Santos - EI ME,Campos,54210468000130,861422935,santos.ei.me.1918@example.com,5545992055967,True
+1919,PF,Dr. Thales Peixoto,,73103962193,,dr.thales.peixoto.1919@example.com,5511937983045,True
+1920,PJ,Jesus EIRELI,Macedo da Cunha Ltda.,16421904000120,116089589,jesus.eireli.1920@example.com,55001952213368,False
+1921,PF,Maria Flor Araújo,,3069909205,,maria.flor.ara.jo.1921@example.com,5583947612898,True
+1922,PF,Heloísa Abreu,,59370311726,,helo.sa.abreu.1922@example.com,55046911399799,True
+1923,PF,Ravi Lucca Caldeira,,99257032639,,ravi.lucca.caldeira.1923@example.com,5560933878852,True
+1924,PF,Maria Clara Siqueira,,91685972748,,maria.clara.siqueira.1924@example.com,5598968184397,True
+1925,PJ,Sampaio ME,,53510623000170,309007379,sampaio.me.1925@example.com,5599994457444,True
+1926,PJ,Aparecida - ME,Pacheco,57303049000130,262654347,aparecida.me.1926@example.com,5591960435983,True
+1927,PJ,Pires EIRELI,Martins - EI,52785751000164,965857837,pires.eireli.1927@example.com,5568916784340,True
+1928,PJ,Sales ME,Araújo Macedo e Filhos,16032967000195,177613500,sales.me.1928@example.com,55088936922338,False
+1929,PF,Dr. Anthony Gabriel da Costa,,56621897065,,dr.anthony.gabriel.da.costa.1929@example.com,5569999528502,True
+1930,PF,Caio Teixeira,,69597727960,,caio.teixeira.1930@example.com,55065932735514,False
+1931,PJ,Cassiano EIRELI,Peixoto,44586465000141,032234771,cassiano.eireli.1931@example.com,5569950935555,True
+1932,PF,Sra. Ana Cecília Cassiano,,91523271329,,sra.ana.cec.lia.cassiano.1932@example.com,5506917413644,True
+1933,PJ,Nunes ME,,50332026000105,476121893,nunes.me.1933@example.com,5512970650761,False
+1934,PF,Enzo Gabriel Cassiano,,15775702352,,enzo.gabriel.cassiano.1934@example.com,5530956446853,True
+1935,PF,Alana da Cunha,,4739027291,,alana.da.cunha.1935@example.com,5555959502635,True
+1936,PJ,Abreu S.A.,Monteiro,22244752000130,789433276,abreu.s.a.1936@example.com,5599904600823,True
+1937,PF,Maria Flor Silveira,,19867016033,,maria.flor.silveira.1937@example.com,55069902220975,True
+1938,PJ,Rocha EIRELI,,56972572000197,061790670,rocha.eireli.1938@example.com,5551920039344,True
+1939,PF,Ana Beatriz Marques,,33907057325,,ana.beatriz.marques.1939@example.com,5597921621833,True
+1940,PF,Isabel Pastor,,66265547003,,isabel.pastor.1940@example.com,5592996921053,True
+1941,PJ,Mendes S/A ME,,51414449000137,226008228,mendes.s.a.me.1941@example.com,5577942705498,True
+1942,PJ,Mendonça EIRELI,Vieira,76171649000137,282063228,mendon.a.eireli.1942@example.com,5512969804466,True
+1943,PJ,Montenegro EIRELI,Carvalho,31942599000106,476096064,montenegro.eireli.1943@example.com,55024952573787,True
+1944,PF,Sra. Olivia Monteiro,,84747112073,,sra.olivia.monteiro.1944@example.com,5584907094657,True
+1945,PF,Natália Vasconcelos,,14736980575,,nat.lia.vasconcelos.1945@example.com,5561929889728,True
+1946,PF,Eduardo Guerra,,51508076561,,eduardo.guerra.1946@example.com,5509928261641,True
+1947,PF,Amanda Abreu,,63712982089,,amanda.abreu.1947@example.com,5537918605668,True
+1948,PF,Alexia Vieira,,47113354718,,alexia.vieira.1948@example.com,5516964795127,True
+1949,PF,Valentina Correia,,28890349093,,valentina.correia.1949@example.com,5524928535416,True
+1950,PJ,Barros - EI ME,Pimenta - EI,45612150000194,480870170,barros.ei.me.1950@example.com,5567915207710,True
+1951,PF,Laura Araújo,,21385877383,,laura.ara.jo.1951@example.com,5533968957967,True
+1952,PF,Srta. Laís Jesus,,71325248959,,srta.la.s.jesus.1952@example.com,5505911090070,True
+1953,PJ,Monteiro - EI Ltda,Alves,27352120000104,205025497,monteiro.ei.ltda.1953@example.com,55039920102975,True
+1954,PF,Olívia da Mata,,63386752780,,ol.via.da.mata.1954@example.com,55053996597442,True
+1955,PF,Sr. Matheus Ribeiro,,66406772610,,sr.matheus.ribeiro.1955@example.com,5542904164153,True
+1956,PF,Lavínia Aparecida,,76728574107,,lav.nia.aparecida.1956@example.com,5513937937669,True
+1957,PF,Melissa Garcia,,29286160631,,melissa.garcia.1957@example.com,5516908557174,True
+1958,PJ,Fonseca - EI Ltda,Pimenta,86977552000170,688144990,fonseca.ei.ltda.1958@example.com,5503958624057,True
+1959,PF,João Farias,,87155950050,,jo.o.farias.1959@example.com,5599998632453,True
+1960,PF,Sr. Pedro Lucas Sousa,,76890805968,,sr.pedro.lucas.sousa.1960@example.com,5511911085184,True
+1961,PF,Mariana Moraes,,42879016142,,mariana.moraes.1961example.com,5585993213596,True
+1962,PF,Theodoro Rios,,41491883197,,theodoro.rios.1962@example.com,5507934800226,True
+1963,PF,Eduardo Ferreira,,2817513746,,eduardo.ferreira.1963@example.com,5572905548298,True
+1964,PF,Bella Silva,,44302913908,,bella.silva.1964@example.com,5521947498474,True
+1965,PF,Alana da Rocha,,38505305582,,alana.da.rocha.1965@example.com,55093971784721,True
+1966,PJ,Lopes ME,Marques S.A.,55951255000121,758045292,lopes.me.1966@example.com,5576998897988,True
+1967,PJ,Melo ME,da Rocha,4376214000118,458474134,melo.me.1967@example.com,5519929360596,True
+1968,PJ,Sampaio Marques Ltda.,Sampaio - EI,91600611000126,346389012,sampaio.marques.ltda.1968@example.com,5584947936561,True
+1969,PF,Luiz Miguel Jesus,,44373922217,,luiz.miguel.jesus.1969@example.com,5562923070659,True
+1970,PJ,Moreira ME,Dias S.A.,1162833000111,160227433,moreira.me.1970@example.com,5537927186244,True
+1971,PJ,Fogaça ME,Correia,35746464000126,112138078,foga.a.me.1971@example.com,55087980661545,True
+1972,PF,Sophia Farias,,50987381806,,sophia.farias.1972@example.com,5566935654180,True
+1973,PF,Yuri Rodrigues,,24599012327,,yuri.rodrigues.1973@example.com,5525921288669,True
+1974,PJ,Dias - EI S.A.,,94065405000151,469984288,dias.ei.s.a.1974@example.com,55084970520313,True
+1975,PJ,Pimenta Nogueira - EI Ltda,,14057379000180,712320366,pimenta.nogueira.ei.ltda.1975@example.com,5564927786268,True
+1976,PJ,Cirino EIRELI,Casa Grande,62443335000131,876032087,cirino.eireli.1976@example.com,55083947106283,True
+1977,PF,João Felipe Porto,,83752795107,,jo.o.felipe.porto.1977@example.com,5557935623277,True
+1978,PF,Ana Carolina Araújo,,9952362323,,ana.carolina.ara.jo.1978@example.com,5553958597302,True
+1979,PJ,Câmara ME,Cavalcante Novaes Ltda.,81929083000108,704240255,c.mara.me.1979@example.com,5546989397704,True
+1980,PF,Cauã Leão,,4933488835,,cau.le.o.1980@example.com,55088915964673,True
+1981,PF,Maria Júlia Viana,,53358819094,,maria.j.lia.viana.1981@example.com,5569904484673,True
+1982,PF,Francisco Silva,,99392351194,,francisco.silva.1982@example.com,55091924895587,True
+1983,PF,Sra. Ana Albuquerque,,58714926571,,sra.ana.albuquerque.1983@example.com,5523994599426,True
+1984,PF,Arthur Gabriel Mendonça,,14108491980,,arthur.gabriel.mendon.a.1984@example.com,5508995301203,True
+1985,PJ,Oliveira Moraes S/A ME,da Costa e Filhos,31581276000134,871628335,oliveira.moraes.s.a.me.1985@example.com,5589905810801,True
+1986,PJ,Cunha ME,Marques da Mota S.A.,39300065000198,567027728,cunha.me.1986@example.com,55015965969579,True
+1987,PF,Laís Fogaça,,58426746020,,la.s.foga.a.1987@example.com,55059959955055,False
+1988,PJ,Sales Pires - ME,,48383550000163,291714854,sales.pires.me.1988@example.com,5583995252520,True
+1989,PJ,Rios EIRELI,Vasconcelos Teixeira S/A,41938218000179,651192145,rios.eireli.1989@example.com,55044952030276,False
+1990,PF,Julia Martins,,93857983086,,julia.martins.1990@example.com,5508982403532,True
+1991,PJ,Viana S.A.,da Paz,98465911000199,029363409,viana.s.a.1991@example.com,5512918052579,True
+1992,PJ,Pacheco ME,,31259706000104,900479412,pacheco.me.1992@example.com,5525946018911,True
+1993,PJ,João da Silva,da Luz Montenegro e Filhos,71144208000122,571339962,da.rosa.sousa.e.filhos.s.a.1993@example.com,55068961273421,True
+1994,PJ,Cassiano S/A EIRELI,Pinto Borges e Filhos,71446903000149,381301494,cassiano.s.a.eireli.1994@example.com,5502998908881,True
+1995,PF,Maria Helena Rocha,,7385470343,,maria.helena.rocha.1995@example.com,5545923191990,True
+1996,PJ,Azevedo Rios S.A.,,4862455000177,356831723,azevedo.rios.s.a.1996@example.com,5567904171038,True
+1997,PJ,Pinto S/A S.A.,,69626624000115,874050133,pinto.s.a.s.a.1997@example.com,55003944956071,True
+1998,PJ,Moreira S.A.,Vargas,27776125000164,650775257,moreira.s.a.1998@example.com,55031963160378,True
+1999,PF,Srta. Ayla Rezende,,44626684998,,srta.ayla.rezende.1999@example.com,5557903996306,True
+2000,PF,Nicole Almeida,,48730094135,,nicole.almeida.2000@example.com,5559994696693,True
