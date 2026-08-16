@@ -1,0 +1,16 @@
+employee_id,full_name,cpf,email,role,primary_location_id,hire_date,termination_date,is_active
+1,Maria Luísa Rodrigues,42679135105,maria.lu.sa.rodrigues.1@lhnautical.com.br,manager,5,2022-03-04,,True
+2,Nicolas Ferreira,91124322450,nicolas.ferreira.2@lhnautical.com.br,stockist,4,2025-02-19,,True
+3,Renan da Paz,54731453534,renan.da.paz.3@lhnautical.com.br,stockist,4,2022-02-24,2023-07-10,False
+4,Juliana Fernandes,63002135283,juliana.fernandes.4@lhnautical.com.br,manager,2,2022-11-29,,True
+5,Luiza Macedo,76501038545,luiza.macedo.5@lhnautical.com.br,buyer,1,2025-10-24,,True
+6,Paulo Melo,59184273925,paulo.melo.6@lhnautical.com.br,salesperson,6,2024-04-08,,True
+7,Maria Cecília Rocha,55077595968,maria.cec.lia.rocha.7@lhnautical.com.br,manager,3,2023-05-06,,True
+8,Caio Vargas,65576431502,caio.vargas.8@lhnautical.com.br,admin,6,2021-06-08,2022-08-11,False
+9, Sophia Castro,11540486753,sophia.castro.9@lhnautical.com.br,salesperson,5,2021-11-03,,True
+10,Bella Machado,63263219804,bella.machado.10@lhnautical.com.br,salesperson,1,2024-03-22,,True
+11,Júlia Monteiro,67566577980,j.lia.monteiro.11@lhnautical.com.br,stockist,3,2023-09-04,,True
+12,Marcela Abreu,31905356986,marcela.abreu.12@lhnautical.com.br,admin,5,2022-02-28,,True
+13,Gael das Neves,74800797969,gael.das.neves.13@lhnautical.com.br,buyer,5,2023-12-02,,True
+14,Sr. Dom Araújo,46757440873,sr.dom.ara.jo.14@lhnautical.com.br,manager,3,2025-11-16,,True
+15,Pedro Henrique Cavalcanti,70527543985,pedro.henrique.cavalcanti.15@lhnautical.com.br,manager,6,2025-04-06,,True

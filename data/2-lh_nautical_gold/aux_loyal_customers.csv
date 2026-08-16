@@ -1,0 +1,11 @@
+customer_id,paid_orders,paid_revenue,average_ticket,category_diversity,person_type,legal_name,trade_name,tax_id,state_registration,email,phone,is_active,ranking_position
+1527,15,699704.65,46646.98,13,PF,Caio Farias,,8581402500,,caio.farias.1527@example.com,5554923324165,True,1
+1581,12,534022.77,44501.9,14,PJ,Novaes Andrade S.A.,Ramos - EI,14481123000104,893063578,novaes.andrade.s.a.1581@example.com,5537989121397,True,2
+1558,11,487829.66,44348.15,13,PF,Natália Borges,,70316451070,,nat.lia.borges.1558@example.com,5567906833539,True,3
+262,12,525854.13,43821.18,14,PJ,Castro Cirino S.A.,Correia,24305515000168,129087814,castro.cirino.s.a.262@example.com,5541939755231,True,4
+22,18,777241.65,43180.09,14,PF,Isadora Rios,,98235269740,,isadora.rios.22@example.com,5558969232260,True,5
+1470,21,901262.24,42917.25,14,PF,Bárbara Albuquerque,,19017412577,,b.rbara.albuquerque.1470@example.com,5590991203025,True,6
+1113,15,642404.6,42826.97,14,PF,Melissa Albuquerque,,55094818970,,melissa.albuquerque.1113@example.com,5542962037087,True,7
+1116,12,502685.6,41890.47,13,PF,Thomas Alves,,75163536800,,thomas.alves.1116@example.com,5586944822175,True,8
+1301,14,586202.8,41871.63,13,PJ,Correia Campos - EI S.A.,,77393395000164,361133892,correia.campos.ei.s.a.1301@example.com,5508978828152,True,9
+1814,20,835340.43,41767.02,14,PJ,Viana ME,Andrade,86146861000106,977779570,viana.me.1814@example.com,5599962637792,False,10

@@ -1,0 +1,6 @@
+rank,reference_product_id,reference_product_name,recommended_product_id,recommended_product_name,similarity
+1,180,Motor de Popa 1949,75,Vela Mestra 1913,0.20458585610396496
+2,180,Motor de Popa 1949,295,Cabo Náutico 2105,0.18980931658804073
+3,180,Motor de Popa 1949,1,Motor de Popa 6014,0.187209066130569
+4,180,Motor de Popa 1949,342,asdf,0.1853906076449235
+5,180,Motor de Popa 1949,242,Âncora Bruce 7665,0.1853248812277735
